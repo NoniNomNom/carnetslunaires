@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Bibliophile on My New Hugo Site</title>
+    <link>http://localhost:1313/tags/bibliophile/</link>
+    <description>Recent content in Bibliophile on My New Hugo Site</description>
+    <generator>Hugo -- 0.140.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 Feb 2024 19:33:05 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/bibliophile/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Custom Styles</title>
+      <link>http://localhost:1313/posts/wp-global-styles-pub%2fbibliophile/</link>
+      <pubDate>Mon, 05 Feb 2024 19:33:05 +0000</pubDate>
+      <guid>http://localhost:1313/posts/wp-global-styles-pub%2fbibliophile/</guid>
+      <description>&lt;p&gt;{&amp;ldquo;version&amp;rdquo;:2,&amp;ldquo;isGlobalStylesUserThemeJSON&amp;rdquo;:true}&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

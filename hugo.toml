@@ -1,0 +1,15 @@
+baseURL = 'https://example.org/'
+languageCode = 'fr-be'
+title = 'Carnets lunaires'
+theme = 'PaperMod'
+[taxonomies]
+  tag = 'tags'
+[menus]
+  [[menus.main]]
+    name = 'Home'
+    pageRef = '/'
+    weight = 10
+  [[menus.main]]
+    name = 'Tags'
+    pageRef = '/tags/'
+    weight = 20
