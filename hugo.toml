@@ -6,13 +6,13 @@ theme = 'PaperMod'
   tag = 'tags'
 [menus]
   [[menus.main]]
-    name = 'Home'
-    pageRef = '/'
-    weight = 10
+    name = 'Recherche'
+    pageRef = '/search'
+    weight = 1
   [[menus.main]]
     name = 'Tags'
-    pageRef = '/tags/'
-    weight = 20
+    pageRef = '/tags'
+    weight = 2
 [security]
   enableInlineShortcodes = true
 [markup]
@@ -29,3 +29,16 @@ target = 'static'
 [[module.mounts]]
 source = 'images'
 target = 'static/images'
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+[params.fuseOpts]
+isCaseSensitive = false
+shouldSort = true
+location = 0
+distance = 1000
+threshold = 0.4
+minMatchCharLength = 0
+# limit = 10 # refer: https://www.fusejs.io/api/methods.html#search
+keys = ["title", "permalink", "summary", "content"]

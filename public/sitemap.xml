@@ -619,5 +619,7 @@
   </url><url>
     <loc>http://localhost:1313/posts/un-livre-par-jour-pendant-cinq-jours/</loc>
     <lastmod>2020-04-30T10:49:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/archive/</loc>
   </url>
 </urlset>
