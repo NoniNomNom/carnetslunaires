@@ -1,0 +1,5 @@
+{{- $Img := (.Get "url") }}
+{{- $width := (.Get "width") }}
+{{- $alt := (.Get "alt") }}
+
+<img class="in-text" width="{{ $width}}" src="{{$Img}}" alt="{{$alt}}" style="float: right; margin-left: 10px;" >
