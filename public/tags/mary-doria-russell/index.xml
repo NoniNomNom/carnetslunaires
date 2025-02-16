@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mary Doria Russell on Carnets lunaires</title>
     <link>http://localhost:1313/tags/mary-doria-russell/</link>
     <description>Recent content in Mary Doria Russell on Carnets lunaires</description>
-    <generator>Hugo -- 0.140.2</generator>
+    <generator>Hugo</generator>
     <language>fr-be</language>
     <lastBuildDate>Tue, 17 Aug 2021 19:42:53 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/mary-doria-russell/index.xml" rel="self" type="application/rss+xml" />
@@ -13,8 +13,7 @@
       <link>http://localhost:1313/posts/le-moineau-de-dieu-mary-doria-russell-1996/</link>
       <pubDate>Tue, 17 Aug 2021 19:42:53 +0000</pubDate>
       <guid>http://localhost:1313/posts/le-moineau-de-dieu-mary-doria-russell-1996/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://carnetslunaires.wordpress.com/wp-content/uploads/2021/08/moineau-de-dieu.jpg?w=351&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Certains romans, même en version numérique, semblent avoir des pages jaunies par le temps. &lt;em&gt;Le Moineau de Dieu&lt;/em&gt;, de l&amp;rsquo;Américaine Mary Doria Russell, n&amp;rsquo;est pourtant pas &lt;em&gt;si&lt;/em&gt; vieux. Sorti en 1996, sept ans après &lt;em&gt;Hypérion&lt;/em&gt; (on y reviendra), il a par la même occasion reçu quelques prix littéraires liés à l&amp;rsquo;imaginaire (notamment le Prix Arthur C. Clarke en 1998). Dès le titre, nous sommes prévenus : il est ici beaucoup question de religion (catholique essentiellement) - allergiques s&amp;rsquo;abstenir. Et pour cause : après avoir capté, depuis le radiotélescope d&amp;rsquo;Arecibo, ce qui ressemble fort à des chants extraterrestres, la Compagnie de Jésus décide de mettre en place une expédition spatiale afin d&amp;rsquo;aller les rencontrer. Là où ça se corse, c&amp;rsquo;est que nous suivons en parallèle l&amp;rsquo;épilogue de l&amp;rsquo;aventure, à savoir la réadaptation du prêtre Emilio Sandoz, seul survivant, revenu bizarrement mutilé et psychologiquement ébranlé. Un sort funeste qui contraste avec l&amp;rsquo;optimisme, voire la naïveté, qui entoure l&amp;rsquo;organisation du projet.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carnetslunaires.wordpress.com/wp-content/uploads/2021/08/moineau-de-dieu.jpg?w=351&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Certains romans, même en version numérique, semblent avoir des pages jaunies par le temps. &lt;em&gt;Le Moineau de Dieu&lt;/em&gt;, de l&amp;rsquo;Américaine Mary Doria Russell, n&amp;rsquo;est pourtant pas &lt;em&gt;si&lt;/em&gt; vieux. Sorti en 1996, sept ans après &lt;em&gt;Hypérion&lt;/em&gt; (on y reviendra), il a par la même occasion reçu quelques prix littéraires liés à l&amp;rsquo;imaginaire (notamment le Prix Arthur C. Clarke en 1998). Dès le titre, nous sommes prévenus : il est ici beaucoup question de religion (catholique essentiellement) - allergiques s&amp;rsquo;abstenir. Et pour cause : après avoir capté, depuis le radiotélescope d&amp;rsquo;Arecibo, ce qui ressemble fort à des chants extraterrestres, la Compagnie de Jésus décide de mettre en place une expédition spatiale afin d&amp;rsquo;aller les rencontrer. Là où ça se corse, c&amp;rsquo;est que nous suivons en parallèle l&amp;rsquo;épilogue de l&amp;rsquo;aventure, à savoir la réadaptation du prêtre Emilio Sandoz, seul survivant, revenu bizarrement mutilé et psychologiquement ébranlé. Un sort funeste qui contraste avec l&amp;rsquo;optimisme, voire la naïveté, qui entoure l&amp;rsquo;organisation du projet.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

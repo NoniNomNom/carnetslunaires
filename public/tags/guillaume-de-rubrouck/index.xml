@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Guillaume De Rubrouck on Carnets lunaires</title>
     <link>http://localhost:1313/tags/guillaume-de-rubrouck/</link>
     <description>Recent content in Guillaume De Rubrouck on Carnets lunaires</description>
-    <generator>Hugo -- 0.140.2</generator>
+    <generator>Hugo</generator>
     <language>fr-be</language>
     <lastBuildDate>Tue, 18 Jan 2022 11:13:21 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/guillaume-de-rubrouck/index.xml" rel="self" type="application/rss+xml" />
@@ -13,8 +13,7 @@
       <link>http://localhost:1313/posts/voyage-dans-lempire-mongol-guillaume-de-rubrouck/</link>
       <pubDate>Tue, 18 Jan 2022 11:13:21 +0000</pubDate>
       <guid>http://localhost:1313/posts/voyage-dans-lempire-mongol-guillaume-de-rubrouck/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://carnetslunaires.wordpress.com/wp-content/uploads/2022/01/voyage-dans-l-empire-mongol.jpg?w=400&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Un moine est envoyé par son roi aux confins d&amp;rsquo;un empire lointain et menaçant, avec pour mission d&amp;rsquo;ouvrir un dialogue, d&amp;rsquo;observer et de raconter. Au cours de son voyage, il traverse de vastes plaines gelées, découvre un monde qui lui est inconnu et une culture complètement différente, non sans pester constamment contre son très peu fiable interprète. Voilà une histoire qu&amp;rsquo;on imaginerait bien sous forme de trilogie au rayon fantasy de la bibliothèque du coin. Sauf que là, il y a un hic : l&amp;rsquo;histoire est vraie et se passe dans notre XIIIème siècle. Entre 1253 et 1255, le moine franciscain Guillaume de Rubrouck a en effet voyagé jusque Qaraqorum, à l&amp;rsquo;époque capitale de l&amp;rsquo;Empire Mongol, avant de raconter son périple dans une lettre envoyée au roi de France Louis IX. C&amp;rsquo;est déjà quelque chose de peu commun, mais si cette histoire sort de l&amp;rsquo;ordinaire, c&amp;rsquo;est surtout grâce à la personnalité de son auteur.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carnetslunaires.wordpress.com/wp-content/uploads/2022/01/voyage-dans-l-empire-mongol.jpg?w=400&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Un moine est envoyé par son roi aux confins d&amp;rsquo;un empire lointain et menaçant, avec pour mission d&amp;rsquo;ouvrir un dialogue, d&amp;rsquo;observer et de raconter. Au cours de son voyage, il traverse de vastes plaines gelées, découvre un monde qui lui est inconnu et une culture complètement différente, non sans pester constamment contre son très peu fiable interprète. Voilà une histoire qu&amp;rsquo;on imaginerait bien sous forme de trilogie au rayon fantasy de la bibliothèque du coin. Sauf que là, il y a un hic : l&amp;rsquo;histoire est vraie et se passe dans notre XIIIème siècle. Entre 1253 et 1255, le moine franciscain Guillaume de Rubrouck a en effet voyagé jusque Qaraqorum, à l&amp;rsquo;époque capitale de l&amp;rsquo;Empire Mongol, avant de raconter son périple dans une lettre envoyée au roi de France Louis IX. C&amp;rsquo;est déjà quelque chose de peu commun, mais si cette histoire sort de l&amp;rsquo;ordinaire, c&amp;rsquo;est surtout grâce à la personnalité de son auteur.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

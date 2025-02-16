@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mark Fisher on Carnets lunaires</title>
     <link>http://localhost:1313/tags/mark-fisher/</link>
     <description>Recent content in Mark Fisher on Carnets lunaires</description>
-    <generator>Hugo -- 0.140.2</generator>
+    <generator>Hugo</generator>
     <language>fr-be</language>
     <lastBuildDate>Wed, 26 Jan 2022 09:42:27 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/mark-fisher/index.xml" rel="self" type="application/rss+xml" />
@@ -13,8 +13,7 @@
       <link>http://localhost:1313/posts/spectres-de-ma-vie-mark-fisher/</link>
       <pubDate>Wed, 26 Jan 2022 09:42:27 +0000</pubDate>
       <guid>http://localhost:1313/posts/spectres-de-ma-vie-mark-fisher/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://carnetslunaires.wordpress.com/wp-content/uploads/2022/01/spectres-de-ma-vie.jpg?w=683&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Le hasard a voulu qu&amp;rsquo;après &lt;a href=&#34;https://carnetslunaires.wordpress.com/2022/01/23/84k-claire-north/&#34;&gt;la dystopie &lt;em&gt;84K,&lt;/em&gt; de Claire North&lt;/a&gt;, racontant le cauchemar d&amp;rsquo;un Royaume-Uni privatisé jusqu&amp;rsquo;à l&amp;rsquo;os, je me plonge dans &lt;em&gt;Spectres de ma vie&lt;/em&gt;, du philosophe britannique Mark Fisher, également connu sous le nom de k-punk. Or il m&amp;rsquo;est impossible de ne pas voir de liens entre les deux ouvrages, comme si j&amp;rsquo;avais inconsciemment voulu continuer à me saper le moral. Sous-titré &lt;em&gt;Écrits sur la dépression, l’hantologie et la futurs perdus&lt;/em&gt;, je me doutais pourtant que ce recueil de textes n&amp;rsquo;allait pas être un grand moment de rigolade. Qu&amp;rsquo;on ne s&amp;rsquo;y méprenne pas : j&amp;rsquo;ai trouvé ça passionnant. Par contre, il m&amp;rsquo;a plongé dans un état entre l&amp;rsquo;obsession et le désespoir. Je ne peux d&amp;rsquo;ailleurs pas prétendre avoir tout compris et serais bien incapable d&amp;rsquo;en retranscrire ici le propos, de peur de le trahir. Se contenter de dire qu&amp;rsquo;il s&amp;rsquo;agit d&amp;rsquo;un ouvrage foncièrement anticapitaliste ne nous emmène malheureusement pas très loin, mais c&amp;rsquo;est un début.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carnetslunaires.wordpress.com/wp-content/uploads/2022/01/spectres-de-ma-vie.jpg?w=683&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Le hasard a voulu qu&amp;rsquo;après &lt;a href=&#34;https://carnetslunaires.wordpress.com/2022/01/23/84k-claire-north/&#34;&gt;la dystopie &lt;em&gt;84K,&lt;/em&gt; de Claire North&lt;/a&gt;, racontant le cauchemar d&amp;rsquo;un Royaume-Uni privatisé jusqu&amp;rsquo;à l&amp;rsquo;os, je me plonge dans &lt;em&gt;Spectres de ma vie&lt;/em&gt;, du philosophe britannique Mark Fisher, également connu sous le nom de k-punk. Or il m&amp;rsquo;est impossible de ne pas voir de liens entre les deux ouvrages, comme si j&amp;rsquo;avais inconsciemment voulu continuer à me saper le moral. Sous-titré &lt;em&gt;Écrits sur la dépression, l’hantologie et la futurs perdus&lt;/em&gt;, je me doutais pourtant que ce recueil de textes n&amp;rsquo;allait pas être un grand moment de rigolade. Qu&amp;rsquo;on ne s&amp;rsquo;y méprenne pas : j&amp;rsquo;ai trouvé ça passionnant. Par contre, il m&amp;rsquo;a plongé dans un état entre l&amp;rsquo;obsession et le désespoir. Je ne peux d&amp;rsquo;ailleurs pas prétendre avoir tout compris et serais bien incapable d&amp;rsquo;en retranscrire ici le propos, de peur de le trahir. Se contenter de dire qu&amp;rsquo;il s&amp;rsquo;agit d&amp;rsquo;un ouvrage foncièrement anticapitaliste ne nous emmène malheureusement pas très loin, mais c&amp;rsquo;est un début.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Laurent Gaudé on Carnets lunaires</title>
     <link>http://localhost:1313/tags/laurent-gaud%C3%A9/</link>
     <description>Recent content in Laurent Gaudé on Carnets lunaires</description>
-    <generator>Hugo -- 0.140.2</generator>
+    <generator>Hugo</generator>
     <language>fr-be</language>
     <lastBuildDate>Sun, 05 Mar 2023 11:39:50 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/laurent-gaud%C3%A9/index.xml" rel="self" type="application/rss+xml" />
@@ -13,8 +13,7 @@
       <link>http://localhost:1313/posts/la-porte-des-enfers-laurent-gaude/</link>
       <pubDate>Sun, 05 Mar 2023 11:39:50 +0000</pubDate>
       <guid>http://localhost:1313/posts/la-porte-des-enfers-laurent-gaude/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://carnetslunaires.wordpress.com/wp-content/uploads/2023/02/portedesenfers.jpg?w=326&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Il y a longtemps que je lorgnais sur Laurent Gaudé, non pas en raison de ses prix littéraires, mais parce que c&amp;rsquo;est le frère d&amp;rsquo;Ivan, l&amp;rsquo;estimé cofondateur du magazine &lt;em&gt;Canard PC&lt;/em&gt;. Lorsque la journaliste Julie Le Baron (nouvelle rédactrice en chef - bravo - du magazine en question) a dit le plus grand bien de &lt;em&gt;La Porte des Enfers&lt;/em&gt;, je me suis dit que je commencerais par celui-là, intrigué que j&amp;rsquo;étais par son côté fantastique et surtout parce qu&amp;rsquo;il en fallait bien un.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carnetslunaires.wordpress.com/wp-content/uploads/2023/02/portedesenfers.jpg?w=326&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Il y a longtemps que je lorgnais sur Laurent Gaudé, non pas en raison de ses prix littéraires, mais parce que c&amp;rsquo;est le frère d&amp;rsquo;Ivan, l&amp;rsquo;estimé cofondateur du magazine &lt;em&gt;Canard PC&lt;/em&gt;. Lorsque la journaliste Julie Le Baron (nouvelle rédactrice en chef - bravo - du magazine en question) a dit le plus grand bien de &lt;em&gt;La Porte des Enfers&lt;/em&gt;, je me suis dit que je commencerais par celui-là, intrigué que j&amp;rsquo;étais par son côté fantastique et surtout parce qu&amp;rsquo;il en fallait bien un.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

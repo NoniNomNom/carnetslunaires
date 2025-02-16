@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jorge Luis Borges on Carnets lunaires</title>
     <link>http://localhost:1313/tags/jorge-luis-borges/</link>
     <description>Recent content in Jorge Luis Borges on Carnets lunaires</description>
-    <generator>Hugo -- 0.140.2</generator>
+    <generator>Hugo</generator>
     <language>fr-be</language>
     <lastBuildDate>Sat, 01 Jul 2023 11:45:53 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/jorge-luis-borges/index.xml" rel="self" type="application/rss+xml" />
@@ -13,8 +13,7 @@
       <link>http://localhost:1313/posts/evaristo-carriego-jorge-luis-borges/</link>
       <pubDate>Sat, 01 Jul 2023 11:45:53 +0000</pubDate>
       <guid>http://localhost:1313/posts/evaristo-carriego-jorge-luis-borges/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://carnetslunaires.wordpress.com/wp-content/uploads/2023/06/evaristocarriego.jpg?w=616&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Vu ses pages toutes brunies par les années, j&amp;rsquo;ai dû trouver ce petit livre il y a dix ou quinze ans dans une bouquinerie, pour ne jamais l&amp;rsquo;ouvrir jusqu&amp;rsquo;à cette année. De Borges, je connaissais déjà &lt;em&gt;L&amp;rsquo;Aleph&lt;/em&gt; et &lt;em&gt;Fictions&lt;/em&gt;, deux recueils de nouvelles étranges, tirant vers le fantastique, l&amp;rsquo;imaginaire ou l&amp;rsquo;expérimental, parus dans les années 1940. Une de celles qui m&amp;rsquo;a le plus marqué est probablement &lt;em&gt;Pierre Ménard, auteur du Quichotte&lt;/em&gt; dans lequel l&amp;rsquo;auteur argentin esquisse une biographie pleine d&amp;rsquo;érudition d&amp;rsquo;un auteur français des années 1930 qui n&amp;rsquo;a jamais existé.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carnetslunaires.wordpress.com/wp-content/uploads/2023/06/evaristocarriego.jpg?w=616&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Vu ses pages toutes brunies par les années, j&amp;rsquo;ai dû trouver ce petit livre il y a dix ou quinze ans dans une bouquinerie, pour ne jamais l&amp;rsquo;ouvrir jusqu&amp;rsquo;à cette année. De Borges, je connaissais déjà &lt;em&gt;L&amp;rsquo;Aleph&lt;/em&gt; et &lt;em&gt;Fictions&lt;/em&gt;, deux recueils de nouvelles étranges, tirant vers le fantastique, l&amp;rsquo;imaginaire ou l&amp;rsquo;expérimental, parus dans les années 1940. Une de celles qui m&amp;rsquo;a le plus marqué est probablement &lt;em&gt;Pierre Ménard, auteur du Quichotte&lt;/em&gt; dans lequel l&amp;rsquo;auteur argentin esquisse une biographie pleine d&amp;rsquo;érudition d&amp;rsquo;un auteur français des années 1930 qui n&amp;rsquo;a jamais existé.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

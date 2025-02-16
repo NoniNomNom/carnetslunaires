@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chroniques Du Radch on Carnets lunaires</title>
     <link>http://localhost:1313/tags/chroniques-du-radch/</link>
     <description>Recent content in Chroniques Du Radch on Carnets lunaires</description>
-    <generator>Hugo -- 0.140.2</generator>
+    <generator>Hugo</generator>
     <language>fr-be</language>
     <lastBuildDate>Sun, 02 Apr 2023 14:26:43 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/chroniques-du-radch/index.xml" rel="self" type="application/rss+xml" />
@@ -13,8 +13,7 @@
       <link>http://localhost:1313/posts/la-justice-de-lancillaire-ann-leckie/</link>
       <pubDate>Sun, 02 Apr 2023 14:26:43 +0000</pubDate>
       <guid>http://localhost:1313/posts/la-justice-de-lancillaire-ann-leckie/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://carnetslunaires.wordpress.com/wp-content/uploads/2023/03/justice-ancillaire.jpg?w=282&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Dans ma quête apparente de lire l&amp;rsquo;entièreté des prix Hugo (du meilleur roman) de la décennie 2010, voici le millésime 2014 : &lt;em&gt;La Justice de l&amp;rsquo;ancillaire&lt;/em&gt;, premier tome de la trilogie des &lt;em&gt;Chroniques du Radch&lt;/em&gt;, par Ann Leckie. A part le fait qu&amp;rsquo;on y retrouve quelques poncifs du space opera, comme un vaste empire galactique et des consciences artificielles, une de ses principales particularités est l&amp;rsquo;impossibilité d&amp;rsquo;y connaître avec certitude le genre des personnages (tout simplement car, dans cet univers, cela n&amp;rsquo;a généralement pas d&amp;rsquo;importance). Et ça, c&amp;rsquo;est très intéressant.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carnetslunaires.wordpress.com/wp-content/uploads/2023/03/justice-ancillaire.jpg?w=282&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Dans ma quête apparente de lire l&amp;rsquo;entièreté des prix Hugo (du meilleur roman) de la décennie 2010, voici le millésime 2014 : &lt;em&gt;La Justice de l&amp;rsquo;ancillaire&lt;/em&gt;, premier tome de la trilogie des &lt;em&gt;Chroniques du Radch&lt;/em&gt;, par Ann Leckie. A part le fait qu&amp;rsquo;on y retrouve quelques poncifs du space opera, comme un vaste empire galactique et des consciences artificielles, une de ses principales particularités est l&amp;rsquo;impossibilité d&amp;rsquo;y connaître avec certitude le genre des personnages (tout simplement car, dans cet univers, cela n&amp;rsquo;a généralement pas d&amp;rsquo;importance). Et ça, c&amp;rsquo;est très intéressant.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

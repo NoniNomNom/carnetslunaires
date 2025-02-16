@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Paco Ignacio Taibo II on Carnets lunaires</title>
     <link>http://localhost:1313/tags/paco-ignacio-taibo-ii/</link>
     <description>Recent content in Paco Ignacio Taibo II on Carnets lunaires</description>
-    <generator>Hugo -- 0.140.2</generator>
+    <generator>Hugo</generator>
     <language>fr-be</language>
     <lastBuildDate>Thu, 01 Jul 2021 20:10:53 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/paco-ignacio-taibo-ii/index.xml" rel="self" type="application/rss+xml" />
@@ -13,8 +13,7 @@
       <link>http://localhost:1313/posts/en-juin-un-polar-et-le-reste/</link>
       <pubDate>Thu, 01 Jul 2021 20:10:53 +0000</pubDate>
       <guid>http://localhost:1313/posts/en-juin-un-polar-et-le-reste/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://carnetslunaires.wordpress.com/wp-content/uploads/2021/06/la-vie-meme.jpg?w=323&#34;&gt;&lt;/p&gt;
-&lt;p&gt;J&amp;rsquo;ai célébré la première vague de chaleur de cet été cette fin de printemps par un polar mexicain, &lt;em&gt;La vie même&lt;/em&gt;, signé Paco Ignacio Taibo II. Un roman sympathique dans lequel un chef de la police auteur de romans policiers s&amp;rsquo;emploie au moins autant à résoudre le meurtre d&amp;rsquo;une Américaine, qu&amp;rsquo;à garder vivante la flamme de la gauche à Santa Ana, &amp;ldquo;ville rouge&amp;rdquo;. Avec l&amp;rsquo;aide de ses adjoints et de divers responsables aux méthodes parfois originales, il fait face comme il peut aux assauts du parti gouvernemental, le PRI (qui, comme je l&amp;rsquo;ai appris pour l&amp;rsquo;occasion, était hégémonique au Mexique dans les années 80). Comme l&amp;rsquo;écrit lui-même le protagoniste dans ses notes : &amp;ldquo;&lt;em&gt;Il s&amp;rsquo;agit d&amp;rsquo;un roman avec de foutus crimes, mais l&amp;rsquo;important ce ne sont pas les crimes, c&amp;rsquo;est (comme dans tout roman policier mexicain) le contexte.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://carnetslunaires.wordpress.com/wp-content/uploads/2021/06/la-vie-meme.jpg?w=323&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;J&amp;rsquo;ai célébré la première vague de chaleur de cet été cette fin de printemps par un polar mexicain, &lt;em&gt;La vie même&lt;/em&gt;, signé Paco Ignacio Taibo II. Un roman sympathique dans lequel un chef de la police auteur de romans policiers s&amp;rsquo;emploie au moins autant à résoudre le meurtre d&amp;rsquo;une Américaine, qu&amp;rsquo;à garder vivante la flamme de la gauche à Santa Ana, &amp;ldquo;ville rouge&amp;rdquo;. Avec l&amp;rsquo;aide de ses adjoints et de divers responsables aux méthodes parfois originales, il fait face comme il peut aux assauts du parti gouvernemental, le PRI (qui, comme je l&amp;rsquo;ai appris pour l&amp;rsquo;occasion, était hégémonique au Mexique dans les années 80). Comme l&amp;rsquo;écrit lui-même le protagoniste dans ses notes : &amp;ldquo;&lt;em&gt;Il s&amp;rsquo;agit d&amp;rsquo;un roman avec de foutus crimes, mais l&amp;rsquo;important ce ne sont pas les crimes, c&amp;rsquo;est (comme dans tout roman policier mexicain) le contexte.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

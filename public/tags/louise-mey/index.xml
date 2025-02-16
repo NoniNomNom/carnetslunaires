@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Louise Mey on Carnets lunaires</title>
     <link>http://localhost:1313/tags/louise-mey/</link>
     <description>Recent content in Louise Mey on Carnets lunaires</description>
-    <generator>Hugo -- 0.140.2</generator>
+    <generator>Hugo</generator>
     <language>fr-be</language>
     <lastBuildDate>Mon, 28 Dec 2020 11:18:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/louise-mey/index.xml" rel="self" type="application/rss+xml" />
@@ -13,9 +13,7 @@
       <link>http://localhost:1313/posts/lectures-favorites-de-2020/</link>
       <pubDate>Mon, 28 Dec 2020 11:18:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/lectures-favorites-de-2020/</guid>
-      <description>&lt;p&gt;C’est l’heure des bouquins de l&amp;rsquo;année ! Je me suis imposé d’en choisir dix (en trichant juste un peu) et les ai classés arbitrairement pour le plaisir.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://carnetslunaires.wordpress.com/wp-content/uploads/2021/03/sept-redditions.jpg?w=700&#34;&gt;&lt;/p&gt;
-&lt;p&gt;1. &amp;ldquo;Trop semblable à l’éclair&amp;rdquo;, par Ada Palmer (2016) et &amp;ldquo;Sept redditions&amp;rdquo;, par Ada Palmer (2017) : double prix de l’amour inconditionnel pour les deux premiers tomes de la saga Terra Ignota, d’une inventivité folle et qui m’ont transportés comme rarement en cette année où c’était plutôt nécessaire.&lt;/p&gt;</description>
+      <description>&lt;p&gt;C’est l’heure des bouquins de l&amp;rsquo;année ! Je me suis imposé d’en choisir dix (en trichant juste un peu) et les ai classés arbitrairement pour le plaisir.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://carnetslunaires.wordpress.com/wp-content/uploads/2021/03/sept-redditions.jpg?w=700&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;1. &amp;ldquo;Trop semblable à l’éclair&amp;rdquo;, par Ada Palmer (2016) et &amp;ldquo;Sept redditions&amp;rdquo;, par Ada Palmer (2017) : double prix de l’amour inconditionnel pour les deux premiers tomes de la saga Terra Ignota, d’une inventivité folle et qui m’ont transportés comme rarement en cette année où c’était plutôt nécessaire.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
