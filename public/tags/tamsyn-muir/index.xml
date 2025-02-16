@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tamsyn Muir on Carnets lunaires</title>
     <link>http://localhost:1313/tags/tamsyn-muir/</link>
     <description>Recent content in Tamsyn Muir on Carnets lunaires</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- 0.143.1</generator>
     <language>fr-be</language>
     <lastBuildDate>Tue, 26 Dec 2023 14:25:20 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/tamsyn-muir/index.xml" rel="self" type="application/rss+xml" />
@@ -13,14 +13,15 @@
       <link>http://localhost:1313/posts/mes-petits-preferes-de-2023/</link>
       <pubDate>Tue, 26 Dec 2023 14:25:20 +0000</pubDate>
       <guid>http://localhost:1313/posts/mes-petits-preferes-de-2023/</guid>
-      <description>&lt;p&gt;Chaque fin d&amp;rsquo;année, j&amp;rsquo;aime revenir sur certains livres qui m&amp;rsquo;ont accompagné tout au long des douze derniers mois. Et comme d&amp;rsquo;habitude, leur année de parution n&amp;rsquo;a aucune importance.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://carnetslunaires.wordpress.com/wp-content/uploads/2023/05/aardtman.jpg?w=488&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://carnetslunaires.wordpress.com/2023/05/21/la-sequence-aardtman-saul-pandelakis/&#34;&gt;&lt;em&gt;La séquence Aardtman&lt;/em&gt;&lt;/a&gt;, de Saul Pandelakis. Magistral. Il faudra bien que ce roman soit traduit, qu&amp;rsquo;il quitte l&amp;rsquo;univers francophone pour s&amp;rsquo;offrir à d&amp;rsquo;autres horizons linguistiques. En attendant, je suis content d&amp;rsquo;avoir eu la chance de découvrir ce livre, qui représente tout ce que j&amp;rsquo;aime dans la science-fiction et dans la littérature en général.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Chaque fin d&amp;rsquo;année, j&amp;rsquo;aime revenir sur certains livres qui m&amp;rsquo;ont accompagné tout au long des douze derniers mois. Et comme d&amp;rsquo;habitude, leur année de parution n&amp;rsquo;a aucune importance.&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;https://carnetslunaires.wordpress.com/wp-content/uploads/2023/05/aardtman.jpg?w=488&#34;&gt;&lt;p&gt;&lt;a href=&#34;https://carnetslunaires.wordpress.com/2023/05/21/la-sequence-aardtman-saul-pandelakis/&#34;&gt;&lt;em&gt;La séquence Aardtman&lt;/em&gt;&lt;/a&gt;, de Saul Pandelakis. Magistral. Il faudra bien que ce roman soit traduit, qu&amp;rsquo;il quitte l&amp;rsquo;univers francophone pour s&amp;rsquo;offrir à d&amp;rsquo;autres horizons linguistiques. En attendant, je suis content d&amp;rsquo;avoir eu la chance de découvrir ce livre, qui représente tout ce que j&amp;rsquo;aime dans la science-fiction et dans la littérature en général.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Gideon la Neuvième - Tamsyn Muir</title>
       <link>http://localhost:1313/posts/gideon-la-neuvieme-tamsyn-muir/</link>
       <pubDate>Sun, 06 Aug 2023 10:36:10 +0000</pubDate>
       <guid>http://localhost:1313/posts/gideon-la-neuvieme-tamsyn-muir/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://carnetslunaires.wordpress.com/wp-content/uploads/2023/07/gideon.jpg?w=617&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;A certains égards, &lt;em&gt;Gideon la Neuvième&lt;/em&gt; pourrait être un jeu-vidéo plutôt cool. On y incarnerait une guerrière badass et/ou une nécromancienne dans un immense palais décrépit. Elles y résoudraient des énigmes et affronteraient d&amp;rsquo;étranges ennemis, le tout dans un univers de dark fantasy mâtiné de science-fiction. A un univers étrange et bien fichu, la Néo-zélandaise Tamsyn Muir s&amp;rsquo;est permis d&amp;rsquo;ajouter une bonne histoire, des personnages étonnants et, finalement, décidé d&amp;rsquo;en faire un roman (après tout, les amateurs de jeux ont déjà les &lt;em&gt;Dark Souls&lt;/em&gt;).&lt;/p&gt;</description>
+      <description>&lt;img loading=&#34;lazy&#34; src=&#34;https://carnetslunaires.wordpress.com/wp-content/uploads/2023/07/gideon.jpg?w=617&#34;&gt;&lt;p&gt;A certains égards, &lt;em&gt;Gideon la Neuvième&lt;/em&gt; pourrait être un jeu-vidéo plutôt cool. On y incarnerait une guerrière badass et/ou une nécromancienne dans un immense palais décrépit. Elles y résoudraient des énigmes et affronteraient d&amp;rsquo;étranges ennemis, le tout dans un univers de dark fantasy mâtiné de science-fiction. A un univers étrange et bien fichu, la Néo-zélandaise Tamsyn Muir s&amp;rsquo;est permis d&amp;rsquo;ajouter une bonne histoire, des personnages étonnants et, finalement, décidé d&amp;rsquo;en faire un roman (après tout, les amateurs de jeux ont déjà les &lt;em&gt;Dark Souls&lt;/em&gt;).&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

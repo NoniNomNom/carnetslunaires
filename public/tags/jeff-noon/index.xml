@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Jeff Noon on Carnets lunaires</title>
     <link>http://localhost:1313/tags/jeff-noon/</link>
     <description>Recent content in Jeff Noon on Carnets lunaires</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- 0.143.1</generator>
     <language>fr-be</language>
     <lastBuildDate>Fri, 16 Dec 2022 13:38:55 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/jeff-noon/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,7 @@
       <link>http://localhost:1313/posts/un-homme-dombres-jeff-noon/</link>
       <pubDate>Fri, 16 Dec 2022 13:38:55 +0000</pubDate>
       <guid>http://localhost:1313/posts/un-homme-dombres-jeff-noon/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://carnetslunaires.wordpress.com/wp-content/uploads/2022/12/un-homme-dombres.png?w=454&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Je conserve de très bons souvenirs de &lt;em&gt;Vurt&lt;/em&gt; et de &lt;em&gt;Pollen&lt;/em&gt;, livres de l&amp;rsquo;Anglais Jeff Noon sortis respectivement en 1993 et 1995. Ces lectures datant d&amp;rsquo;une petite dizaine d&amp;rsquo;années, je les mélange probablement un peu. Elles font néanmoins surgir des souvenirs d&amp;rsquo;une ville de Manchester hallucinée, de prises de drogues étranges et de récits à la fois fascinants et difficiles à suivre. Ainsi, quand j&amp;rsquo;ai entendu parler d&amp;rsquo;&lt;em&gt;Un homme d&amp;rsquo;ombre&lt;/em&gt;, paru en français aux éditions La Volte en 2021, mon intérêt s&amp;rsquo;est réveillé.&lt;/p&gt;</description>
+      <description>&lt;img loading=&#34;lazy&#34; src=&#34;https://carnetslunaires.wordpress.com/wp-content/uploads/2022/12/un-homme-dombres.png?w=454&#34;&gt;&lt;p&gt;Je conserve de très bons souvenirs de &lt;em&gt;Vurt&lt;/em&gt; et de &lt;em&gt;Pollen&lt;/em&gt;, livres de l&amp;rsquo;Anglais Jeff Noon sortis respectivement en 1993 et 1995. Ces lectures datant d&amp;rsquo;une petite dizaine d&amp;rsquo;années, je les mélange probablement un peu. Elles font néanmoins surgir des souvenirs d&amp;rsquo;une ville de Manchester hallucinée, de prises de drogues étranges et de récits à la fois fascinants et difficiles à suivre. Ainsi, quand j&amp;rsquo;ai entendu parler d&amp;rsquo;&lt;em&gt;Un homme d&amp;rsquo;ombre&lt;/em&gt;, paru en français aux éditions La Volte en 2021, mon intérêt s&amp;rsquo;est réveillé.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

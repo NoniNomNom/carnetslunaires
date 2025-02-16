@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Silvia Moreno-Garcia on Carnets lunaires</title>
     <link>http://localhost:1313/tags/silvia-moreno-garcia/</link>
     <description>Recent content in Silvia Moreno-Garcia on Carnets lunaires</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- 0.143.1</generator>
     <language>fr-be</language>
     <lastBuildDate>Sat, 21 Jan 2023 14:48:37 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/silvia-moreno-garcia/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,7 @@
       <link>http://localhost:1313/posts/mexican-gothic-silvia-moreno-garcia/</link>
       <pubDate>Sat, 21 Jan 2023 14:48:37 +0000</pubDate>
       <guid>http://localhost:1313/posts/mexican-gothic-silvia-moreno-garcia/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://carnetslunaires.wordpress.com/wp-content/uploads/2023/01/mexicangothic.jpg?w=272&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Mexican Gothic&lt;/em&gt; est un roman que j&amp;rsquo;ai offert à ma maman car j&amp;rsquo;en avais entendu beaucoup de bien et que rien de tel qu&amp;rsquo;un bon livre d&amp;rsquo;horreur pour raffermir les liens familiaux. Pas de chance : l&amp;rsquo;ouvrage n&amp;rsquo;a pas plu. Défait d&amp;rsquo;avoir causé l&amp;rsquo;ennui, je me suis procuré l&amp;rsquo;objet du crime pour l&amp;rsquo;inspecter de plus près, même s&amp;rsquo;il ne s&amp;rsquo;agit pas vraiment de mon genre de prédilection. Son autrice, la Mexicaine Silvia Moreno-Garcia, y déroule une histoire entre le fantastique et l&amp;rsquo;horreur dans les années 1950. Noémi, une jeune femme de Mexico, reçoit un appel à l&amp;rsquo;aide de sa cousine Catalina sous la forme d&amp;rsquo;une lettre bizarrement rédigée, et se voit dans l&amp;rsquo;obligation d&amp;rsquo;aller lui rendre visite pour s&amp;rsquo;assurer de sa bonne santé, notamment mentale. Destination : un manoir isolé à flanc de montagne, où Catalina vit avec son mari et la famille de ce dernier.&lt;/p&gt;</description>
+      <description>&lt;img loading=&#34;lazy&#34; src=&#34;https://carnetslunaires.wordpress.com/wp-content/uploads/2023/01/mexicangothic.jpg?w=272&#34;&gt;&lt;p&gt;&lt;em&gt;Mexican Gothic&lt;/em&gt; est un roman que j&amp;rsquo;ai offert à ma maman car j&amp;rsquo;en avais entendu beaucoup de bien et que rien de tel qu&amp;rsquo;un bon livre d&amp;rsquo;horreur pour raffermir les liens familiaux. Pas de chance : l&amp;rsquo;ouvrage n&amp;rsquo;a pas plu. Défait d&amp;rsquo;avoir causé l&amp;rsquo;ennui, je me suis procuré l&amp;rsquo;objet du crime pour l&amp;rsquo;inspecter de plus près, même s&amp;rsquo;il ne s&amp;rsquo;agit pas vraiment de mon genre de prédilection. Son autrice, la Mexicaine Silvia Moreno-Garcia, y déroule une histoire entre le fantastique et l&amp;rsquo;horreur dans les années 1950. Noémi, une jeune femme de Mexico, reçoit un appel à l&amp;rsquo;aide de sa cousine Catalina sous la forme d&amp;rsquo;une lettre bizarrement rédigée, et se voit dans l&amp;rsquo;obligation d&amp;rsquo;aller lui rendre visite pour s&amp;rsquo;assurer de sa bonne santé, notamment mentale. Destination : un manoir isolé à flanc de montagne, où Catalina vit avec son mari et la famille de ce dernier.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

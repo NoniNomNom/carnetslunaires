@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Disque-Monde on Carnets lunaires</title>
     <link>http://localhost:1313/tags/disque-monde/</link>
     <description>Recent content in Disque-Monde on Carnets lunaires</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- 0.143.1</generator>
     <language>fr-be</language>
     <lastBuildDate>Tue, 26 Dec 2023 14:25:20 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/disque-monde/index.xml" rel="self" type="application/rss+xml" />
@@ -13,28 +13,30 @@
       <link>http://localhost:1313/posts/mes-petits-preferes-de-2023/</link>
       <pubDate>Tue, 26 Dec 2023 14:25:20 +0000</pubDate>
       <guid>http://localhost:1313/posts/mes-petits-preferes-de-2023/</guid>
-      <description>&lt;p&gt;Chaque fin d&amp;rsquo;année, j&amp;rsquo;aime revenir sur certains livres qui m&amp;rsquo;ont accompagné tout au long des douze derniers mois. Et comme d&amp;rsquo;habitude, leur année de parution n&amp;rsquo;a aucune importance.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://carnetslunaires.wordpress.com/wp-content/uploads/2023/05/aardtman.jpg?w=488&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://carnetslunaires.wordpress.com/2023/05/21/la-sequence-aardtman-saul-pandelakis/&#34;&gt;&lt;em&gt;La séquence Aardtman&lt;/em&gt;&lt;/a&gt;, de Saul Pandelakis. Magistral. Il faudra bien que ce roman soit traduit, qu&amp;rsquo;il quitte l&amp;rsquo;univers francophone pour s&amp;rsquo;offrir à d&amp;rsquo;autres horizons linguistiques. En attendant, je suis content d&amp;rsquo;avoir eu la chance de découvrir ce livre, qui représente tout ce que j&amp;rsquo;aime dans la science-fiction et dans la littérature en général.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Chaque fin d&amp;rsquo;année, j&amp;rsquo;aime revenir sur certains livres qui m&amp;rsquo;ont accompagné tout au long des douze derniers mois. Et comme d&amp;rsquo;habitude, leur année de parution n&amp;rsquo;a aucune importance.&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;https://carnetslunaires.wordpress.com/wp-content/uploads/2023/05/aardtman.jpg?w=488&#34;&gt;&lt;p&gt;&lt;a href=&#34;https://carnetslunaires.wordpress.com/2023/05/21/la-sequence-aardtman-saul-pandelakis/&#34;&gt;&lt;em&gt;La séquence Aardtman&lt;/em&gt;&lt;/a&gt;, de Saul Pandelakis. Magistral. Il faudra bien que ce roman soit traduit, qu&amp;rsquo;il quitte l&amp;rsquo;univers francophone pour s&amp;rsquo;offrir à d&amp;rsquo;autres horizons linguistiques. En attendant, je suis content d&amp;rsquo;avoir eu la chance de découvrir ce livre, qui représente tout ce que j&amp;rsquo;aime dans la science-fiction et dans la littérature en général.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Le guet des orfèvres - Terry Pratchett</title>
       <link>http://localhost:1313/posts/le-guet-des-orfevres-terry-pratchett/</link>
       <pubDate>Sat, 19 Aug 2023 07:45:29 +0000</pubDate>
       <guid>http://localhost:1313/posts/le-guet-des-orfevres-terry-pratchett/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://carnetslunaires.wordpress.com/wp-content/uploads/2023/07/guet_orfevres.jpg?w=363&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;On ne présente plus le &lt;em&gt;Disque-monde&lt;/em&gt;, l&amp;rsquo;univers de fantasy satirique auquel Terry Pratchett a donné vie à travers une bonne quarantaine de bouquins. J&amp;rsquo;essaye de mon côté d&amp;rsquo;en lire un de temps en temps, parce qu&amp;rsquo;en général ça me fait du bien. Pas vraiment dans l&amp;rsquo;ordre, plutôt en fonction des thèmes et des personnages que j&amp;rsquo;ai envie de rencontrer (le cycle étant composé de quelques romans indépendants et surtout de sous-séries avec leurs personnages récurrents). Cette fois-ci, j&amp;rsquo;ai eu envie de retourner voir le guet de nuit de la cité d&amp;rsquo;Ankh-Morpork. Je me suis donc procuré &lt;em&gt;Le guet des orfèvres&lt;/em&gt;, pour y retrouver la petite troupe dirigée par le capitaine Sam Vimaire.&lt;/p&gt;</description>
+      <description>&lt;img loading=&#34;lazy&#34; src=&#34;https://carnetslunaires.wordpress.com/wp-content/uploads/2023/07/guet_orfevres.jpg?w=363&#34;&gt;&lt;p&gt;On ne présente plus le &lt;em&gt;Disque-monde&lt;/em&gt;, l&amp;rsquo;univers de fantasy satirique auquel Terry Pratchett a donné vie à travers une bonne quarantaine de bouquins. J&amp;rsquo;essaye de mon côté d&amp;rsquo;en lire un de temps en temps, parce qu&amp;rsquo;en général ça me fait du bien. Pas vraiment dans l&amp;rsquo;ordre, plutôt en fonction des thèmes et des personnages que j&amp;rsquo;ai envie de rencontrer (le cycle étant composé de quelques romans indépendants et surtout de sous-séries avec leurs personnages récurrents). Cette fois-ci, j&amp;rsquo;ai eu envie de retourner voir le guet de nuit de la cité d&amp;rsquo;Ankh-Morpork. Je me suis donc procuré &lt;em&gt;Le guet des orfèvres&lt;/em&gt;, pour y retrouver la petite troupe dirigée par le capitaine Sam Vimaire.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Lectures favorites de 2020</title>
       <link>http://localhost:1313/posts/lectures-favorites-de-2020/</link>
       <pubDate>Mon, 28 Dec 2020 11:18:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/lectures-favorites-de-2020/</guid>
-      <description>&lt;p&gt;C’est l’heure des bouquins de l&amp;rsquo;année ! Je me suis imposé d’en choisir dix (en trichant juste un peu) et les ai classés arbitrairement pour le plaisir.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://carnetslunaires.wordpress.com/wp-content/uploads/2021/03/sept-redditions.jpg?w=700&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;1. &amp;ldquo;Trop semblable à l’éclair&amp;rdquo;, par Ada Palmer (2016) et &amp;ldquo;Sept redditions&amp;rdquo;, par Ada Palmer (2017) : double prix de l’amour inconditionnel pour les deux premiers tomes de la saga Terra Ignota, d’une inventivité folle et qui m’ont transportés comme rarement en cette année où c’était plutôt nécessaire.&lt;/p&gt;</description>
+      <description>&lt;p&gt;C’est l’heure des bouquins de l&amp;rsquo;année ! Je me suis imposé d’en choisir dix (en trichant juste un peu) et les ai classés arbitrairement pour le plaisir.&lt;/p&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;https://carnetslunaires.wordpress.com/wp-content/uploads/2021/03/sept-redditions.jpg?w=700&#34;&gt;&lt;p&gt;1. &amp;ldquo;Trop semblable à l’éclair&amp;rdquo;, par Ada Palmer (2016) et &amp;ldquo;Sept redditions&amp;rdquo;, par Ada Palmer (2017) : double prix de l’amour inconditionnel pour les deux premiers tomes de la saga Terra Ignota, d’une inventivité folle et qui m’ont transportés comme rarement en cette année où c’était plutôt nécessaire.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Un livre par jour pendant cinq jours</title>
       <link>http://localhost:1313/posts/un-livre-par-jour-pendant-cinq-jours/</link>
       <pubDate>Thu, 30 Apr 2020 10:49:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/un-livre-par-jour-pendant-cinq-jours/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://carnetslunaires.wordpress.com/wp-content/uploads/2021/03/outrage-et-rebellion.jpg?w=296&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Jour 1. Outrage et rébellion - Catherine Dufour (2009) - Dans cette histoire, Catherine Dufour nous raconte la naissance aussi jouissive que douloureuse d’un mouvement punk dans une Chine du XXIVème siècle. On n’y trouve pas une narratrice unique, mais toute une série de voix, avec leur vécu propre et leur sensibilité. A nous de faire sens au milieu de ce chaos. J’ai appris bien après l’avoir lu, et adoré (c&amp;rsquo;est encore aujourd&amp;rsquo;hui un de mes livres préférés), qu’il était grandement inspiré de Please Kill Me : l&amp;rsquo;histoire non censurée du punk racontée par ses acteurs, dont le titre dit à peu près tout.&lt;/p&gt;</description>
+      <description>&lt;img loading=&#34;lazy&#34; src=&#34;https://carnetslunaires.wordpress.com/wp-content/uploads/2021/03/outrage-et-rebellion.jpg?w=296&#34;&gt;&lt;p&gt;Jour 1. Outrage et rébellion - Catherine Dufour (2009) - Dans cette histoire, Catherine Dufour nous raconte la naissance aussi jouissive que douloureuse d’un mouvement punk dans une Chine du XXIVème siècle. On n’y trouve pas une narratrice unique, mais toute une série de voix, avec leur vécu propre et leur sensibilité. A nous de faire sens au milieu de ce chaos. J’ai appris bien après l’avoir lu, et adoré (c&amp;rsquo;est encore aujourd&amp;rsquo;hui un de mes livres préférés), qu’il était grandement inspiré de Please Kill Me : l&amp;rsquo;histoire non censurée du punk racontée par ses acteurs, dont le titre dit à peu près tout.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

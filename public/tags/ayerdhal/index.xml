@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Ayerdhal on Carnets lunaires</title>
     <link>http://localhost:1313/tags/ayerdhal/</link>
     <description>Recent content in Ayerdhal on Carnets lunaires</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- 0.143.1</generator>
     <language>fr-be</language>
     <lastBuildDate>Thu, 20 Jul 2023 13:20:26 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/ayerdhal/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,8 @@
       <link>http://localhost:1313/posts/le-chant-du-drille-ayerdhal/</link>
       <pubDate>Thu, 20 Jul 2023 13:20:26 +0000</pubDate>
       <guid>http://localhost:1313/posts/le-chant-du-drille-ayerdhal/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://carnetslunaires.wordpress.com/wp-content/uploads/2023/07/drille.jpg?w=300&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Il y a trois ans, au début du premier confinement, plusieurs éditeurs (dont notamment &lt;em&gt;Au diable vauvert&lt;/em&gt;) ont eu la bonne idée de rendre disponible gratuitement toute une série de romans sur lesquels je me suis jeté. Celui-ci, &lt;em&gt;Le chant du Drille&lt;/em&gt;, traînait tristement au fond de ma liseuse depuis lors, mais je me suis enfin décidé à lui prêter attention.&lt;/p&gt;&#xA;&lt;p&gt;Il s&amp;rsquo;agit d&amp;rsquo;un roman de science-fiction français au pitch assez classique, à base de colonisation de planète paradisiaque perturbée par un événement inattendu. Le scénario ne manque pourtant pas d&amp;rsquo;originalité. Sa principale attraction, ce sont ces fameux drilles : des petits humanoïdes placides, voire indifférents, remarquables par leur chant envoutant. Préalable indispensable à la colonisation de la planète, leur étude n&amp;rsquo;a pas révélé de signes d&amp;rsquo;intelligence. Pourtant, alors que les humains occupent les lieux depuis des décennies, les drilles s&amp;rsquo;installent soudain en masse dans les villages humains pour s&amp;rsquo;y laisser mourir lentement. Bon pour le moral ! C&amp;rsquo;est ainsi que Lodève, Inspectrice générale des Colonies, est envoyée sur place pour enquêter sur la situation et prendre les décisions qui s&amp;rsquo;imposent. Elle rencontre ainsi une série de personnages clés (intéressants et variés) afin de résoudre le mystère de ce comportement suicidaire.&lt;/p&gt;</description>
+      <description>&lt;img loading=&#34;lazy&#34; src=&#34;https://carnetslunaires.wordpress.com/wp-content/uploads/2023/07/drille.jpg?w=300&#34;&gt;&lt;p&gt;Il y a trois ans, au début du premier confinement, plusieurs éditeurs (dont notamment &lt;em&gt;Au diable vauvert&lt;/em&gt;) ont eu la bonne idée de rendre disponible gratuitement toute une série de romans sur lesquels je me suis jeté. Celui-ci, &lt;em&gt;Le chant du Drille&lt;/em&gt;, traînait tristement au fond de ma liseuse depuis lors, mais je me suis enfin décidé à lui prêter attention.&lt;/p&gt;
+&lt;p&gt;Il s&amp;rsquo;agit d&amp;rsquo;un roman de science-fiction français au pitch assez classique, à base de colonisation de planète paradisiaque perturbée par un événement inattendu. Le scénario ne manque pourtant pas d&amp;rsquo;originalité. Sa principale attraction, ce sont ces fameux drilles : des petits humanoïdes placides, voire indifférents, remarquables par leur chant envoutant. Préalable indispensable à la colonisation de la planète, leur étude n&amp;rsquo;a pas révélé de signes d&amp;rsquo;intelligence. Pourtant, alors que les humains occupent les lieux depuis des décennies, les drilles s&amp;rsquo;installent soudain en masse dans les villages humains pour s&amp;rsquo;y laisser mourir lentement. Bon pour le moral ! C&amp;rsquo;est ainsi que Lodève, Inspectrice générale des Colonies, est envoyée sur place pour enquêter sur la situation et prendre les décisions qui s&amp;rsquo;imposent. Elle rencontre ainsi une série de personnages clés (intéressants et variés) afin de résoudre le mystère de ce comportement suicidaire.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

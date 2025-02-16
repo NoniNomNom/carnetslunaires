@@ -13,3 +13,19 @@ theme = 'PaperMod'
     name = 'Tags'
     pageRef = '/tags/'
     weight = 20
+[security]
+  enableInlineShortcodes = true
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.parser]
+      wrapStandAloneImageWithinParagraph = false
+      [markup.goldmark.parser.attribute]
+        block = true
+
+[[module.mounts]]
+source = 'static'
+target = 'static'
+
+[[module.mounts]]
+source = 'images'
+target = 'static/images'

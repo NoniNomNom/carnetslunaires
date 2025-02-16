@@ -5,7 +5,7 @@ draft: false
 tags: ['Avis', 'Claire North', 'Roman', 'SFFF']
 ---
 
-![](https://carnetslunaires.wordpress.com/wp-content/uploads/2022/01/84k.jpg?w=272)
+{{< inTextImg-left url="/images/84k.jpg" alt="84k - couverture" width="200">}} 
 
 Depuis quelques temps, j'ai tendance à éviter les dystopies. Il est pourtant difficile d'y échapper longtemps lorsqu'on s'intéresse à l'imaginaire, et je me suis finalement retrouvé en train de commencer _84K_, de Claire North, sorti l'an passé en français. Ce n'est pas comme si j'avais été pris par surprise : avec un tel nom, ce roman convoque l'inévitable _1984_ de George Orwell. On le sait, ce classique traitait des peurs de la fin des années 1940, à commencer par celle du totalitarisme. Sept décennies plus tard, le monde a bien changé, les peurs aussi. Claire North choisit ici de s'attaquer au capitalisme forcené, dans un Royaume-Uni pas si lointain qui aurait simplement achevé de privatiser l'ensemble des pans de sa société, y compris la justice. Dans 1984, l'Etat est partout, dans 84K, il a presque entièrement disparu. Là où, dans 1984, le protagoniste est un fonctionnaire insipide du "Ministère de la Vérité", ici, il s'agit d'un employé transparent du "Bureau d'Audit des Crimes". Son job : calculer les indemnités dues par les criminels. Un système simple : vous avez l'argent, vous remboursez votre dette à la société et à vous la liberté. Vous ne l'avez pas ? Alors c'est plus compliqué.
 

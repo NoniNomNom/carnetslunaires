@@ -9,7 +9,7 @@ On dirait que 2024 a été l'année la plus prolifique en lectures de ma vie. Je
 
 *   [L'extraordinaire _OVNI 78_](https://carnetslunaires.wordpress.com/2024/10/06/ovni-78-wu-ming/), du collectif italien Wu Ming, surnage avec ses ufologues à l'affût d'observations paranormales, son exploration de la politique italienne des années 70 et sa plongée dans la contre-culture de l'époque. Et puis c'est pas tous les jours qu'un personnage de roman écoute du [Magma](https://www.youtube.com/watch?v=u8LUKYSJiY4).
 
-![](https://carnetslunaires.wordpress.com/wp-content/uploads/2024/12/affinite.jpg?w=400)
+{{< inTextImg-right url="/images/affinite.jpg" alt="Affinités - couverture" width="200">}} 
 
 *   Ensuite, nous avons deux romans gothiques que je n'avais pas encore abordés par ici :
     *   _Affinités_, de Sarah Waters. Une jeune dame de la bonne société victorienne, en proie à une sorte de dépression, rend régulièrement visite à des femmes en prison pour écouter leurs déboires. Elle y tombe amoureuse d'une prisonnière qui se dit spirite et s'avère très convaincante. La narration est fine, l'ambiance gothico-londonienne est brumeuse à souhait et le jeu de pistes vraiment bien fichu.
