@@ -1,0 +1,5 @@
+{{- $Img := (.Get "url") }}
+{{- $width := (.Get "width") }}
+{{- $alt := (.Get "alt") }}
+
+<a href="{{$Img}}" target="_blank"><img href="{{$Img}}" class="in-text" width="{{ $width}}" src="{{$Img}}" alt="{{$alt}}" style="  display: block; margin-left: auto; margin-right: auto;" ></a>
