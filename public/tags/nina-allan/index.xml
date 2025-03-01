@@ -17,9 +17,10 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://localhost:1313/carnetslunaires/posts/ovni-78-wu-ming/&#34;&gt;L&amp;rsquo;extraordinaire &lt;em&gt;OVNI 78&lt;/em&gt;&lt;/a&gt;, du collectif italien Wu Ming, surnage avec ses ufologues à l&amp;rsquo;affût d&amp;rsquo;observations paranormales, son exploration de la politique italienne des années 70 et sa plongée dans la contre-culture de l&amp;rsquo;époque. Et puis c&amp;rsquo;est pas tous les jours qu&amp;rsquo;un personnage de roman écoute du &lt;a href=&#34;https://www.youtube.com/watch?v=u8LUKYSJiY4&#34;&gt;Magma&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;{{ $image := .Resources.Get &amp;ldquo;affinite.jpg&amp;rdquo; }}&lt;/p&gt;
 
 
-&lt;a href=&#34;http://localhost:1313/carnetslunaires/images/affinite.jpg&#34; target=&#34;_blank&#34;&gt;&lt;img class=&#34;in-text&#34; width=&#34;200&#34; src=&#34;http://localhost:1313/carnetslunaires/images/affinite.jpg&#34; alt=&#34;Affinités - couverture&#34; style=&#34;float: right; margin-left: 10px;&#34; &gt;&lt;/a&gt;
+&lt;a href=&#34;affinite.jpg&#34; target=&#34;_blank&#34;&gt;&lt;img class=&#34;in-text&#34; width=&#34;200&#34; src=&#34;affinite.jpg&#34; alt=&#34;Affinités - couverture&#34; style=&#34;float: right; margin-left: 10px;&#34; &gt;&lt;/a&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Ensuite, nous avons deux romans gothiques que je n&amp;rsquo;avais pas encore abordés par ici :
@@ -37,7 +38,7 @@
 &lt;/ul&gt;
 
 
-&lt;a href=&#34;http://localhost:1313/carnetslunaires/images/cite-des-marches.jpg&#34; target=&#34;_blank&#34;&gt;&lt;img class=&#34;in-text&#34; width=&#34;200&#34; src=&#34;http://localhost:1313/carnetslunaires/images/cite-des-marches.jpg&#34; alt=&#34;La cité des marches - couverture&#34; style=&#34;float: right; margin-left: 10px;&#34; &gt;&lt;/a&gt;
+&lt;a href=&#34;cite-des-marches.jpg&#34; target=&#34;_blank&#34;&gt;&lt;img class=&#34;in-text&#34; width=&#34;200&#34; src=&#34;cite-des-marches.jpg&#34; alt=&#34;La cité des marches - couverture&#34; style=&#34;float: right; margin-left: 10px;&#34; &gt;&lt;/a&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Au rayon &amp;ldquo;imaginaire qui tache&amp;rdquo; :
@@ -55,7 +56,7 @@
 &lt;/ul&gt;
 
 
-&lt;a href=&#34;http://localhost:1313/carnetslunaires/images/happy-endings.jpg&#34; target=&#34;_blank&#34;&gt;&lt;img class=&#34;in-text&#34; width=&#34;200&#34; src=&#34;http://localhost:1313/carnetslunaires/images/happy-endings.jpg&#34; alt=&#34;La cité des marches - couverture&#34; style=&#34;float: right; margin-left: 10px;&#34; &gt;&lt;/a&gt;
+&lt;a href=&#34;happy-endings.jpg&#34; target=&#34;_blank&#34;&gt;&lt;img class=&#34;in-text&#34; width=&#34;200&#34; src=&#34;happy-endings.jpg&#34; alt=&#34;Happy Endings - couverture&#34; style=&#34;float: right; margin-left: 10px;&#34; &gt;&lt;/a&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Et deux BD :
@@ -71,7 +72,7 @@
       <link>http://localhost:1313/carnetslunaires/posts/la-fracture-nina-allan/</link>
       <pubDate>Sat, 02 Nov 2024 20:33:21 +0000</pubDate>
       <guid>http://localhost:1313/carnetslunaires/posts/la-fracture-nina-allan/</guid>
-      <description>&lt;a href=&#34;http://localhost:1313/carnetslunaires/images/la_fracture.jpg&#34; target=&#34;_blank&#34;&gt;&lt;img class=&#34;in-text&#34; width=&#34;30%&#34; src=&#34;http://localhost:1313/carnetslunaires/images/la_fracture.jpg&#34; alt=&#34;La fracture - couverture&#34; style=&#34;float: left; margin-right: 10px;&#34; &gt;&lt;/a&gt;
+      <description>&lt;a href=&#34;la_fracture.jpg&#34; target=&#34;_blank&#34;&gt;&lt;img class=&#34;in-text&#34; width=&#34;30%&#34; src=&#34;la_fracture.jpg&#34; alt=&#34;La fracture - couverture&#34; style=&#34;float: left; margin-right: 10px;&#34; &gt;&lt;/a&gt;
 
 
 &lt;p&gt;De ma première lecture de Nina Allan, &lt;em&gt;&lt;a href=&#34;http://localhost:1313/carnetslunaires/posts/le-createur-de-poupees-nina-allan/&#34;&gt;Le créateur de poupées&lt;/a&gt;&lt;/em&gt;, j&amp;rsquo;ai conservé une impression de malaise vivace et tenace. Comme je l&amp;rsquo;anticipais un peu à l&amp;rsquo;époque, ce roman a laissé une marque durable dans ma mémoire, ce qui est finalement tout ce qu&amp;rsquo;on lui demande et appelle d&amp;rsquo;autres expériences du même genre. Je suis donc retourné vers l&amp;rsquo;autrice britannique avec &lt;em&gt;La fracture&lt;/em&gt;, qui se présente comme une histoire de disparition (spoiler : c&amp;rsquo;est plus compliqué que ça).&lt;/p&gt;
@@ -82,7 +83,7 @@
       <link>http://localhost:1313/carnetslunaires/posts/le-createur-de-poupees-nina-allan/</link>
       <pubDate>Mon, 18 Apr 2022 12:22:11 +0000</pubDate>
       <guid>http://localhost:1313/carnetslunaires/posts/le-createur-de-poupees-nina-allan/</guid>
-      <description>&lt;a href=&#34;http://localhost:1313/carnetslunaires/images/createur-de-poupees.jpg&#34; target=&#34;_blank&#34;&gt;&lt;img class=&#34;in-text&#34; width=&#34;30%&#34; src=&#34;http://localhost:1313/carnetslunaires/images/createur-de-poupees.jpg&#34; alt=&#34;Le créateur de poupées - couverture&#34; style=&#34;float: left; margin-right: 10px;&#34; &gt;&lt;/a&gt;
+      <description>&lt;a href=&#34;createur-de-poupees.jpg&#34; target=&#34;_blank&#34;&gt;&lt;img class=&#34;in-text&#34; width=&#34;30%&#34; src=&#34;createur-de-poupees.jpg&#34; alt=&#34;Le créateur de poupées - couverture&#34; style=&#34;float: left; margin-right: 10px;&#34; &gt;&lt;/a&gt;
 
 
 &lt;p&gt;D&amp;rsquo;habitude, j&amp;rsquo;écris sur un livre peu de temps après l&amp;rsquo;avoir terminé. Je fais ici exception car je me suis surpris à évoquer celui-ci récemment alors que la conversation virait bizarrement sur le sujet des poupées (la vie réserve parfois ce genre de surprises). Deux mois après sa lecture, &lt;em&gt;Le créateur de poupées&lt;/em&gt;, de la britannique Nina Allan et conseillé par la &lt;a href=&#34;https://emission.salle101.org/&#34;&gt;&lt;em&gt;Salle 101&lt;/em&gt;&lt;/a&gt; (dont les nouvelles émissions se font attendre), continue semble-t-il de me hanter.&lt;/p&gt;
