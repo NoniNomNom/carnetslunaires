@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Au Quotidien on Carnets lunaires</title>
-    <link>http://localhost:1313/tags/au-quotidien/</link>
+    <link>http://localhost:1313/carnetslunaires/tags/au-quotidien/</link>
     <description>Recent content in Au Quotidien on Carnets lunaires</description>
     <generator>Hugo -- 0.143.1</generator>
     <language>fr-be</language>
     <lastBuildDate>Sat, 05 Feb 2022 11:06:24 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/au-quotidien/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/carnetslunaires/tags/au-quotidien/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>J&#39;ai vu les soucoupes - Sandrine Kerion</title>
-      <link>http://localhost:1313/posts/jai-vu-les-soucoupes-sandrine-kerion/</link>
+      <link>http://localhost:1313/carnetslunaires/posts/jai-vu-les-soucoupes-sandrine-kerion/</link>
       <pubDate>Sat, 05 Feb 2022 11:06:24 +0000</pubDate>
-      <guid>http://localhost:1313/posts/jai-vu-les-soucoupes-sandrine-kerion/</guid>
-      <description>&lt;a href=&#34;http://localhost:1313/images/jai-vu-les-soucoupes.jpg&#34; target=&#34;_blank&#34;&gt;&lt;img class=&#34;in-text&#34; width=&#34;30%&#34; src=&#34;http://localhost:1313/images/jai-vu-les-soucoupes.jpg&#34; alt=&#34;J&amp;#39;ai vu les soucoupes - couverture&#34; style=&#34;float: left; margin-right: 10px;&#34; &gt;&lt;/a&gt;
+      <guid>http://localhost:1313/carnetslunaires/posts/jai-vu-les-soucoupes-sandrine-kerion/</guid>
+      <description>&lt;a href=&#34;http://localhost:1313/carnetslunaires/images/jai-vu-les-soucoupes.jpg&#34; target=&#34;_blank&#34;&gt;&lt;img class=&#34;in-text&#34; width=&#34;30%&#34; src=&#34;http://localhost:1313/carnetslunaires/images/jai-vu-les-soucoupes.jpg&#34; alt=&#34;J&amp;#39;ai vu les soucoupes - couverture&#34; style=&#34;float: left; margin-right: 10px;&#34; &gt;&lt;/a&gt;
 
 
 &lt;p&gt;L&amp;rsquo;an dernier, je me suis jeté sur une BD autobiographique qu&amp;rsquo;il m&amp;rsquo;était impossible de laisser passer : &lt;em&gt;J&amp;rsquo;ai vu les soucoupes&lt;/em&gt;, de Sandrine Kerion. L&amp;rsquo;autrice y raconte son adolescence au début des années 90&amp;rsquo; et son obsession pour certaines théories du complot en vogue à l&amp;rsquo;époque. Elle nous raconte son histoire, la façon dont elle a progressivement sombré jusqu&amp;rsquo;à se persuader d&amp;rsquo;avoir vu des OVNI dans son quartier, tout en dressant un tableau complet et historique du phénomène. Si des facteurs personnels ont certainement pu jouer dans son parcours, notamment un environnement familial compliqué et du harcèlement scolaire hardcore, il est aussi question du rôle joué par la fiction (coucou Steven Spielberg) et, surtout, de médias français peu scrupuleux qui privilégient l&amp;rsquo;&lt;em&gt;infotainment&lt;/em&gt; à la déontologie en invitant sur des plateaux de talk shows des personnalités dangereuses, pour s&amp;rsquo;en moquer certes, mais en leur donnant au passage une large visibilité. Mieux encore, Sandrine Kerion évoque les dérives sectaires qui peuvent découler du phénomène complotiste, mais également les liens entre certaines théories du complot encore bien vivaces et le racisme le plus crasse. Enfin, et c&amp;rsquo;est très important, l&amp;rsquo;autrice aborde la façon dont elle s&amp;rsquo;en est sortie.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Lectures de juillet-août</title>
-      <link>http://localhost:1313/posts/lectures-de-juillet-aout/</link>
+      <link>http://localhost:1313/carnetslunaires/posts/lectures-de-juillet-aout/</link>
       <pubDate>Thu, 02 Sep 2021 10:09:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/lectures-de-juillet-aout/</guid>
-      <description>&lt;a href=&#34;http://localhost:1313/images/les-tambours-du-dieu-noir.jpg&#34; target=&#34;_blank&#34;&gt;&lt;img class=&#34;in-text&#34; width=&#34;30%&#34; src=&#34;http://localhost:1313/images/les-tambours-du-dieu-noir.jpg&#34; alt=&#34;Les tambours du Dieu noir - couverture&#34; style=&#34;float: left; margin-right: 10px;&#34; &gt;&lt;/a&gt;
+      <guid>http://localhost:1313/carnetslunaires/posts/lectures-de-juillet-aout/</guid>
+      <description>&lt;a href=&#34;http://localhost:1313/carnetslunaires/images/les-tambours-du-dieu-noir.jpg&#34; target=&#34;_blank&#34;&gt;&lt;img class=&#34;in-text&#34; width=&#34;30%&#34; src=&#34;http://localhost:1313/carnetslunaires/images/les-tambours-du-dieu-noir.jpg&#34; alt=&#34;Les tambours du Dieu noir - couverture&#34; style=&#34;float: left; margin-right: 10px;&#34; &gt;&lt;/a&gt;
 
 
 &lt;p&gt;Au cours de ces deux derniers mois, j&amp;rsquo;ai lu quelques bouquins et je suis même retourné en bibliothèque, où je n&amp;rsquo;avais pas mis les pieds depuis trop longtemps. L&amp;rsquo;occasion de remarquer que les rayons, notamment en matière d&amp;rsquo;imaginaire, ont été bien renouvelés. En plus de quatre précédents billets déjà rédigés ici, voici un petit bilan de mes lectures de cet été brumeux.&lt;/p&gt;
@@ -31,56 +31,56 @@
     </item>
     <item>
       <title>En juin, un polar (et le reste)</title>
-      <link>http://localhost:1313/posts/en-juin-un-polar-et-le-reste/</link>
+      <link>http://localhost:1313/carnetslunaires/posts/en-juin-un-polar-et-le-reste/</link>
       <pubDate>Thu, 01 Jul 2021 20:10:53 +0000</pubDate>
-      <guid>http://localhost:1313/posts/en-juin-un-polar-et-le-reste/</guid>
-      <description>&lt;a href=&#34;http://localhost:1313/images/la-vie-meme.jpg&#34; target=&#34;_blank&#34;&gt;&lt;img class=&#34;in-text&#34; width=&#34;30%&#34; src=&#34;http://localhost:1313/images/la-vie-meme.jpg&#34; alt=&#34;La vie même - couverture&#34; style=&#34;float: left; margin-right: 10px;&#34; &gt;&lt;/a&gt;
+      <guid>http://localhost:1313/carnetslunaires/posts/en-juin-un-polar-et-le-reste/</guid>
+      <description>&lt;a href=&#34;http://localhost:1313/carnetslunaires/images/la-vie-meme.jpg&#34; target=&#34;_blank&#34;&gt;&lt;img class=&#34;in-text&#34; width=&#34;30%&#34; src=&#34;http://localhost:1313/carnetslunaires/images/la-vie-meme.jpg&#34; alt=&#34;La vie même - couverture&#34; style=&#34;float: left; margin-right: 10px;&#34; &gt;&lt;/a&gt;
 
 
 &lt;p&gt;J&amp;rsquo;ai célébré la première vague de chaleur de cet été cette fin de printemps par un polar mexicain, &lt;em&gt;La vie même&lt;/em&gt;, signé Paco Ignacio Taibo II. Un roman sympathique dans lequel un chef de la police auteur de romans policiers s&amp;rsquo;emploie au moins autant à résoudre le meurtre d&amp;rsquo;une Américaine, qu&amp;rsquo;à garder vivante la flamme de la gauche à Santa Ana, &amp;ldquo;ville rouge&amp;rdquo;. Avec l&amp;rsquo;aide de ses adjoints et de divers responsables aux méthodes parfois originales, il fait face comme il peut aux assauts du parti gouvernemental, le PRI (qui, comme je l&amp;rsquo;ai appris pour l&amp;rsquo;occasion, était hégémonique au Mexique dans les années 80). Comme l&amp;rsquo;écrit lui-même le protagoniste dans ses notes : &amp;ldquo;&lt;em&gt;Il s&amp;rsquo;agit d&amp;rsquo;un roman avec de foutus crimes, mais l&amp;rsquo;important ce ne sont pas les crimes, c&amp;rsquo;est (comme dans tout roman policier mexicain) le contexte.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bilan de mai</title>
-      <link>http://localhost:1313/posts/bilan-de-mai/</link>
+      <link>http://localhost:1313/carnetslunaires/posts/bilan-de-mai/</link>
       <pubDate>Fri, 04 Jun 2021 16:27:26 +0000</pubDate>
-      <guid>http://localhost:1313/posts/bilan-de-mai/</guid>
-      <description>&lt;p&gt;En ce mois de mai, synonyme de retour timide à une forme de vie sociale entre deux averses de grêle, j&amp;rsquo;ai enfin terminé la trilogie des &lt;em&gt;Livres de la Terre fracturée&lt;/em&gt; (pour en dire beaucoup de bien &lt;a href=&#34;http://localhost:1313/posts/les-livres-de-la-terre-fracturee-nora-k-jemisin/&#34;&gt;ici&lt;/a&gt;). En prime, la lecture m&amp;rsquo;a emmené voyager loin dans l&amp;rsquo;espace, ainsi qu&amp;rsquo;au Japon. Difficile de dire lequel était le plus dépaysant des deux.&lt;/p&gt;
+      <guid>http://localhost:1313/carnetslunaires/posts/bilan-de-mai/</guid>
+      <description>&lt;p&gt;En ce mois de mai, synonyme de retour timide à une forme de vie sociale entre deux averses de grêle, j&amp;rsquo;ai enfin terminé la trilogie des &lt;em&gt;Livres de la Terre fracturée&lt;/em&gt; (pour en dire beaucoup de bien &lt;a href=&#34;http://localhost:1313/carnetslunaires/posts/les-livres-de-la-terre-fracturee-nora-k-jemisin/&#34;&gt;ici&lt;/a&gt;). En prime, la lecture m&amp;rsquo;a emmené voyager loin dans l&amp;rsquo;espace, ainsi qu&amp;rsquo;au Japon. Difficile de dire lequel était le plus dépaysant des deux.&lt;/p&gt;
 
 
-&lt;a href=&#34;http://localhost:1313/images/lincivilite-des-fantomes.jpg&#34; target=&#34;_blank&#34;&gt;&lt;img class=&#34;in-text&#34; width=&#34;30%&#34; src=&#34;http://localhost:1313/images/lincivilite-des-fantomes.jpg&#34; alt=&#34;L&amp;#39;incivilité des fantômes - couverture&#34; style=&#34;float: left; margin-right: 10px;&#34; &gt;&lt;/a&gt;
+&lt;a href=&#34;http://localhost:1313/carnetslunaires/images/lincivilite-des-fantomes.jpg&#34; target=&#34;_blank&#34;&gt;&lt;img class=&#34;in-text&#34; width=&#34;30%&#34; src=&#34;http://localhost:1313/carnetslunaires/images/lincivilite-des-fantomes.jpg&#34; alt=&#34;L&amp;#39;incivilité des fantômes - couverture&#34; style=&#34;float: left; margin-right: 10px;&#34; &gt;&lt;/a&gt;
 
 
 &lt;p&gt;Commençons par &lt;em&gt;L&amp;rsquo;incivilité des fantômes&lt;/em&gt;, le premier roman de Rivers Solomon. Paru en français en 2019, on y embarque dans un vaste vaisseau spatial dans lequel vit une partie de l&amp;rsquo;humanité (ou ce qu&amp;rsquo;il en reste). La société qu&amp;rsquo;on y découvre est profondément raciste : les Noirs, réduits en esclavage, y travaillent aux tâches les plus difficiles et avilissantes tout en subissant la violence quotidienne des Blancs. Aster, très compétente en botanique et en médecine, cherche par ailleurs à y décrypter les écrits de sa mère défunte. Elle peut notamment compter sur son imprévisible amie Giselle, ainsi que sur un personnage à la fois critique et proche du pouvoir, Théo. Tant ses difficultés de communication (le mot autisme n&amp;rsquo;est jamais écrit, mais on le devine) que des traumatismes passés - et présents - pèsent sur Aster, mais ne l&amp;rsquo;empêchent pas d&amp;rsquo;oeuvrer à sa façon contre un pouvoir de plus en plus en oppresseur. Ce roman est peut-être plus intéressant pour le développement de ses personnages et leurs relations complexes que pour son intrigue, mais n&amp;rsquo;en reste pas moins très réussi.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bilan d&#39;avril</title>
-      <link>http://localhost:1313/posts/bilan-davril/</link>
+      <link>http://localhost:1313/carnetslunaires/posts/bilan-davril/</link>
       <pubDate>Sun, 02 May 2021 09:07:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/bilan-davril/</guid>
-      <description>&lt;a href=&#34;http://localhost:1313/images/apres_les_chiens.jpg&#34; target=&#34;_blank&#34;&gt;&lt;img class=&#34;in-text&#34; width=&#34;30%&#34; src=&#34;http://localhost:1313/images/apres_les_chiens.jpg&#34; alt=&#34;Après les chiens - couverture&#34; style=&#34;float: left; margin-right: 10px;&#34; &gt;&lt;/a&gt;
+      <guid>http://localhost:1313/carnetslunaires/posts/bilan-davril/</guid>
+      <description>&lt;a href=&#34;http://localhost:1313/carnetslunaires/images/apres_les_chiens.jpg&#34; target=&#34;_blank&#34;&gt;&lt;img class=&#34;in-text&#34; width=&#34;30%&#34; src=&#34;http://localhost:1313/carnetslunaires/images/apres_les_chiens.jpg&#34; alt=&#34;Après les chiens - couverture&#34; style=&#34;float: left; margin-right: 10px;&#34; &gt;&lt;/a&gt;
 
 
 &lt;p&gt;Ce mois-ci, j&amp;rsquo;ai lu le polar &lt;em&gt;Après les chiens&lt;/em&gt;, écrit par la journaliste niçoise Michèle Pedinielli. La détective privée Ghjulia Boccanera (dite &amp;ldquo;Diou&amp;rdquo;) y enquête sur le meurtre d&amp;rsquo;un réfugié érythréen, tout en cherchant à élucider la disparition d&amp;rsquo;une jeune femme. L&amp;rsquo;histoire prend place après les événements de &lt;em&gt;Boccanera&lt;/em&gt; (qui inaugure la série), qu&amp;rsquo;il n&amp;rsquo;est pas nécessaire d&amp;rsquo;avoir lu pour en comprendre l&amp;rsquo;intrigue, même si on retrouve avec plaisir quelques personnages connus. En toile de fond, il est ici question du traitement réservé aux demandeurs d&amp;rsquo;asile à la frontière entre l&amp;rsquo;Italie et la France : inutile donc de préciser que, si le récit est fluide et les protagonistes sympathiques, le sujet est plutôt lourd (après tout, on est dans un polar). Je me suis étonné de comprendre assez rapidement où tout cela allait, sans trop savoir si cela me décevait vraiment ou non. Pour autant, ce polar réserve quelques surprises bienvenues et m&amp;rsquo;a donné envie d&amp;rsquo;en lire d&amp;rsquo;autres (en particulier ceux de l&amp;rsquo;écrivain italien Andrea Camilleri, que dévore la narratrice). Et puis l&amp;rsquo;extrême-droite y prend pour son grade, ce qui fait toujours plaisir.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Deux séries, pour changer</title>
-      <link>http://localhost:1313/posts/deux-series-pour-changer/</link>
+      <link>http://localhost:1313/carnetslunaires/posts/deux-series-pour-changer/</link>
       <pubDate>Sat, 17 Apr 2021 11:39:01 +0000</pubDate>
-      <guid>http://localhost:1313/posts/deux-series-pour-changer/</guid>
-      <description>&lt;a href=&#34;http://localhost:1313/images/high-fidelity.jpg&#34; target=&#34;_blank&#34;&gt;&lt;img class=&#34;in-text&#34; width=&#34;30%&#34; src=&#34;http://localhost:1313/images/high-fidelity.jpg&#34; alt=&#34;High Fidelity - affiche&#34; style=&#34;float: left; margin-right: 10px;&#34; &gt;&lt;/a&gt;
+      <guid>http://localhost:1313/carnetslunaires/posts/deux-series-pour-changer/</guid>
+      <description>&lt;a href=&#34;http://localhost:1313/carnetslunaires/images/high-fidelity.jpg&#34; target=&#34;_blank&#34;&gt;&lt;img class=&#34;in-text&#34; width=&#34;30%&#34; src=&#34;http://localhost:1313/carnetslunaires/images/high-fidelity.jpg&#34; alt=&#34;High Fidelity - affiche&#34; style=&#34;float: left; margin-right: 10px;&#34; &gt;&lt;/a&gt;
 
 
 &lt;p&gt;J&amp;rsquo;ai tout récemment terminé la première saison de &lt;em&gt;High Fidelity&lt;/em&gt;, adaptation sortie l&amp;rsquo;an passé du roman du même nom de Nick Hornby. Ce dernier m&amp;rsquo;avait beaucoup plu il y a une grosse dizaine petite quinzaine d&amp;rsquo;années, au point de compter parmi mes livres préférés à une époque. Cette adaptation marque d&amp;rsquo;emblée deux différences majeures : d&amp;rsquo;une part le protagoniste du roman, Rob (prototype du mec célibataire un peu loser), est cette fois interprété par Zoë Kravitz, et l&amp;rsquo;action se déroule à New York et non plus à Londres. Pour le reste, c&amp;rsquo;est pareil : Rob tient un magasin de vinyles, vit mal la fin de sa dernière relation amoureuse, et fait des listes (à commencer par celle de ses pires séparations). Elle peut heureusement compter sur deux personnages particulièrement attachants : Cherise et Simon, ses amis et employés du magasin. Le tout baigne constamment dans la musique (rock principalement, mais pas uniquement) et, si les références sont évidemment nombreuses, la série prend garde à ne pas perdre ses spectateurs et spectatrices moins au fait de l&amp;rsquo;histoire de la pop des soixante dernières années. Pour autant, j&amp;rsquo;ai quand même appris des choses sur le disco ainsi que &lt;a href=&#34;https://www.youtube.com/watch?v=8Tw3r2BzoAE&#34;&gt;l&amp;rsquo;existence de William Onyeabor&lt;/a&gt;, et j&amp;rsquo;en suis très content. Cela me rappelle bien l&amp;rsquo;esprit du roman, que j&amp;rsquo;avais su apprécier malgré ma méconnaissance de la vaste majorité des artistes balancés par le narrateur tout au long de l&amp;rsquo;histoire. Bref, j&amp;rsquo;ai passé un très bon moment devant cette réinterprétation, qui renouvelle largement le récit original sans le trahir.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bilan de mars 2021</title>
-      <link>http://localhost:1313/posts/bilan-de-mars-2021/</link>
+      <link>http://localhost:1313/carnetslunaires/posts/bilan-de-mars-2021/</link>
       <pubDate>Wed, 31 Mar 2021 09:45:25 +0000</pubDate>
-      <guid>http://localhost:1313/posts/bilan-de-mars-2021/</guid>
-      <description>&lt;a href=&#34;http://localhost:1313/images/volonte-de-se-battre.jpg&#34; target=&#34;_blank&#34;&gt;&lt;img class=&#34;in-text&#34; width=&#34;30%&#34; src=&#34;http://localhost:1313/images/volonte-de-se-battre.jpg&#34; alt=&#34;La volonté de se battre - couverture&#34; style=&#34;float: left; margin-right: 10px;&#34; &gt;&lt;/a&gt;
+      <guid>http://localhost:1313/carnetslunaires/posts/bilan-de-mars-2021/</guid>
+      <description>&lt;a href=&#34;http://localhost:1313/carnetslunaires/images/volonte-de-se-battre.jpg&#34; target=&#34;_blank&#34;&gt;&lt;img class=&#34;in-text&#34; width=&#34;30%&#34; src=&#34;http://localhost:1313/carnetslunaires/images/volonte-de-se-battre.jpg&#34; alt=&#34;La volonté de se battre - couverture&#34; style=&#34;float: left; margin-right: 10px;&#34; &gt;&lt;/a&gt;
 
 
-&lt;p&gt;Littérairement parlant, c&amp;rsquo;est &lt;em&gt;La volonté de se battre&lt;/em&gt;, troisième tome de la série Terra Ignota, qui m&amp;rsquo;a surtout occupé ce mois-ci. J&amp;rsquo;ai déjà évoqué &lt;a href=&#34;http://localhost:1313/posts/trop-semblable-a-leclair-ada-palmer-2016/&#34;&gt;ailleurs&lt;/a&gt; mon attachement tout particulier à cette série écrite par Ada Palmer, qui a réussi à construire un univers complexe et fascinant porté par une narration du même niveau. &lt;em&gt;Trop semblable à l&amp;rsquo;éclair&lt;/em&gt;, premier tome de la série, m&amp;rsquo;a diverti du premier confinement ; &lt;em&gt;Sept Redditions&lt;/em&gt;, sa suite, m&amp;rsquo;a sorti d&amp;rsquo;un été aux allures de drôle de guerre caniculaire. La volonté de se battre m&amp;rsquo;a-t-il fait oublier la montée de la troisième vague ? Et bien oui, merci. L&amp;rsquo;histoire avance, toujours portée par un narrateur dont on se demande tout de même parfois s&amp;rsquo;il ne joue pas volontairement avec nos pieds ou s&amp;rsquo;il n&amp;rsquo;est pas en train de complètement perdre les pédales. Ces facéties narratives nécessitent une véritable implication, mais sont pour moi un vrai plaisir. Qu&amp;rsquo;importe au fond si le narrateur est fou, j&amp;rsquo;ai envie de savoir ce qu&amp;rsquo;il veut me raconter et ce qu&amp;rsquo;il perçoit de son monde. Force est parfois d&amp;rsquo;admettre que quelques longueurs et flous artistiques peuvent rebuter les lecteurs et lectrices qui ne seraient pas d&amp;rsquo;emblée subjugués par l&amp;rsquo;univers décrit, mais ça ne m&amp;rsquo;empêchera pas de continuer à en parler à tout le monde avec des étoiles dans les yeux.&lt;/p&gt;</description>
+&lt;p&gt;Littérairement parlant, c&amp;rsquo;est &lt;em&gt;La volonté de se battre&lt;/em&gt;, troisième tome de la série Terra Ignota, qui m&amp;rsquo;a surtout occupé ce mois-ci. J&amp;rsquo;ai déjà évoqué &lt;a href=&#34;http://localhost:1313/carnetslunaires/posts/trop-semblable-a-leclair-ada-palmer-2016/&#34;&gt;ailleurs&lt;/a&gt; mon attachement tout particulier à cette série écrite par Ada Palmer, qui a réussi à construire un univers complexe et fascinant porté par une narration du même niveau. &lt;em&gt;Trop semblable à l&amp;rsquo;éclair&lt;/em&gt;, premier tome de la série, m&amp;rsquo;a diverti du premier confinement ; &lt;em&gt;Sept Redditions&lt;/em&gt;, sa suite, m&amp;rsquo;a sorti d&amp;rsquo;un été aux allures de drôle de guerre caniculaire. La volonté de se battre m&amp;rsquo;a-t-il fait oublier la montée de la troisième vague ? Et bien oui, merci. L&amp;rsquo;histoire avance, toujours portée par un narrateur dont on se demande tout de même parfois s&amp;rsquo;il ne joue pas volontairement avec nos pieds ou s&amp;rsquo;il n&amp;rsquo;est pas en train de complètement perdre les pédales. Ces facéties narratives nécessitent une véritable implication, mais sont pour moi un vrai plaisir. Qu&amp;rsquo;importe au fond si le narrateur est fou, j&amp;rsquo;ai envie de savoir ce qu&amp;rsquo;il veut me raconter et ce qu&amp;rsquo;il perçoit de son monde. Force est parfois d&amp;rsquo;admettre que quelques longueurs et flous artistiques peuvent rebuter les lecteurs et lectrices qui ne seraient pas d&amp;rsquo;emblée subjugués par l&amp;rsquo;univers décrit, mais ça ne m&amp;rsquo;empêchera pas de continuer à en parler à tout le monde avec des étoiles dans les yeux.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

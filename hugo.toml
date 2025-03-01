@@ -1,9 +1,8 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://noninomnom.github.io/carnetslunaires/'
 languageCode = 'fr-be'
 title = 'Carnets lunaires'
 theme = 'PaperMod'
 summaryLength = 120
-CanonifyURLs=true
 
 [taxonomies]
   tag = 'tags'
@@ -26,10 +25,6 @@ CanonifyURLs=true
         block = true
     [markup.goldmark.renderer]
       unsafe = true
-
-[[module.mounts]]
-source = 'static'
-target = 'static'
 
 [[module.mounts]]
 source = 'images'
