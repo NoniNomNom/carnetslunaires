@@ -3,11 +3,15 @@ title: 'Lectures favorites de 2020'
 date: Mon, 28 Dec 2020 11:18:00 +0000
 draft: false
 tags: ['Ada Palmer', 'Annie Ernaux', 'Catherine Dufour', 'Disque-monde', 'Kapka Kassabova', 'Listes', 'Louise Mey', 'Magdalena Parys', 'N.K. Jemisin', 'Non-fiction', 'Polar', 'Roman', 'SFFF', 'Terra Ignota', 'Terry Pratchett', 'Thomas Gunzig', 'Warren Ellis']
+cover: 
+    image: "/images/sept-redditions.jpg"
+    hidden: true
+    hiddeninlist: false
 ---
 
-C’est l’heure des bouquins de l'année ! Je me suis imposé d’en choisir dix (en trichant juste un peu) et les ai classés arbitrairement pour le plaisir.
+{{< inTextImg-left url="/images/sept-redditions.jpg" alt="Sept Redditions - couverture" width="30%">}} 
 
-![](https://carnetslunaires.wordpress.com/wp-content/uploads/2021/03/sept-redditions.jpg?w=700)
+C’est l’heure des bouquins de l'année ! Je me suis imposé d’en choisir dix (en trichant juste un peu) et les ai classés arbitrairement pour le plaisir.
 
 1\. "Trop semblable à l’éclair", par Ada Palmer (2016) et "Sept redditions", par Ada Palmer (2017) : double prix de l’amour inconditionnel pour les deux premiers tomes de la saga Terra Ignota, d’une inventivité folle et qui m’ont transportés comme rarement en cette année où c’était plutôt nécessaire.
 

@@ -3,9 +3,13 @@ title: 'Pentiment - Obsidian Entertainment'
 date: Sat, 23 Nov 2024 10:42:15 +0000
 draft: false
 tags: ['Avis', 'Jeu vidéo', 'SFFF']
+cover: 
+    image: "/images/pentiment0.png"
+    hidden: true
+    hiddeninlist: false
 ---
 
-{{< inTextImg-centered url="/images/pentiment0.jpg" alt="Pentiment - couverture" width="50%">}} 
+{{< inTextImg-left url="/images/pentiment0.png" alt="Pentiment - couverture" width="30%">}} 
 
 Quand Pentiment a débarqué en 2022, sa proposition était pour le moins audacieuse : un jeu d'enquête dans un village bavarois du début du XVIème siècle, sur fond de décors en 2D inspirés d'enluminures d'époque. Dire qu'il s'agit d'une niche n'est pas qu'un euphémisme.
 

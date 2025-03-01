@@ -3,9 +3,13 @@ title: 'Les Variations Sebastian - Emily St. John Mandel'
 date: Sat, 21 Sep 2024 18:09:55 +0000
 draft: false
 tags: ['Avis', 'Emily St. John Mandel', 'Polar', 'Roman', 'SFFF']
+cover: 
+    image: "/images/variations-sebastian-1.jpg"
+    hidden: true
+    hiddeninlist: false
 ---
 
-![](https://carnetslunaires.wordpress.com/wp-content/uploads/2024/09/variations-sebastian-1.jpg?w=667)
+{{< inTextImg-left url="/images/variations-sebastian-1.jpg" alt="Les variations Sebastian - couverture" width="30%">}} 
 
 J'ai découvert Emily St. John Mandel il y a deux ans, avec _L'hôtel de verre_. Ébloui par cette rencontre, j'ai par la suite enchaîné avec ses romans les plus anciens (_Une nuit à Montréal_ et _On ne joue pas avec la mort_) avant de passer directement à _Station Eleven_, son best-seller sorti en 2014.
 

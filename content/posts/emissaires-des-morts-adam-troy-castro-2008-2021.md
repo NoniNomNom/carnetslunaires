@@ -1,11 +1,15 @@
 ---
-title: 'Emissaires des Morts - Adam-Troy Castro (2008, 2021)'
+title: 'Emissaires des Morts - Adam-Troy Castro'
 date: Sun, 10 Oct 2021 12:34:48 +0000
 draft: false
 tags: ['Adam-Troy Castro', 'Andrea Cort', 'Avis', 'Nouvelles', 'Roman', 'SFFF']
+cover: 
+    image: "/images/castro-emissairesdesmorts-p1-scaled-1.jpg"
+    hidden: true
+    hiddeninlist: false
 ---
 
-![](https://carnetslunaires.wordpress.com/wp-content/uploads/2021/10/castro-emissairesdesmorts-p1-scaled-1.jpg?w=700)
+{{< inTextImg-left url="/images/castro-emissairesdesmorts-p1-scaled-1.jpg" alt="Emissaire des morts - couverture" width="30%">}} 
 
 Quatre nouvelles et un roman, c'est en réalité ce que nous réserve ce gros livre de science-fiction et d'enquêtes écrit par Adam-Troy Castro, traduit en français en début d'année. Les nouvelles, qui s'étendent sur environ 300 pages, nous servent en fait d'introduction à l'univers et surtout à la protagoniste, Andrea Cort. Enquêtrice et diplomate à tendance misanthrope, elle est hantée par un passé traumatique et pâtit d'une réputation difficile à porter. Toutefois, elle a pour qualité d'être très compétente dans son domaine : résoudre des affaires délicates impliquant humains et espèces extraterrestres. Ces nouvelles, donc, servent en partie d'introduction, mais constituent surtout de vraies enquêtes efficaces qui ont un impact sur la suite des événements et déploient des idées très intéressantes. _Démons invisibles_, par exemple, avec son espèce extraterrestre singulière, m'a rappelé pourquoi j'aimais la science-fiction.
 

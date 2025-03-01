@@ -3,9 +3,13 @@ title: 'Le guet des orfèvres - Terry Pratchett'
 date: Sat, 19 Aug 2023 07:45:29 +0000
 draft: false
 tags: ['Avis', 'Disque-monde', 'Roman', 'SFFF', 'Terry Pratchett']
+cover: 
+    image: "/images/guet_orfevres.jpg"
+    hidden: true
+    hiddeninlist: false
 ---
 
-![](https://carnetslunaires.wordpress.com/wp-content/uploads/2023/07/guet_orfevres.jpg?w=363)
+{{< inTextImg-left url="/images/guet_orfevres.jpg" alt="Le guet des orphèvres - couverture" width="30%">}}
 
 On ne présente plus le _Disque-monde_, l'univers de fantasy satirique auquel Terry Pratchett a donné vie à travers une bonne quarantaine de bouquins. J'essaye de mon côté d'en lire un de temps en temps, parce qu'en général ça me fait du bien. Pas vraiment dans l'ordre, plutôt en fonction des thèmes et des personnages que j'ai envie de rencontrer (le cycle étant composé de quelques romans indépendants et surtout de sous-séries avec leurs personnages récurrents). Cette fois-ci, j'ai eu envie de retourner voir le guet de nuit de la cité d'Ankh-Morpork. Je me suis donc procuré _Le guet des orfèvres_, pour y retrouver la petite troupe dirigée par le capitaine Sam Vimaire.
 

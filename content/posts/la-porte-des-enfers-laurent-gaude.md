@@ -3,9 +3,13 @@ title: 'La Porte des Enfers - Laurent Gaudé'
 date: Sun, 05 Mar 2023 11:39:50 +0000
 draft: false
 tags: ['Avis', 'Laurent Gaudé', 'Roman', 'SFFF']
+cover: 
+    image: "/images/portedesenfers.jpg"
+    hidden: true
+    hiddeninlist: false
 ---
 
-![](https://carnetslunaires.wordpress.com/wp-content/uploads/2023/02/portedesenfers.jpg?w=326)
+{{< inTextImg-left url="/images/portedesenfers.jpg" alt="La porte des enfers - couverture" width="30%">}}
 
 Il y a longtemps que je lorgnais sur Laurent Gaudé, non pas en raison de ses prix littéraires, mais parce que c'est le frère d'Ivan, l'estimé cofondateur du magazine _Canard PC_. Lorsque la journaliste Julie Le Baron (nouvelle rédactrice en chef - bravo - du magazine en question) a dit le plus grand bien de _La Porte des Enfers_, je me suis dit que je commencerais par celui-là, intrigué que j'étais par son côté fantastique et surtout parce qu'il en fallait bien un.
 

@@ -3,9 +3,13 @@ title: 'Hildegarde - Léo Henry'
 date: Sat, 02 Sep 2023 15:23:00 +0000
 draft: false
 tags: ['Avis', 'Léo Henry', 'Roman', 'SFFF']
+cover: 
+    image: "/images/hildegarde.jpg"
+    hidden: true
+    hiddeninlist: false
 ---
 
-![](https://carnetslunaires.wordpress.com/wp-content/uploads/2023/08/hildegarde.jpg?w=712)
+{{< inTextImg-left url="/images/hildegarde.jpg" alt="Hildegarde - couverture" width="30%">}} 
 
 Avec ce roman, je savais que je m'attaquais à quelque chose de spécial. Je m'attendais à un livre ardu, n'évoquant son principal sujet qu'à demi-mot, passant régulièrement du coq-à-l'âne et multipliant les passages à la limite du cryptique. Comme j'étais très intrigué, j'ai quand même eu envie de le lire. Hildegarde de Bingen, dont je n'avais pourtant jamais entendu parler, a vécu au XIIème siècle du côté de l'actuelle Allemagne. Multipliant les casquettes, elle était, je cite Wikipédia : _à la fois abbesse, mystique, visionnaire, illustratrice, compositrice, poétesse, fondatrice et prédicatrice franconienne."_ C'était aussi _"une figure marquant l'apogée de la médecine monastique à la fin du Haut Moyen Âge."_ Un superbe CV, aujourd'hui presque suffisant pour décrocher un CDD à mi-temps. J'étais toutefois prévenu : de Hildegarde, il n'en serait pas vraiment question avant un paquet de pages.
 

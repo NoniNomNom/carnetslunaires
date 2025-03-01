@@ -3,9 +3,13 @@ title: 'Le créateur de poupées - Nina Allan'
 date: Mon, 18 Apr 2022 12:22:11 +0000
 draft: false
 tags: ['Avis', 'Nina Allan', 'Roman', 'SFFF']
+cover: 
+    image: "/images/createur-de-poupees.jpg"
+    hidden: true
+    hiddeninlist: false
 ---
 
-![](https://carnetslunaires.wordpress.com/wp-content/uploads/2022/04/createur-de-poupees.jpg?w=600)
+{{< inTextImg-left url="/images/createur-de-poupees.jpg" alt="Le créateur de poupées - couverture" width="30%">}}
 
 D'habitude, j'écris sur un livre peu de temps après l'avoir terminé. Je fais ici exception car je me suis surpris à évoquer celui-ci récemment alors que la conversation virait bizarrement sur le sujet des poupées (la vie réserve parfois ce genre de surprises). Deux mois après sa lecture, _Le créateur de poupées_, de la britannique Nina Allan et conseillé par la [_Salle 101_](https://emission.salle101.org/) (dont les nouvelles émissions se font attendre), continue semble-t-il de me hanter.
 

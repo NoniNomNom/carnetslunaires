@@ -3,9 +3,13 @@ title: 'Les flibustiers de la mer chimique - Marguerite Imbert'
 date: Sun, 03 Dec 2023 11:28:35 +0000
 draft: false
 tags: ['Avis', 'Marguerite Imbert', 'Roman', 'SFFF']
+cover: 
+    image: "/images/flibustiers.jpg"
+    hidden: true
+    hiddeninlist: false
 ---
 
-![](https://carnetslunaires.wordpress.com/wp-content/uploads/2023/12/flibustiers.jpg?w=700)
+{{< inTextImg-left url="/images/flibustiers.jpg" alt="Les flibustiers de la mer chimique - couverture" width="30%">}} 
 
 Deuxième roman de la Française et Guadeloupéenne Marguerite Imbert, _Les Flibustiers de la mer chimique_ a reçu un accueil très chaleureux des lecteurs et lectrices francophones, empochant notamment le _Grand Prix de l'Imaginaire_ _2023_. Derrière ce nom, qui évoque de vieux romans d'aventure un peu surannés, se dévoile la promesse d'un voyage dangereux, de territoires hostiles et probablement de quelques espèces de pirates.
 

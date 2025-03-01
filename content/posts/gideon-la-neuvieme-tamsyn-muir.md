@@ -3,9 +3,13 @@ title: 'Gideon la Neuvième - Tamsyn Muir'
 date: Sun, 06 Aug 2023 10:36:10 +0000
 draft: false
 tags: ['Avis', 'Le Tombeau Scellé', 'Roman', 'SFFF', 'Tamsyn Muir']
+cover: 
+    image: "/images/gideon.jpg"
+    hidden: true
+    hiddeninlist: false
 ---
 
-![](https://carnetslunaires.wordpress.com/wp-content/uploads/2023/07/gideon.jpg?w=617)
+{{< inTextImg-left url="/images/gideon.jpg" alt="Gideon la Neuvième - couverture" width="30%">}}
 
 A certains égards, _Gideon la Neuvième_ pourrait être un jeu-vidéo plutôt cool. On y incarnerait une guerrière badass et/ou une nécromancienne dans un immense palais décrépit. Elles y résoudraient des énigmes et affronteraient d'étranges ennemis, le tout dans un univers de dark fantasy mâtiné de science-fiction. A un univers étrange et bien fichu, la Néo-zélandaise Tamsyn Muir s'est permis d'ajouter une bonne histoire, des personnages étonnants et, finalement, décidé d'en faire un roman (après tout, les amateurs de jeux ont déjà les _Dark Souls_).
 

@@ -3,9 +3,13 @@ title: 'Les Cartographes - Peng Shepherd'
 date: Sun, 17 Sep 2023 13:03:11 +0000
 draft: false
 tags: ['Avis', 'Roman', 'SFFF']
+cover: 
+    image: "/images/shepherd-les-cartographes.jpg"
+    hidden: true
+    hiddeninlist: false
 ---
 
-![](https://carnetslunaires.wordpress.com/wp-content/uploads/2023/09/shepherd-les-cartographes-700w.jpg?w=699)
+{{< inTextImg-left url="/images/shepherd-les-cartographes.jpg" alt="Les cartographes - couverture" width="30%">}} 
 
 Prévenons d'emblée : je n'ai pas du tout aimé ce livre. Au début, j'étais pourtant curieux : Nell, la protagoniste, enquête sur la présence incongrue d'une vieille carte routière dans les affaires de son père. Une carte sans intérêt qui, elle n'a jamais compris pourquoi, lui a valu son renvoi de la prestigieuse New York Public Library. L'événement a brisé sa carrière et sa vie d'autant plus violemment que c'est son propre père qui l'a mise dehors. Jusqu'ici, on a affaire à un mystère teinté d'affaire de famille assez banal, mais s'ajoute à cela une dimension fantastique quant à la nature des cartes elles-mêmes.
 

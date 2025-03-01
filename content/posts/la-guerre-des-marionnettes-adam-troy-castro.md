@@ -3,11 +3,14 @@ title: 'La guerre des marionnettes - Adam-Troy Castro'
 date: Sat, 13 Jan 2024 16:36:40 +0000
 draft: false
 tags: ['Adam-Troy Castro', 'Andrea Cort', 'Avis', 'Roman', 'SFFF']
+cover: 
+    image: "/images/marionettes.jpg"
+    hidden: true
+    hiddeninlist: false
 ---
+{{< inTextImg-left url="/images/marionettes.jpg" alt="La guerre des marionettes - couverture" width="30%">}} 
 
-![](https://carnetslunaires.wordpress.com/wp-content/uploads/2024/01/marionettes.jpg?w=547)
-
-J'ai déjà parlé d'_Andrea Cort_ [à deux reprises](https://carnetslunaires.wordpress.com/tag/andrea-cort/), mais je m'en voudrais de ne pas évoquer cette troisième parution en français pour cette série mélangeant science-fiction et enquêtes. Précisons tout de suite qu'il est plus que conseillé d'avoir lu les histoires précédentes pour en tirer le maximum. Composé de deux novellas (_Les lames qui sculptent les marionnettes_ et _La cachette_) et d'un corps principal éponyme, _La guerre des marionnettes_ peut sans souci se lire comme un tout cohérent. J'avais axé mon billet consacré à _[La troisième griffe de Dieu](https://carnetslunaires.wordpress.com/2022/09/18/la-troisieme-griffe-de-dieu-adam-troy-castro/)_ autour de quelques mots clés : malaise, dégoût, angoisse et enfer, tout en saluant la qualité d'écriture des personnages et leurs évolutions conjointes. Tout cela s'applique encore ici, en plus intense, même si on change de décor. On pourrait même s'arrêter ici : c'était à la fois abominable et super, merci.
+J'ai déjà parlé d'_Andrea Cort_ [à deux reprises]({{< ref "tags/andrea-cort/" >}}), mais je m'en voudrais de ne pas évoquer cette troisième parution en français pour cette série mélangeant science-fiction et enquêtes. Précisons tout de suite qu'il est plus que conseillé d'avoir lu les histoires précédentes pour en tirer le maximum. Composé de deux novellas (_Les lames qui sculptent les marionnettes_ et _La cachette_) et d'un corps principal éponyme, _La guerre des marionnettes_ peut sans souci se lire comme un tout cohérent. J'avais axé mon billet consacré à _[La troisième griffe de Dieu]({{< ref "la-troisieme-griffe-de-dieu-adam-troy-castro" >}})_ autour de quelques mots clés : malaise, dégoût, angoisse et enfer, tout en saluant la qualité d'écriture des personnages et leurs évolutions conjointes. Tout cela s'applique encore ici, en plus intense, même si on change de décor. On pourrait même s'arrêter ici : c'était à la fois abominable et super, merci.
 
 Le décor, donc : une planète, Vhlan, habitée par une espèce sentiente, les Vhlanis, aussi appelés "fouets" ou "marionnettes" en raison de leur forme de sphère géante dotée de multiples tentacules. Ces derniers se livrent régulièrement à une vaste danse rituelle aussi importante que meurtrière, en cela qu'elle cause plusieurs **centaine de milliers** de morts parmi ses participants. Les autorités humaines pourraient se contenter de trouver ça pittoresque si, depuis quelques temps, des milliers de pèlerins humains ne se rendaient pas sur Vhlan pour s'ajouter à la liste des cadavres.
 

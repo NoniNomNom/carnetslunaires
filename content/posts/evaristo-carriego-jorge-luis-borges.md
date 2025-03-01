@@ -3,9 +3,13 @@ title: 'Evaristo Carriego - Jorge Luis Borges'
 date: Sat, 01 Jul 2023 11:45:53 +0000
 draft: false
 tags: ['Avis', 'Jorge Luis Borges', 'Non-fiction', 'SFFF']
+cover: 
+    image: "/images/evaristocarriego.jpg"
+    hidden: true
+    hiddeninlist: false
 ---
 
-![](https://carnetslunaires.wordpress.com/wp-content/uploads/2023/06/evaristocarriego.jpg?w=616)
+{{< inTextImg-left url="/images/evaristocarriego.jpg" alt="Evaristo Carriego - couverture" width="30%">}}
 
 Vu ses pages toutes brunies par les années, j'ai dû trouver ce petit livre il y a dix ou quinze ans dans une bouquinerie, pour ne jamais l'ouvrir jusqu'à cette année. De Borges, je connaissais déjà _L'Aleph_ et _Fictions_, deux recueils de nouvelles étranges, tirant vers le fantastique, l'imaginaire ou l'expérimental, parus dans les années 1940. Une de celles qui m'a le plus marqué est probablement _Pierre Ménard, auteur du Quichotte_ dans lequel l'auteur argentin esquisse une biographie pleine d'érudition d'un auteur français des années 1930 qui n'a jamais existé.
 

@@ -3,9 +3,13 @@ title: 'Annihilation - Jeff VanderMeer'
 date: Sat, 08 Apr 2023 09:42:08 +0000
 draft: false
 tags: ['Avis', 'Jeff VanderMeer', 'La trilogie du rempart sud', 'Roman', 'SFFF']
+cover: 
+    image: "/images/annihilation.jpg"
+    hidden: true
+    hiddeninlist: false
 ---
 
-![](https://carnetslunaires.wordpress.com/wp-content/uploads/2023/04/annihilation.jpg?w=220)
+{{< inTextImg-left url="/images/annihilation.jpg" alt="Annihilation - couverture" width="30%">}}
 
 Mes expériences avec la weird fiction n'ont pas toujours été de franches réussites. Pour m'attaquer à Jeff VanderMeer (qu'on pourrait qualifier de pape du genre), je me suis dit que commencer par ce petit roman d'un peu plus de 200 pages serait une bonne idée. Alors oui, je n'ai tenu qu'une demi-heure devant l'adaptation d'_Annihilation_ par _Netflix_, mais c'est davantage la frousse qui m'a fait renoncer, plutôt qu'une quelconque opinion sur le film. Une bonne occasion de vérifier que je supporte mieux l'horreur dans un bouquin que devant un écran. Résumons donc : une zone étrange, comme coupée du monde, a fait irruption quelque part aux Etats-Unis. Depuis cette apparition, les autorités y envoient régulièrement des expéditions afin d'en apprendre plus sur ce qu'elle contient. C'est une biologiste, membre d'une équipe exclusivement composée de femmes, qui nous raconte cette histoire. Elle revient sur son expérience dans la zone, dès les premiers pas à l'intérieur, et nous révèle aussi une partie de son passé.
 

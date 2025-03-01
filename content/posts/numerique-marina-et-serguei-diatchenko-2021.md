@@ -1,13 +1,17 @@
 ---
-title: 'Numérique - Marina et Sergueï Diatchenko (2021)'
+title: 'Numérique - Marina et Sergueï Diatchenko'
 date: Sat, 19 Jun 2021 09:26:34 +0000
 draft: false
 tags: ['Avis', 'Les métamorphoses', 'Marina &amp; Sergueï Diatchenko', 'Roman', 'SFFF']
+cover: 
+    image: "/images/numerique.jpg"
+    hidden: true
+    hiddeninlist: false
 ---
 
-![](https://carnetslunaires.wordpress.com/wp-content/uploads/2021/06/numerique.jpg?w=653)
+{{< inTextImg-left url="/images/numerique.jpg" alt="Numérique - couverture" width="30%">}} 
 
-_Numérique - Brevis est_, par Marina et Sergueï Diatchenko, est le second tome du cycle des _Métamorphoses_, dont le premier opus n'est autre que le fameux _Vita Nostra_, [qui m'a tellement plu en ce début d'année](https://carnetslunaires.wordpress.com/2021/02/07/vita-nostra-marina-serguei-diatchenko-2019/).
+_Numérique - Brevis est_, par Marina et Sergueï Diatchenko, est le second tome du cycle des _Métamorphoses_, dont le premier opus n'est autre que le fameux _Vita Nostra_, [qui m'a tellement plu en ce début d'année]({{< ref "vita-nostra-marina-serguei-diatchenko-2019" >}}).
 
 Il ne s'agit pas d'une suite : il n'est plus ici question d'institut étrange ni de professeurs sadiques. Pourtant, on retrouve des ingrédients qui nous sont familiers. Arsène, le protagoniste, un adolescent dont la vie tourne principalement autour des jeux-vidéo, voit son quotidien changé lorsqu'il rencontre un inconnu : Maxime. Ce dernier lui propose de participer à un concours consistant essentiellement à tester des jeux nouveaux : s'il l'emporte, il pourra travailler pour lui. Cette fois-ci, on ne force personne, Arsène n'a à perdre que ses rêves de gloire. Toutefois, si ce dernier est un champion de la manipulation en ligne, Maxime n'est évidemment pas en reste.
 

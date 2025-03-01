@@ -3,9 +3,13 @@ title: 'OVNI 78 - Wu Ming'
 date: Sun, 06 Oct 2024 10:05:12 +0000
 draft: false
 tags: ['Avis', 'Roman', 'SFFF', 'Wu Ming']
+cover: 
+    image: "/images/wuming-couv.png"
+    hidden: true
+    hiddeninlist: false
 ---
 
-![](https://carnetslunaires.wordpress.com/wp-content/uploads/2024/09/wuming-couv.png?w=621)
+{{< inTextImg-left url="/images/wuming-couv.png" alt="OVNI 78 - couverture" width="30%">}} 
 
 Ce serait dommage de ne pas dire un mot d'_OVNI 78_, que j'ai lu cet été et qui sera certainement mon livre de l'année.
 

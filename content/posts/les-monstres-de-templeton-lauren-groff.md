@@ -3,9 +3,13 @@ title: 'Les monstres de Templeton - Lauren Groff'
 date: Sat, 10 Feb 2024 14:36:46 +0000
 draft: false
 tags: ['Avis', 'Lauren Groff', 'Roman', 'SFFF']
+cover: 
+    image: "/images/monstres_templeton.jpg"
+    hidden: true
+    hiddeninlist: false
 ---
 
-![](https://carnetslunaires.wordpress.com/wp-content/uploads/2024/02/monstres_templeton.jpg?w=634)
+{{< inTextImg-left url="/images/monstres_templeton.jpg" alt="Les Monstres de Templeton - couverture" width="30%">}} 
 
 C'est peut-être son incipit, qu'on retrouve sur sa quatrième de couverture, qui m'a convaincu de lire _Les monstres de Templeton_. Nous allons donc le décortiquer en trois points.
 

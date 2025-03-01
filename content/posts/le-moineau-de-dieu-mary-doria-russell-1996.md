@@ -1,11 +1,15 @@
 ---
-title: 'Le Moineau de Dieu - Mary Doria Russell (1996)'
+title: 'Le Moineau de Dieu - Mary Doria Russell'
 date: Tue, 17 Aug 2021 19:42:53 +0000
 draft: false
 tags: ['Avis', 'Mary Doria Russell', 'Roman', 'SFFF']
+cover: 
+    image: "/images/moineau-de-dieu.jpg"
+    hidden: true
+    hiddeninlist: false
 ---
 
-![](https://carnetslunaires.wordpress.com/wp-content/uploads/2021/08/moineau-de-dieu.jpg?w=351)
+{{< inTextImg-left url="/images/moineau-de-dieu.jpg" alt="Le moineau de dieu - couverture" width="30%">}} 
 
 Certains romans, même en version numérique, semblent avoir des pages jaunies par le temps. _Le Moineau de Dieu_, de l'Américaine Mary Doria Russell, n'est pourtant pas _si_ vieux. Sorti en 1996, sept ans après _Hypérion_ (on y reviendra), il a par la même occasion reçu quelques prix littéraires liés à l'imaginaire (notamment le Prix Arthur C. Clarke en 1998). Dès le titre, nous sommes prévenus : il est ici beaucoup question de religion (catholique essentiellement) - allergiques s'abstenir. Et pour cause : après avoir capté, depuis le radiotélescope d'Arecibo, ce qui ressemble fort à des chants extraterrestres, la Compagnie de Jésus décide de mettre en place une expédition spatiale afin d'aller les rencontrer. Là où ça se corse, c'est que nous suivons en parallèle l'épilogue de l'aventure, à savoir la réadaptation du prêtre Emilio Sandoz, seul survivant, revenu bizarrement mutilé et psychologiquement ébranlé. Un sort funeste qui contraste avec l'optimisme, voire la naïveté, qui entoure l'organisation du projet.
 

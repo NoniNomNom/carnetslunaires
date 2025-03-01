@@ -3,11 +3,15 @@ title: 'Citadins de demain - Claire Duvivier'
 date: Sun, 08 May 2022 08:01:52 +0000
 draft: false
 tags: ['Avis', 'Capitale du Nord', 'Claire Duvivier', 'Guillaume Chamanadjian', 'La tour de garde', 'Roman', 'SFFF']
+cover: 
+    image: "/images/citadins-de-demain.jpg"
+    hidden: true
+    hiddeninlist: false
 ---
 
-![](https://carnetslunaires.wordpress.com/wp-content/uploads/2022/04/citadins-de-demain.jpg?w=280)
+{{< inTextImg-left url="/images/citadins-de-demain.jpg" alt="Citadins de demain - couverture" width="30%">}}
 
-C'est avec beaucoup d'impatience que j'ai entamé _Citadins de demain_, premier tome de la trilogie _Capitale du Nord_, écrit par Claire Duvivier. Ce premier opus se lit en parallèle du _Sang de la cité_, dont j'ai parlé [ici-même](https://carnetslunaires.wordpress.com/2022/04/09/le-sang-de-la-cite-guillaume-chamanadjian/), et qui entame lui la trilogie _Capitale du Sud_. Ensemble, ces deux séries composent l'étonnante saga de _La tour de garde_.
+C'est avec beaucoup d'impatience que j'ai entamé _Citadins de demain_, premier tome de la trilogie _Capitale du Nord_, écrit par Claire Duvivier. Ce premier opus se lit en parallèle du _Sang de la cité_, dont j'ai parlé [ici-même]({{< ref "le-sang-de-la-cite-guillaume-chamanadjian" >}}), et qui entame lui la trilogie _Capitale du Sud_. Ensemble, ces deux séries composent l'étonnante saga de _La tour de garde_.
 
 Nous découvrons ici la cité de Dehaven, bien différente de sa cousine du sud Gemina. Peut-être est-ce dû à l'écriture limpide de Claire Duvivier, peut-être simplement à la conception de la ville elle-même : Cité-Etat commerciale, la richesse de Dehaven dépend de ses colonies insulaires. L'histoire se déroulant en parallèle du _Sang de la cité_, l'exercice de comparaison est inévitable. Dehaven semble ainsi plus ouverte sur le monde (dont elle tire profit) et davantage tournée vers l'avenir que Gemina. Plus austère, aussi. Leurs habitants, par contre, partagent une passion commune pour un jeu, la tour de garde, vague cousin des échecs. Enfin, les deux cités font face à des troubles sociaux et politiques qui mettent leur stabilité en péril.
 

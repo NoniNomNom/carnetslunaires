@@ -3,9 +3,13 @@ title: 'Le Grand Livre - Connie Willis'
 date: Mon, 30 Oct 2023 10:26:43 +0000
 draft: false
 tags: ['Avis', 'Connie Willis', 'Roman', 'SFFF']
+cover: 
+    image: "/images/le-grand-livre.jpg"
+    hidden: true
+    hiddeninlist: false
 ---
 
-![](https://carnetslunaires.wordpress.com/wp-content/uploads/2023/10/le-grand-livre.jpg?w=400)
+{{< inTextImg-left url="/images/le-grand-livre.jpg" alt="Le grand livre - couverture" width="30%">}} 
 
 En matière de littératures de l'imaginaire, Connie Willis est une habituée des prix : onze prix Hugo, sept Nebula et douze Locus empochés entre le début des années 1980 et le début des années 2010, ce qui en fait probablement la personne la plus primée du genre. _Le Grand Livre_, à qui on s'intéresse aujourd'hui, a reçu les trois et est sorti en 1992.
 

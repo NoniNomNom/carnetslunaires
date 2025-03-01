@@ -3,9 +3,13 @@ title: 'La fracture - Nina Allan'
 date: Sat, 02 Nov 2024 20:33:21 +0000
 draft: false
 tags: ['Avis', 'Nina Allan', 'Roman', 'SFFF']
+cover: 
+    image: "/images/la_fracture.jpg"
+    hidden: true
+    hiddeninlist: false
 ---
 
-{{< inTextImg-left url="/images/la_fracture.jpg" alt="Pentiment - couverture" width="30%">}} 
+{{< inTextImg-left url="/images/la_fracture.jpg" alt="La fracture - couverture" width="30%">}} 
 
 De ma première lecture de Nina Allan, _[Le créateur de poupées](/posts/le-createur-de-poupees-nina-allan/)_, j'ai conservé une impression de malaise vivace et tenace. Comme je l'anticipais un peu à l'époque, ce roman a laissé une marque durable dans ma mémoire, ce qui est finalement tout ce qu'on lui demande et appelle d'autres expériences du même genre. Je suis donc retourné vers l'autrice britannique avec _La fracture_, qui se présente comme une histoire de disparition (spoiler : c'est plus compliqué que ça).
 

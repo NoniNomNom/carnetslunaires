@@ -3,9 +3,13 @@ title: 'Station Eleven - Emily St. John Mandel'
 date: Sat, 06 Apr 2024 07:32:43 +0000
 draft: false
 tags: ['Avis', 'Emily St. John Mandel', 'Roman', 'SFFF']
+cover: 
+    image: "/images/stationeleven.jpg"
+    hidden: true
+    hiddeninlist: false
 ---
 
-![](https://carnetslunaires.wordpress.com/wp-content/uploads/2024/03/stationeleven.jpg?w=441)
+{{< inTextImg-left url="/images/stationeleven.jpg" alt="Station Eleven - couverture" width="30%">}} 
 
 J'ai repris mon rattrapage des romans d'Emily St. John Mandel. Cette fois-ci : _Station Eleven_., son best-seller, que j'ai entamé non sans une certaine appréhension. C'est qu'on attaque ici le genre post-apocalyptique, qui ne m'enthousiasme pas plus que ça.
 
