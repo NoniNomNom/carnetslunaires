@@ -25,6 +25,9 @@ summaryLength = 120
         block = true
     [markup.goldmark.renderer]
       unsafe = true
+    [markup.goldmark.renderHooks]
+      [markup.goldmark.renderHooks.image]
+        enableDefault = true
 
 [[module.mounts]]
   source = 'static'
