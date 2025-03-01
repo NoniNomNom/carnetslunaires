@@ -3,6 +3,7 @@ languageCode = 'fr-be'
 title = 'Carnets lunaires'
 theme = 'PaperMod'
 summaryLength = 120
+CanonifyURLs=true
 
 [taxonomies]
   tag = 'tags'
