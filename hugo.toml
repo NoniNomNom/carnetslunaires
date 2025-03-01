@@ -30,19 +30,7 @@ summaryLength = 120
         enableDefault = true
 
 [[module.mounts]]
-  source = 'static'
-  target = 'static'
-
-[[module.mounts]]
-source = 'images'
-target = 'static/images'
-
-[[module.mounts]]
   source = 'assets'
-  target = 'assets'
-  
-[[module.mounts]]
-  source = 'static'
   target = 'assets'
 
 [outputs]
