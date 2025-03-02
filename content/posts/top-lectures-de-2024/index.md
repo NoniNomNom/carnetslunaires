@@ -22,7 +22,7 @@ On dirait que 2024 a été l'année la plus prolifique en lectures de ma vie. Je
     *   _Les Monstres de Templeton_, de Lauren Groff. [Du fantastique (un peu) et de la généalogie (beaucoup)]({{< ref "les-monstres-de-templeton-lauren-groff" >}}).
     *   _La Fracture_, de Nina Allan. [Une mystérieuse disparition et pas mal de bizarreries (dans le fond et dans la forme)]({{< ref "la-fracture-nina-allan" >}}).
 
-{{< inTextImg-right url="/images/cite-des-marches.jpg" alt="La cité des marches - couverture" width="200">}} 
+{{< inTextImg-right url="cite-des-marches.jpg" alt="La cité des marches - couverture" width="200">}} 
 
 *   Au rayon "imaginaire qui tache" :
     *   _La Cité des Marches_, de Robert Jackson Bennett. Le premier tome d'une trilogie fantasy. Il y est notamment question de colonialisme et du rapport des peuples à leur histoire. Ca se lit comme un bon roman d'espionnage, les dieux magiciens en plus.
@@ -31,7 +31,7 @@ On dirait que 2024 a été l'année la plus prolifique en lectures de ma vie. Je
     *   _La Compagnie des spectres_, de Lydie Salvayre. Folie, précarité et résistance. C'est toujours un plaisir d'envoyer des tombereaux d'insultes au Maréchal et à ses collaborateurs.
     *   _Nein, Nein, Nein!_, de Jerry Stahl. L'auteur, écrivain juif américain, nous raconte son voyage organisé (en bus) à travers les camps de concentration et d'extermination nazis devenus des parcs d'attraction mémoriels. L'effarement est très présent et j'ai beaucoup ri (mais j'aime l'humour désespéré).
 
-{{< inTextImg-right url="/images/happy-endings.jpg" alt="Happy Endings - couverture" width="200">}} 
+{{< inTextImg-right url="happy-endings.jpg" alt="Happy Endings - couverture" width="200">}} 
 
 *   Et deux BD :
     *   _Happy Endings_, de Lucie Bryon. Une formidable BD sortie cette année, d'une grande douceur. L'album est composé de trois histoires distinctes, dont le merveilleux _Océan_ qui illustre la couverture. L'autrice continue sur sa lancée après un _Voleuse_ qui était déjà super.
