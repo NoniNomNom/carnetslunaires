@@ -1,5 +1,6 @@
 baseURL = 'https://noninomnom.github.io/carnetslunaires/'
 languageCode = 'fr-be'
+timezone = 'Europe/Brussels'
 title = 'Carnets lunaires'
 theme = 'PaperMod'
 summaryLength = 120
@@ -30,6 +31,7 @@ summaryLength = 120
 home = ["HTML", "RSS", "JSON"]
 
 [params]
+  ShowRssButtonInSectionTermList = true
   [params.fuseOpts]
     isCaseSensitive = false
     shouldSort = true
@@ -38,4 +40,4 @@ home = ["HTML", "RSS", "JSON"]
     threshold = 0.4
     minMatchCharLength = 0
     # limit = 10 # refer: https://www.fusejs.io/api/methods.html#search
-    keys = ["title", "content"]
+    keys = ["title", "content"]    
