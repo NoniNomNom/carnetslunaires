@@ -2,7 +2,7 @@
 title: 'Lectures favorites de 2021'
 date: Fri, 31 Dec 2021 10:00:23 +0000
 draft: false
-tags: ['Ada Palmer', 'Annie Ernaux', 'Claire Duvivier', 'Iain M. Banks', 'Jake Adelstein', 'Les métamorphoses', 'Listes', 'Marina &amp; Sergueï Diatchenko', 'Myriam Leroy', 'N.K. Jemisin', 'Nnedi Okorafor', 'Non-fiction', 'Roman', 'SFFF']
+tags: ['Ada Palmer', 'Annie Ernaux', 'Claire Duvivier', 'Iain M. Banks', 'Jake Adelstein', 'Les métamorphoses', 'Listes', 'Marina & Sergueï Diatchenko', 'Myriam Leroy', 'N.K. Jemisin', 'Nnedi Okorafor', 'Non-fiction', 'Roman', 'SFFF']
 cover: 
     image: "la-femme-gelee.jpg"
     hidden: true
