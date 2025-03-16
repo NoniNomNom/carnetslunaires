@@ -2,7 +2,7 @@
 title: 'L’homme qui mit fin à l’histoire - Ken Liu'
 date: Sat, 22 Aug 2020 10:15:00 +0000
 draft: false
-tags: ['Avis', 'Ken Liu', 'Novella', 'SFFF', 'Une Heure-Lumière']
+tags: ['Avis', 'Ken Liu', 'Novella', 'SFFF', 'Une Heure-Lumière', 'Histoire']
 cover: 
     image: "lhomme-qui-mit-fin-a-lhistoire.jpg"
     hidden: true

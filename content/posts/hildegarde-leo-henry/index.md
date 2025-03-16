@@ -2,7 +2,7 @@
 title: 'Hildegarde - Léo Henry'
 date: Sat, 02 Sep 2023 15:23:00 +0000
 draft: false
-tags: ['Avis', 'Léo Henry', 'Roman', 'SFFF']
+tags: ['Avis', 'Léo Henry', 'Roman', 'SFFF', 'Histoire', 'Biographie']
 cover: 
     image: "hildegarde.jpg"
     hidden: true
