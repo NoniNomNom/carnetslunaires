@@ -142,7 +142,6 @@ Là-dessus, aucun mensonge sur la marchandise : nous sommes d&rsquo;emblée cuei
 
 
   </div>
-
   <footer class="post-footer">
     <ul class="post-tags">
       <li><a href="http://localhost:1313/carnetslunaires/tags/avis/">Avis</a></li>
@@ -150,6 +149,35 @@ Là-dessus, aucun mensonge sur la marchandise : nous sommes d&rsquo;emblée cuei
       <li><a href="http://localhost:1313/carnetslunaires/tags/roman/">Roman</a></li>
       <li><a href="http://localhost:1313/carnetslunaires/tags/sfff/">SFFF</a></li>
     </ul>
+    
+    <h4>Comments:</h4>
+    <div id="cusdis_thread"
+    data-host="https://cusdis.com"
+    data-app-id="b90706c7-4b60-49d3-b743-3d38870f4e59"
+    data-page-id="ee98873699a34992cdd86766f38226b3" 
+    data-page-url="http://localhost:1313/carnetslunaires/posts/les-flibustiers-de-la-mer-chimique-marguerite-imbert/"
+    data-theme="auto"
+    data-page-title="Les flibustiers de la mer chimique - Marguerite Imbert"></div>
+    <script async defer src="https://cusdis.com/js/widget/lang/fr.js"></script>
+    <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+    <script>
+      const observer = new MutationObserver((mutations) => {
+          mutations.forEach((mutation) => {
+              if (mutation.addedNodes.length == 0) return;
+              const iframe = mutation.addedNodes[0];
+              if (iframe.tagName !== 'IFRAME') return;
+      
+              const additionalStyles = `
+              #root {
+                  color: orangered;
+              }
+              `;
+              
+              iframe.srcdoc = iframe.srcdoc.replace('</style>', additionalStyles + '</style>');
+          });
+      });
+      observer.observe(document.getElementById("cusdis_thread"), { childList: true, subtree: true });
+      </script>
   </footer>
 </article>
     </main>

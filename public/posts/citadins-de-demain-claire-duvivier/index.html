@@ -143,7 +143,6 @@ Nous découvrons ici la cité de Dehaven, bien différente de sa cousine du sud 
 
 
   </div>
-
   <footer class="post-footer">
     <ul class="post-tags">
       <li><a href="http://localhost:1313/carnetslunaires/tags/avis/">Avis</a></li>
@@ -154,6 +153,35 @@ Nous découvrons ici la cité de Dehaven, bien différente de sa cousine du sud 
       <li><a href="http://localhost:1313/carnetslunaires/tags/roman/">Roman</a></li>
       <li><a href="http://localhost:1313/carnetslunaires/tags/sfff/">SFFF</a></li>
     </ul>
+    
+    <h4>Comments:</h4>
+    <div id="cusdis_thread"
+    data-host="https://cusdis.com"
+    data-app-id="b90706c7-4b60-49d3-b743-3d38870f4e59"
+    data-page-id="d0a37fe62be5ada989675be9822766e1" 
+    data-page-url="http://localhost:1313/carnetslunaires/posts/citadins-de-demain-claire-duvivier/"
+    data-theme="auto"
+    data-page-title="Citadins de demain - Claire Duvivier"></div>
+    <script async defer src="https://cusdis.com/js/widget/lang/fr.js"></script>
+    <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+    <script>
+      const observer = new MutationObserver((mutations) => {
+          mutations.forEach((mutation) => {
+              if (mutation.addedNodes.length == 0) return;
+              const iframe = mutation.addedNodes[0];
+              if (iframe.tagName !== 'IFRAME') return;
+      
+              const additionalStyles = `
+              #root {
+                  color: orangered;
+              }
+              `;
+              
+              iframe.srcdoc = iframe.srcdoc.replace('</style>', additionalStyles + '</style>');
+          });
+      });
+      observer.observe(document.getElementById("cusdis_thread"), { childList: true, subtree: true });
+      </script>
   </footer>
 </article>
     </main>

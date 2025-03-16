@@ -147,7 +147,6 @@ Au moment de m&rsquo;y mettre, deux constats se sont imposés à moi. Le premier
 
 
   </div>
-
   <footer class="post-footer">
     <ul class="post-tags">
       <li><a href="http://localhost:1313/carnetslunaires/tags/ada-palmer/">Ada Palmer</a></li>
@@ -156,6 +155,35 @@ Au moment de m&rsquo;y mettre, deux constats se sont imposés à moi. Le premier
       <li><a href="http://localhost:1313/carnetslunaires/tags/sfff/">SFFF</a></li>
       <li><a href="http://localhost:1313/carnetslunaires/tags/terra-ignota/">Terra Ignota</a></li>
     </ul>
+    
+    <h4>Comments:</h4>
+    <div id="cusdis_thread"
+    data-host="https://cusdis.com"
+    data-app-id="b90706c7-4b60-49d3-b743-3d38870f4e59"
+    data-page-id="58548c3d434bb9d587066255b3dddcbb" 
+    data-page-url="http://localhost:1313/carnetslunaires/posts/terra-ignota-la-fin-ada-palmer/"
+    data-theme="auto"
+    data-page-title="Terra Ignota, la fin - Ada Palmer"></div>
+    <script async defer src="https://cusdis.com/js/widget/lang/fr.js"></script>
+    <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+    <script>
+      const observer = new MutationObserver((mutations) => {
+          mutations.forEach((mutation) => {
+              if (mutation.addedNodes.length == 0) return;
+              const iframe = mutation.addedNodes[0];
+              if (iframe.tagName !== 'IFRAME') return;
+      
+              const additionalStyles = `
+              #root {
+                  color: orangered;
+              }
+              `;
+              
+              iframe.srcdoc = iframe.srcdoc.replace('</style>', additionalStyles + '</style>');
+          });
+      });
+      observer.observe(document.getElementById("cusdis_thread"), { childList: true, subtree: true });
+      </script>
   </footer>
 </article>
     </main>

@@ -144,7 +144,6 @@ Ce mois-ci, j&rsquo;ai lu le polar Après les chiens, écrit par la journaliste 
 
 
   </div>
-
   <footer class="post-footer">
     <ul class="post-tags">
       <li><a href="http://localhost:1313/carnetslunaires/tags/annie-ernaux/">Annie Ernaux</a></li>
@@ -153,6 +152,35 @@ Ce mois-ci, j&rsquo;ai lu le polar Après les chiens, écrit par la journaliste 
       <li><a href="http://localhost:1313/carnetslunaires/tags/polar/">Polar</a></li>
       <li><a href="http://localhost:1313/carnetslunaires/tags/roman/">Roman</a></li>
     </ul>
+    
+    <h4>Comments:</h4>
+    <div id="cusdis_thread"
+    data-host="https://cusdis.com"
+    data-app-id="b90706c7-4b60-49d3-b743-3d38870f4e59"
+    data-page-id="7679d2e6833a1b76985520d1ff0eac72" 
+    data-page-url="http://localhost:1313/carnetslunaires/posts/bilan-davril/"
+    data-theme="auto"
+    data-page-title="Bilan d&#39;avril"></div>
+    <script async defer src="https://cusdis.com/js/widget/lang/fr.js"></script>
+    <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+    <script>
+      const observer = new MutationObserver((mutations) => {
+          mutations.forEach((mutation) => {
+              if (mutation.addedNodes.length == 0) return;
+              const iframe = mutation.addedNodes[0];
+              if (iframe.tagName !== 'IFRAME') return;
+      
+              const additionalStyles = `
+              #root {
+                  color: orangered;
+              }
+              `;
+              
+              iframe.srcdoc = iframe.srcdoc.replace('</style>', additionalStyles + '</style>');
+          });
+      });
+      observer.observe(document.getElementById("cusdis_thread"), { childList: true, subtree: true });
+      </script>
   </footer>
 </article>
     </main>

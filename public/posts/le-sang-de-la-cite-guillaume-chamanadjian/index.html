@@ -142,7 +142,6 @@ Respectant sans raison particulière l&rsquo;ordre chronologique des sorties, j&
 
 
   </div>
-
   <footer class="post-footer">
     <ul class="post-tags">
       <li><a href="http://localhost:1313/carnetslunaires/tags/avis/">Avis</a></li>
@@ -153,6 +152,35 @@ Respectant sans raison particulière l&rsquo;ordre chronologique des sorties, j&
       <li><a href="http://localhost:1313/carnetslunaires/tags/roman/">Roman</a></li>
       <li><a href="http://localhost:1313/carnetslunaires/tags/sfff/">SFFF</a></li>
     </ul>
+    
+    <h4>Comments:</h4>
+    <div id="cusdis_thread"
+    data-host="https://cusdis.com"
+    data-app-id="b90706c7-4b60-49d3-b743-3d38870f4e59"
+    data-page-id="70d30b86bc309f4d7d4162ea044bf9d3" 
+    data-page-url="http://localhost:1313/carnetslunaires/posts/le-sang-de-la-cite-guillaume-chamanadjian/"
+    data-theme="auto"
+    data-page-title="Le sang de la Cité - Guillaume Chamanadjian"></div>
+    <script async defer src="https://cusdis.com/js/widget/lang/fr.js"></script>
+    <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+    <script>
+      const observer = new MutationObserver((mutations) => {
+          mutations.forEach((mutation) => {
+              if (mutation.addedNodes.length == 0) return;
+              const iframe = mutation.addedNodes[0];
+              if (iframe.tagName !== 'IFRAME') return;
+      
+              const additionalStyles = `
+              #root {
+                  color: orangered;
+              }
+              `;
+              
+              iframe.srcdoc = iframe.srcdoc.replace('</style>', additionalStyles + '</style>');
+          });
+      });
+      observer.observe(document.getElementById("cusdis_thread"), { childList: true, subtree: true });
+      </script>
   </footer>
 </article>
     </main>

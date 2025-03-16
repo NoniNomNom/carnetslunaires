@@ -151,7 +151,6 @@ Pourtant, au cours de ma lecture, j&rsquo;ai beaucoup pesté sur des choix gramm
 
 
   </div>
-
   <footer class="post-footer">
     <ul class="post-tags">
       <li><a href="http://localhost:1313/carnetslunaires/tags/ada-palmer/">Ada Palmer</a></li>
@@ -164,6 +163,35 @@ Pourtant, au cours de ma lecture, j&rsquo;ai beaucoup pesté sur des choix gramm
       <li><a href="http://localhost:1313/carnetslunaires/tags/teixcalaan/">Teixcalaan</a></li>
       <li><a href="http://localhost:1313/carnetslunaires/tags/terra-ignota/">Terra Ignota</a></li>
     </ul>
+    
+    <h4>Comments:</h4>
+    <div id="cusdis_thread"
+    data-host="https://cusdis.com"
+    data-app-id="b90706c7-4b60-49d3-b743-3d38870f4e59"
+    data-page-id="90dfb970b2e13872ad713417f2beaf82" 
+    data-page-url="http://localhost:1313/carnetslunaires/posts/la-justice-de-lancillaire-ann-leckie/"
+    data-theme="auto"
+    data-page-title="La Justice de l&#39;ancillaire - Ann Leckie"></div>
+    <script async defer src="https://cusdis.com/js/widget/lang/fr.js"></script>
+    <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+    <script>
+      const observer = new MutationObserver((mutations) => {
+          mutations.forEach((mutation) => {
+              if (mutation.addedNodes.length == 0) return;
+              const iframe = mutation.addedNodes[0];
+              if (iframe.tagName !== 'IFRAME') return;
+      
+              const additionalStyles = `
+              #root {
+                  color: orangered;
+              }
+              `;
+              
+              iframe.srcdoc = iframe.srcdoc.replace('</style>', additionalStyles + '</style>');
+          });
+      });
+      observer.observe(document.getElementById("cusdis_thread"), { childList: true, subtree: true });
+      </script>
   </footer>
 </article>
     </main>

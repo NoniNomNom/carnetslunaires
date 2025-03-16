@@ -151,7 +151,6 @@ C’est l’heure des bouquins de l&rsquo;année ! Je me suis imposé d’en cho
 
 
   </div>
-
   <footer class="post-footer">
     <ul class="post-tags">
       <li><a href="http://localhost:1313/carnetslunaires/tags/ada-palmer/">Ada Palmer</a></li>
@@ -172,6 +171,35 @@ C’est l’heure des bouquins de l&rsquo;année ! Je me suis imposé d’en cho
       <li><a href="http://localhost:1313/carnetslunaires/tags/thomas-gunzig/">Thomas Gunzig</a></li>
       <li><a href="http://localhost:1313/carnetslunaires/tags/warren-ellis/">Warren Ellis</a></li>
     </ul>
+    
+    <h4>Comments:</h4>
+    <div id="cusdis_thread"
+    data-host="https://cusdis.com"
+    data-app-id="b90706c7-4b60-49d3-b743-3d38870f4e59"
+    data-page-id="d105c07a3058dee99c551a5b7ba89910" 
+    data-page-url="http://localhost:1313/carnetslunaires/posts/lectures-favorites-de-2020/"
+    data-theme="auto"
+    data-page-title="Lectures favorites de 2020"></div>
+    <script async defer src="https://cusdis.com/js/widget/lang/fr.js"></script>
+    <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+    <script>
+      const observer = new MutationObserver((mutations) => {
+          mutations.forEach((mutation) => {
+              if (mutation.addedNodes.length == 0) return;
+              const iframe = mutation.addedNodes[0];
+              if (iframe.tagName !== 'IFRAME') return;
+      
+              const additionalStyles = `
+              #root {
+                  color: orangered;
+              }
+              `;
+              
+              iframe.srcdoc = iframe.srcdoc.replace('</style>', additionalStyles + '</style>');
+          });
+      });
+      observer.observe(document.getElementById("cusdis_thread"), { childList: true, subtree: true });
+      </script>
   </footer>
 </article>
     </main>

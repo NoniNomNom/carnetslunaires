@@ -144,7 +144,6 @@ En trame de fond, il y a les années de plomb : une période violente et complex
 
 
   </div>
-
   <footer class="post-footer">
     <ul class="post-tags">
       <li><a href="http://localhost:1313/carnetslunaires/tags/avis/">Avis</a></li>
@@ -152,6 +151,35 @@ En trame de fond, il y a les années de plomb : une période violente et complex
       <li><a href="http://localhost:1313/carnetslunaires/tags/sfff/">SFFF</a></li>
       <li><a href="http://localhost:1313/carnetslunaires/tags/wu-ming/">Wu Ming</a></li>
     </ul>
+    
+    <h4>Comments:</h4>
+    <div id="cusdis_thread"
+    data-host="https://cusdis.com"
+    data-app-id="b90706c7-4b60-49d3-b743-3d38870f4e59"
+    data-page-id="a0fb2489b2f3288744afac3ca36a8f33" 
+    data-page-url="http://localhost:1313/carnetslunaires/posts/ovni-78-wu-ming/"
+    data-theme="auto"
+    data-page-title="OVNI 78 - Wu Ming"></div>
+    <script async defer src="https://cusdis.com/js/widget/lang/fr.js"></script>
+    <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+    <script>
+      const observer = new MutationObserver((mutations) => {
+          mutations.forEach((mutation) => {
+              if (mutation.addedNodes.length == 0) return;
+              const iframe = mutation.addedNodes[0];
+              if (iframe.tagName !== 'IFRAME') return;
+      
+              const additionalStyles = `
+              #root {
+                  color: orangered;
+              }
+              `;
+              
+              iframe.srcdoc = iframe.srcdoc.replace('</style>', additionalStyles + '</style>');
+          });
+      });
+      observer.observe(document.getElementById("cusdis_thread"), { childList: true, subtree: true });
+      </script>
   </footer>
 </article>
     </main>

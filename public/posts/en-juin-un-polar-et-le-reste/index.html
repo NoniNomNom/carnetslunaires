@@ -139,7 +139,6 @@ J&rsquo;ai célébré la première vague de chaleur de cet été cette fin de pr
 
 
   </div>
-
   <footer class="post-footer">
     <ul class="post-tags">
       <li><a href="http://localhost:1313/carnetslunaires/tags/au-quotidien/">Au Quotidien</a></li>
@@ -148,6 +147,35 @@ J&rsquo;ai célébré la première vague de chaleur de cet été cette fin de pr
       <li><a href="http://localhost:1313/carnetslunaires/tags/roman/">Roman</a></li>
       <li><a href="http://localhost:1313/carnetslunaires/tags/thomas-gunzig/">Thomas Gunzig</a></li>
     </ul>
+    
+    <h4>Comments:</h4>
+    <div id="cusdis_thread"
+    data-host="https://cusdis.com"
+    data-app-id="b90706c7-4b60-49d3-b743-3d38870f4e59"
+    data-page-id="fb4adc98792743b22deef70782690751" 
+    data-page-url="http://localhost:1313/carnetslunaires/posts/en-juin-un-polar-et-le-reste/"
+    data-theme="auto"
+    data-page-title="En juin, un polar (et le reste)"></div>
+    <script async defer src="https://cusdis.com/js/widget/lang/fr.js"></script>
+    <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+    <script>
+      const observer = new MutationObserver((mutations) => {
+          mutations.forEach((mutation) => {
+              if (mutation.addedNodes.length == 0) return;
+              const iframe = mutation.addedNodes[0];
+              if (iframe.tagName !== 'IFRAME') return;
+      
+              const additionalStyles = `
+              #root {
+                  color: orangered;
+              }
+              `;
+              
+              iframe.srcdoc = iframe.srcdoc.replace('</style>', additionalStyles + '</style>');
+          });
+      });
+      observer.observe(document.getElementById("cusdis_thread"), { childList: true, subtree: true });
+      </script>
   </footer>
 </article>
     </main>

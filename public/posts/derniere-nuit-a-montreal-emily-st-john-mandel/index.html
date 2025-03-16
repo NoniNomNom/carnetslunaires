@@ -144,7 +144,6 @@ L&rsquo;histoire, ici, se concentre sur Lilia, jeune femme qui a soudainement qu
 
 
   </div>
-
   <footer class="post-footer">
     <ul class="post-tags">
       <li><a href="http://localhost:1313/carnetslunaires/tags/avis/">Avis</a></li>
@@ -153,6 +152,35 @@ L&rsquo;histoire, ici, se concentre sur Lilia, jeune femme qui a soudainement qu
       <li><a href="http://localhost:1313/carnetslunaires/tags/roman/">Roman</a></li>
       <li><a href="http://localhost:1313/carnetslunaires/tags/sfff/">SFFF</a></li>
     </ul>
+    
+    <h4>Comments:</h4>
+    <div id="cusdis_thread"
+    data-host="https://cusdis.com"
+    data-app-id="b90706c7-4b60-49d3-b743-3d38870f4e59"
+    data-page-id="9c924ca6c1edb6da63e7609b165a579b" 
+    data-page-url="http://localhost:1313/carnetslunaires/posts/derniere-nuit-a-montreal-emily-st-john-mandel/"
+    data-theme="auto"
+    data-page-title="Dernière nuit à Montréal - Emily St. John Mandel"></div>
+    <script async defer src="https://cusdis.com/js/widget/lang/fr.js"></script>
+    <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+    <script>
+      const observer = new MutationObserver((mutations) => {
+          mutations.forEach((mutation) => {
+              if (mutation.addedNodes.length == 0) return;
+              const iframe = mutation.addedNodes[0];
+              if (iframe.tagName !== 'IFRAME') return;
+      
+              const additionalStyles = `
+              #root {
+                  color: orangered;
+              }
+              `;
+              
+              iframe.srcdoc = iframe.srcdoc.replace('</style>', additionalStyles + '</style>');
+          });
+      });
+      observer.observe(document.getElementById("cusdis_thread"), { childList: true, subtree: true });
+      </script>
   </footer>
 </article>
     </main>

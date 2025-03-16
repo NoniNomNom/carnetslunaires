@@ -157,7 +157,6 @@ J&rsquo;avais bien vu passer Les Tambours du dieu noir, sorti cette année en fr
 
 
   </div>
-
   <footer class="post-footer">
     <ul class="post-tags">
       <li><a href="http://localhost:1313/carnetslunaires/tags/au-quotidien/">Au Quotidien</a></li>
@@ -169,6 +168,35 @@ J&rsquo;avais bien vu passer Les Tambours du dieu noir, sorti cette année en fr
       <li><a href="http://localhost:1313/carnetslunaires/tags/semiosis/">Semiosis</a></li>
       <li><a href="http://localhost:1313/carnetslunaires/tags/sfff/">SFFF</a></li>
     </ul>
+    
+    <h4>Comments:</h4>
+    <div id="cusdis_thread"
+    data-host="https://cusdis.com"
+    data-app-id="b90706c7-4b60-49d3-b743-3d38870f4e59"
+    data-page-id="d96fbdafdc3343e8b8dd1f5c5afde079" 
+    data-page-url="http://localhost:1313/carnetslunaires/posts/lectures-de-juillet-aout/"
+    data-theme="auto"
+    data-page-title="Lectures de juillet-août"></div>
+    <script async defer src="https://cusdis.com/js/widget/lang/fr.js"></script>
+    <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+    <script>
+      const observer = new MutationObserver((mutations) => {
+          mutations.forEach((mutation) => {
+              if (mutation.addedNodes.length == 0) return;
+              const iframe = mutation.addedNodes[0];
+              if (iframe.tagName !== 'IFRAME') return;
+      
+              const additionalStyles = `
+              #root {
+                  color: orangered;
+              }
+              `;
+              
+              iframe.srcdoc = iframe.srcdoc.replace('</style>', additionalStyles + '</style>');
+          });
+      });
+      observer.observe(document.getElementById("cusdis_thread"), { childList: true, subtree: true });
+      </script>
   </footer>
 </article>
     </main>

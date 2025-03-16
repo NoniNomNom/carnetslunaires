@@ -143,7 +143,6 @@ J&rsquo;ai tout récemment terminé la première saison de High Fidelity, adapta
 
 
   </div>
-
   <footer class="post-footer">
     <ul class="post-tags">
       <li><a href="http://localhost:1313/carnetslunaires/tags/au-quotidien/">Au Quotidien</a></li>
@@ -153,6 +152,35 @@ J&rsquo;ai tout récemment terminé la première saison de High Fidelity, adapta
       <li><a href="http://localhost:1313/carnetslunaires/tags/s%C3%A9rie/">Série</a></li>
       <li><a href="http://localhost:1313/carnetslunaires/tags/staged/">Staged</a></li>
     </ul>
+    
+    <h4>Comments:</h4>
+    <div id="cusdis_thread"
+    data-host="https://cusdis.com"
+    data-app-id="b90706c7-4b60-49d3-b743-3d38870f4e59"
+    data-page-id="f0b98ca6d0d0499444f52a196624f7d4" 
+    data-page-url="http://localhost:1313/carnetslunaires/posts/deux-series-pour-changer/"
+    data-theme="auto"
+    data-page-title="Deux séries, pour changer"></div>
+    <script async defer src="https://cusdis.com/js/widget/lang/fr.js"></script>
+    <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+    <script>
+      const observer = new MutationObserver((mutations) => {
+          mutations.forEach((mutation) => {
+              if (mutation.addedNodes.length == 0) return;
+              const iframe = mutation.addedNodes[0];
+              if (iframe.tagName !== 'IFRAME') return;
+      
+              const additionalStyles = `
+              #root {
+                  color: orangered;
+              }
+              `;
+              
+              iframe.srcdoc = iframe.srcdoc.replace('</style>', additionalStyles + '</style>');
+          });
+      });
+      observer.observe(document.getElementById("cusdis_thread"), { childList: true, subtree: true });
+      </script>
   </footer>
 </article>
     </main>

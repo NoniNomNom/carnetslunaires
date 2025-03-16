@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="noindex, nofollow">
 <title>Vita Nostra - Marina &amp; Sergueï Diatchenko | Carnets lunaires</title>
-<meta name="keywords" content="Avis, Les métamorphoses, Marina &amp;amp; Sergueï Diatchenko, Roman, SFFF">
+<meta name="keywords" content="Avis, Les métamorphoses, Marina &amp; Sergueï Diatchenko, Roman, SFFF">
 <meta name="description" content="
 
 
@@ -138,15 +138,43 @@ Vita Nostra appartient à cette catégorie de livres qui laissent une impression
 
 
   </div>
-
   <footer class="post-footer">
     <ul class="post-tags">
       <li><a href="http://localhost:1313/carnetslunaires/tags/avis/">Avis</a></li>
       <li><a href="http://localhost:1313/carnetslunaires/tags/les-m%C3%A9tamorphoses/">Les Métamorphoses</a></li>
-      <li><a href="http://localhost:1313/carnetslunaires/tags/marina-amp-sergue%C3%AF-diatchenko/">Marina &amp;Amp; Sergueï Diatchenko</a></li>
+      <li><a href="http://localhost:1313/carnetslunaires/tags/marina--sergue%C3%AF-diatchenko/">Marina &amp; Sergueï Diatchenko</a></li>
       <li><a href="http://localhost:1313/carnetslunaires/tags/roman/">Roman</a></li>
       <li><a href="http://localhost:1313/carnetslunaires/tags/sfff/">SFFF</a></li>
     </ul>
+    
+    <h4>Comments:</h4>
+    <div id="cusdis_thread"
+    data-host="https://cusdis.com"
+    data-app-id="b90706c7-4b60-49d3-b743-3d38870f4e59"
+    data-page-id="4391b19669df09c00a8a4312b1e4ac27" 
+    data-page-url="http://localhost:1313/carnetslunaires/posts/vita-nostra-marina-serguei-diatchenko-2019/"
+    data-theme="auto"
+    data-page-title="Vita Nostra - Marina &amp; Sergueï Diatchenko"></div>
+    <script async defer src="https://cusdis.com/js/widget/lang/fr.js"></script>
+    <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+    <script>
+      const observer = new MutationObserver((mutations) => {
+          mutations.forEach((mutation) => {
+              if (mutation.addedNodes.length == 0) return;
+              const iframe = mutation.addedNodes[0];
+              if (iframe.tagName !== 'IFRAME') return;
+      
+              const additionalStyles = `
+              #root {
+                  color: orangered;
+              }
+              `;
+              
+              iframe.srcdoc = iframe.srcdoc.replace('</style>', additionalStyles + '</style>');
+          });
+      });
+      observer.observe(document.getElementById("cusdis_thread"), { childList: true, subtree: true });
+      </script>
   </footer>
 </article>
     </main>

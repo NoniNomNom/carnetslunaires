@@ -140,7 +140,6 @@ Mexican Gothic est un roman que j&rsquo;ai offert à ma maman car j&rsquo;en ava
 
 
   </div>
-
   <footer class="post-footer">
     <ul class="post-tags">
       <li><a href="http://localhost:1313/carnetslunaires/tags/avis/">Avis</a></li>
@@ -149,6 +148,35 @@ Mexican Gothic est un roman que j&rsquo;ai offert à ma maman car j&rsquo;en ava
       <li><a href="http://localhost:1313/carnetslunaires/tags/sfff/">SFFF</a></li>
       <li><a href="http://localhost:1313/carnetslunaires/tags/silvia-moreno-garcia/">Silvia Moreno-Garcia</a></li>
     </ul>
+    
+    <h4>Comments:</h4>
+    <div id="cusdis_thread"
+    data-host="https://cusdis.com"
+    data-app-id="b90706c7-4b60-49d3-b743-3d38870f4e59"
+    data-page-id="ea05892a5add319e73c7dd5f40f04fad" 
+    data-page-url="http://localhost:1313/carnetslunaires/posts/mexican-gothic-silvia-moreno-garcia/"
+    data-theme="auto"
+    data-page-title="Mexican Gothic - Silvia Moreno-Garcia"></div>
+    <script async defer src="https://cusdis.com/js/widget/lang/fr.js"></script>
+    <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+    <script>
+      const observer = new MutationObserver((mutations) => {
+          mutations.forEach((mutation) => {
+              if (mutation.addedNodes.length == 0) return;
+              const iframe = mutation.addedNodes[0];
+              if (iframe.tagName !== 'IFRAME') return;
+      
+              const additionalStyles = `
+              #root {
+                  color: orangered;
+              }
+              `;
+              
+              iframe.srcdoc = iframe.srcdoc.replace('</style>', additionalStyles + '</style>');
+          });
+      });
+      observer.observe(document.getElementById("cusdis_thread"), { childList: true, subtree: true });
+      </script>
   </footer>
 </article>
     </main>

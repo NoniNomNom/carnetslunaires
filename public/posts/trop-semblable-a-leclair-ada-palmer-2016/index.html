@@ -138,7 +138,6 @@ Si la littérature de l’imaginaire permet beaucoup en matière de nouveaux hor
 
 
   </div>
-
   <footer class="post-footer">
     <ul class="post-tags">
       <li><a href="http://localhost:1313/carnetslunaires/tags/ada-palmer/">Ada Palmer</a></li>
@@ -147,6 +146,35 @@ Si la littérature de l’imaginaire permet beaucoup en matière de nouveaux hor
       <li><a href="http://localhost:1313/carnetslunaires/tags/sfff/">SFFF</a></li>
       <li><a href="http://localhost:1313/carnetslunaires/tags/terra-ignota/">Terra Ignota</a></li>
     </ul>
+    
+    <h4>Comments:</h4>
+    <div id="cusdis_thread"
+    data-host="https://cusdis.com"
+    data-app-id="b90706c7-4b60-49d3-b743-3d38870f4e59"
+    data-page-id="401d4c1151cd6b68a23facf82bbcb90b" 
+    data-page-url="http://localhost:1313/carnetslunaires/posts/trop-semblable-a-leclair-ada-palmer-2016/"
+    data-theme="auto"
+    data-page-title="Trop semblable à l’éclair - Ada Palmer"></div>
+    <script async defer src="https://cusdis.com/js/widget/lang/fr.js"></script>
+    <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+    <script>
+      const observer = new MutationObserver((mutations) => {
+          mutations.forEach((mutation) => {
+              if (mutation.addedNodes.length == 0) return;
+              const iframe = mutation.addedNodes[0];
+              if (iframe.tagName !== 'IFRAME') return;
+      
+              const additionalStyles = `
+              #root {
+                  color: orangered;
+              }
+              `;
+              
+              iframe.srcdoc = iframe.srcdoc.replace('</style>', additionalStyles + '</style>');
+          });
+      });
+      observer.observe(document.getElementById("cusdis_thread"), { childList: true, subtree: true });
+      </script>
   </footer>
 </article>
     </main>

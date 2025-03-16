@@ -148,7 +148,6 @@ Commençons par L&rsquo;incivilité des fantômes, le premier roman de Rivers So
 
 
   </div>
-
   <footer class="post-footer">
     <ul class="post-tags">
       <li><a href="http://localhost:1313/carnetslunaires/tags/au-quotidien/">Au Quotidien</a></li>
@@ -157,6 +156,35 @@ Commençons par L&rsquo;incivilité des fantômes, le premier roman de Rivers So
       <li><a href="http://localhost:1313/carnetslunaires/tags/rivers-solomon/">Rivers Solomon</a></li>
       <li><a href="http://localhost:1313/carnetslunaires/tags/sfff/">SFFF</a></li>
     </ul>
+    
+    <h4>Comments:</h4>
+    <div id="cusdis_thread"
+    data-host="https://cusdis.com"
+    data-app-id="b90706c7-4b60-49d3-b743-3d38870f4e59"
+    data-page-id="ba93b1d0228396e000719706cc57be9d" 
+    data-page-url="http://localhost:1313/carnetslunaires/posts/bilan-de-mai/"
+    data-theme="auto"
+    data-page-title="Bilan de mai"></div>
+    <script async defer src="https://cusdis.com/js/widget/lang/fr.js"></script>
+    <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+    <script>
+      const observer = new MutationObserver((mutations) => {
+          mutations.forEach((mutation) => {
+              if (mutation.addedNodes.length == 0) return;
+              const iframe = mutation.addedNodes[0];
+              if (iframe.tagName !== 'IFRAME') return;
+      
+              const additionalStyles = `
+              #root {
+                  color: orangered;
+              }
+              `;
+              
+              iframe.srcdoc = iframe.srcdoc.replace('</style>', additionalStyles + '</style>');
+          });
+      });
+      observer.observe(document.getElementById("cusdis_thread"), { childList: true, subtree: true });
+      </script>
   </footer>
 </article>
     </main>
