@@ -2,32 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/carnetslunaires/tags/avis/</loc>
-    <lastmod>2025-03-22T00:00:00+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/carnetslunaires/</loc>
-    <lastmod>2025-03-22T00:00:00+01:00</lastmod>
+    <lastmod>2025-04-10T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/carnetslunaires/tags/histoire/</loc>
-    <lastmod>2025-03-22T00:00:00+01:00</lastmod>
+    <loc>http://localhost:1313/carnetslunaires/tags/goliarda-sapienza/</loc>
+    <lastmod>2025-04-10T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnetslunaires/tags/ketty-steward/</loc>
+    <lastmod>2025-04-10T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnetslunaires/tags/listes/</loc>
+    <lastmod>2025-04-10T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnetslunaires/posts/notules-1/</loc>
+    <lastmod>2025-04-10T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnetslunaires/tags/novella/</loc>
+    <lastmod>2025-04-10T00:00:00+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/carnetslunaires/posts/</loc>
-    <lastmod>2025-03-22T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/carnetslunaires/posts/proletkult-wu-ming/</loc>
-    <lastmod>2025-03-22T00:00:00+01:00</lastmod>
+    <lastmod>2025-04-10T00:00:00+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/carnetslunaires/tags/roman/</loc>
-    <lastmod>2025-03-22T00:00:00+01:00</lastmod>
+    <lastmod>2025-04-10T00:00:00+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/carnetslunaires/tags/sfff/</loc>
-    <lastmod>2025-03-22T00:00:00+01:00</lastmod>
+    <lastmod>2025-04-10T00:00:00+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/carnetslunaires/tags/</loc>
-    <lastmod>2025-03-22T00:00:00+01:00</lastmod>
+    <lastmod>2025-04-10T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnetslunaires/tags/avis/</loc>
+    <lastmod>2025-03-23T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnetslunaires/tags/histoire/</loc>
+    <lastmod>2025-03-23T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnetslunaires/posts/proletkult-wu-ming/</loc>
+    <lastmod>2025-03-23T00:00:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/carnetslunaires/tags/wu-ming/</loc>
-    <lastmod>2025-03-22T00:00:00+01:00</lastmod>
+    <lastmod>2025-03-23T00:00:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/carnetslunaires/tags/catherine-dufour/</loc>
     <lastmod>2025-03-16T00:00:00+01:00</lastmod>
@@ -48,9 +63,6 @@
     <lastmod>2024-12-30T19:31:34+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/carnetslunaires/tags/lauren-groff/</loc>
-    <lastmod>2024-12-30T19:31:34+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/carnetslunaires/tags/listes/</loc>
     <lastmod>2024-12-30T19:31:34+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/carnetslunaires/tags/lucie-bryon/</loc>
@@ -417,9 +429,6 @@
     <lastmod>2021-10-02T09:34:18+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/carnetslunaires/tags/greg-egan/</loc>
-    <lastmod>2021-10-02T09:34:18+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/carnetslunaires/tags/novella/</loc>
     <lastmod>2021-10-02T09:34:18+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/carnetslunaires/tags/une-heure-lumi%C3%A8re/</loc>
