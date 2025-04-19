@@ -2,7 +2,7 @@
 title: 'Top lectures de 2024'
 date: Mon, 30 Dec 2024 19:31:34 +0000
 draft: false
-tags: ['Emily St. John Mandel', 'Jerry Stahl', 'Lauren Groff', 'Listes', 'Lucie Bryon', 'Lydie Salvayre', 'Nina Allan', 'Roman', 'Sarah Waters', 'SFFF', 'Shirley Jackson', 'Typhaine Rivière', 'Wu Ming']
+tags: ['Emily St. John Mandel', 'Jerry Stahl', 'Lauren Groff', 'Listes', 'Lucie Bryon', 'Lydie Salvayre', 'Nina Allan', 'Roman', 'Sarah Waters', 'SFFF', 'Shirley Jackson', 'Typhaine Rivière', 'Wu Ming', 10-18, Rivages-Noir, 'Plon', 'Feux Croisés', Albin Michel Imaginaire, Les Cités Divines, Le Livre de Poche, 10-18, Points, Rivages, Sarbacane, Delcourt, La Découverte]
 cover: 
     image: "affinite.jpg"
     hidden: true

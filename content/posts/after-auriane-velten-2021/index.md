@@ -2,7 +2,7 @@
 title: 'After®, Auriane Velten'
 date: Wed, 03 Nov 2021 08:55:03 +0000
 draft: false
-tags: ['Auriane Velten', 'Avis', 'Roman', 'SFFF']
+tags: ['Auriane Velten', 'Avis', 'Roman', 'SFFF', 'Mnémos']
 cover: 
     image: "after-r.jpg"
     hidden: true

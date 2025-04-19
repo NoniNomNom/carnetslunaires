@@ -2,7 +2,7 @@
 title: 'Pentiment - Obsidian Entertainment'
 date: Sat, 23 Nov 2024 10:42:15 +0000
 draft: false
-tags: ['Avis', 'Jeu vidéo', 'Histoire']
+tags: ['Avis', 'Jeu vidéo', 'Histoire', 'Obsidian Entertainment']
 cover: 
     image: "images/pentiment0.png"
     hidden: true

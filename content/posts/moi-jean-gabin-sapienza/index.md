@@ -1,6 +1,6 @@
 ---
 title: 'Moi, Jean Gabin - Goliarda Sapienza'
-date: 2025-04-09
+date: 2000-04-09
 draft: true
 tags: ['Notules', 'Goliarda Sapienza', 'Roman']
 cover: 

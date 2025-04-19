@@ -2,7 +2,7 @@
 title: 'On ne joue pas avec la mort - Emily St. John Mandel'
 date: Sun, 18 Jun 2023 11:51:33 +0000
 draft: false
-tags: ['Avis', 'Emily St. John Mandel', 'Polar', 'Roman', 'SFFF']
+tags: ['Avis', 'Emily St. John Mandel', 'Polar', 'Roman', 'SFFF', 'Rivages-Noir']
 cover: 
     image: "onnejouepas.jpg"
     hidden: true

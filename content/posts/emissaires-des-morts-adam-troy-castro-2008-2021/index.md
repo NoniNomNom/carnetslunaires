@@ -2,7 +2,7 @@
 title: 'Emissaires des Morts - Adam-Troy Castro'
 date: Sun, 10 Oct 2021 12:34:48 +0000
 draft: false
-tags: ['Adam-Troy Castro', 'Andrea Cort', 'Avis', 'Nouvelles', 'Roman', 'SFFF']
+tags: ['Adam-Troy Castro', 'Andrea Cort', 'Avis', 'Nouvelles', 'Roman', 'SFFF', 'Albin Michel Imaginaire']
 cover: 
     image: "castro-emissairesdesmorts-p1-scaled-1.jpg"
     hidden: true

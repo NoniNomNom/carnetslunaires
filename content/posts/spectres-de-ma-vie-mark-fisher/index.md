@@ -2,7 +2,7 @@
 title: 'Spectres de ma vie - Mark Fisher'
 date: Wed, 26 Jan 2022 09:42:27 +0000
 draft: false
-tags: ['Avis', 'Mark Fisher', 'Musique', 'Non-fiction']
+tags: ['Avis', 'Mark Fisher', 'Musique', 'Non-fiction', 'Entremonde']
 cover: 
     image: "spectres-de-ma-vie.jpg"
     hidden: true

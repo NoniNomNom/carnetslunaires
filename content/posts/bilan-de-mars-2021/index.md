@@ -2,7 +2,7 @@
 title: 'Bilan de mars 2021'
 date: Wed, 31 Mar 2021 09:45:25 +0000
 draft: false
-tags: ['Ada Palmer', 'Au quotidien', 'Becky Chambers', 'Novella', 'Roman', 'SFFF', 'Terra Ignota']
+tags: ['Ada Palmer', 'Roman', 'Terra Ignota', "Le Bélial'", 'Au quotidien', 'Becky Chambers', 'Novella', "L'Atalante", 'SFFF']
 cover: 
     image: "volonte-de-se-battre.jpg"
     hidden: true

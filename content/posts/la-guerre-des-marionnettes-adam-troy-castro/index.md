@@ -2,7 +2,7 @@
 title: 'La guerre des marionnettes - Adam-Troy Castro'
 date: Sat, 13 Jan 2024 16:36:40 +0000
 draft: false
-tags: ['Adam-Troy Castro', 'Andrea Cort', 'Avis', 'Roman', 'SFFF']
+tags: ['Adam-Troy Castro', 'Andrea Cort', 'Avis', 'Roman', 'SFFF', 'Albin Michel Imaginaire']
 cover: 
     image: "marionettes.jpg"
     hidden: true

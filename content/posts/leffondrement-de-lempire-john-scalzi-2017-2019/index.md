@@ -2,7 +2,7 @@
 title: 'L''Effondrement de l''empire - John Scalzi'
 date: Wed, 08 Dec 2021 20:46:51 +0000
 draft: false
-tags: ['Avis', 'John Scalzi', 'Roman', 'SFFF']
+tags: ['Avis', 'John Scalzi', 'Roman', 'SFFF', "L'Atalante"]
 cover: 
     image: "effondrementempire.jpg"
     hidden: true

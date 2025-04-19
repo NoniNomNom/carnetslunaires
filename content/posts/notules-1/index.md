@@ -2,7 +2,7 @@
 title: 'Notules (1)'
 date: 2025-04-10
 draft: false
-tags: ['Listes', 'Goliarda Sapienza', 'Ketty Steward', 'Roman', 'Novella', 'SFFF']
+tags: ['Listes', 'Goliarda Sapienza', 'Roman', 'Editions Attila', 'Ketty Steward', 'Novella', 'SFFF', 'Argyll', 'RéciFs', ]
 cover: 
     image: "moi-jean-gabin.jpg"
     hidden: true

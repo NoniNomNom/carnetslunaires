@@ -2,7 +2,7 @@
 title: 'Meilleures lectures de 2022'
 date: Fri, 30 Dec 2022 16:01:17 +0000
 draft: false
-tags: ['Ada Palmer', 'Adrian Tchaikovsky', 'Arkady Martine', 'Claire Duvivier', 'Elisabeth Vonaburg', 'Emily St. John Mandel', 'Guillaume Chamanadjian', 'La tour de garde', 'Listes', 'Lydie Salvayre', 'Roman', 'SFFF', 'Teixcalaan', 'Terra Ignota']
+tags: ['Ada Palmer', 'Adrian Tchaikovsky', 'Arkady Martine', 'Claire Duvivier', 'Elisabeth Vonaburg', 'Emily St. John Mandel', 'Guillaume Chamanadjian', 'La tour de garde', 'Listes', 'Lydie Salvayre', 'Roman', 'SFFF', 'Teixcalaan', 'Terra Ignota', Le Bélial', Nouveaux Millénaires, Rivages-Noir, Aux Forges de Vulcain, Points, Folio SF, Mnémos]
 cover: 
     image: "chroniques-meres.jpg"
     hidden: true

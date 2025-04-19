@@ -2,7 +2,7 @@
 title: 'Ormeshadow - Priya Sharma'
 date: Sun, 26 Sep 2021 10:17:15 +0000
 draft: false
-tags: ['Avis', 'Novella', 'Priya Sharma', 'SFFF', 'Une Heure-Lumière']
+tags: ['Avis', 'Novella', 'Priya Sharma', 'SFFF', 'Une Heure-Lumière', "Le Bélial'"]
 cover: 
     image: "ormeshadow.jpg"
     hidden: true

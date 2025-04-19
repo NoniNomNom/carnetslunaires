@@ -2,7 +2,7 @@
 title: 'La Justice de l''ancillaire - Ann Leckie'
 date: Sun, 02 Apr 2023 14:26:43 +0000
 draft: false
-tags: ['Ada Palmer', 'Ann Leckie', 'Auriane Velten', 'Avis', 'Chroniques du Radch', 'Roman', 'SFFF', 'Teixcalaan', 'Terra Ignota']
+tags: ['Ada Palmer', 'Ann Leckie', 'Auriane Velten', 'Avis', 'Chroniques du Radch', 'Roman', 'SFFF', 'Teixcalaan', 'Terra Ignota', 'Nouveaux Millénaires']
 cover: 
     image: "justice-ancillaire.jpg"
     hidden: true

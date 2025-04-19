@@ -2,7 +2,7 @@
 title: 'Mes petits préférés de 2023'
 date: Tue, 26 Dec 2023 14:25:20 +0000
 draft: false
-tags: ['Becky Chambers', 'Carmen Maria Machado', 'Claire Duvivier', 'Connie Willis', 'Disque-monde', 'Don Carpenter', 'Guillaume Chamanadjian', 'Jeff VanderMeer', 'La tour de garde', 'Léo Henry', 'Listes', 'Roman', 'Saul Pandelakis', 'SFFF', 'Tamsyn Muir', 'Terry Pratchett', 'Thomas Olde Heuvelt', 'Histoire']
+tags: ['Becky Chambers', 'Carmen Maria Machado', 'Claire Duvivier', 'Connie Willis', 'Disque-monde', 'Don Carpenter', 'Guillaume Chamanadjian', 'Jeff VanderMeer', 'La tour de garde', 'Léo Henry', 'Listes', 'Roman', 'Saul Pandelakis', 'SFFF', 'Tamsyn Muir', 'Terry Pratchett', 'Thomas Olde Heuvelt', 'Histoire', Hélios, Christian Bourgois Editeur, Actes Sud, Exofictions, Le Tombeau Scellé, La Volte, J'ai Lu, Aux Forges de Vulcain, 10-18, Le Livre de Poche, L'Atalante, L'Atalante, Les Voyageurs]
 cover: 
     image: "dans-la-maison-revee.jpg"
     hidden: true

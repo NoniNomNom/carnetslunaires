@@ -2,7 +2,7 @@
 title: 'OVNI 78 - Wu Ming'
 date: Sun, 06 Oct 2024 10:05:12 +0000
 draft: false
-tags: ['Avis', 'Roman', 'SFFF', 'Wu Ming', 'Histoire']
+tags: ['Avis', 'Roman', 'SFFF', 'Wu Ming', 'Histoire', 'Libertalia']
 cover: 
     image: "wuming-couv.png"
     hidden: true

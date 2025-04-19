@@ -2,7 +2,7 @@
 title: 'Le Moineau de Dieu - Mary Doria Russell'
 date: Tue, 17 Aug 2021 19:42:53 +0000
 draft: false
-tags: ['Avis', 'Mary Doria Russell', 'Roman', 'SFFF']
+tags: ['Avis', 'Mary Doria Russell', 'Roman', 'SFFF', 'Pocket']
 cover: 
     image: "moineau-de-dieu.jpg"
     hidden: true

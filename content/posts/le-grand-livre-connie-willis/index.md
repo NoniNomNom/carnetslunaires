@@ -2,7 +2,7 @@
 title: 'Le Grand Livre - Connie Willis'
 date: Mon, 30 Oct 2023 10:26:43 +0000
 draft: false
-tags: ['Avis', 'Connie Willis', 'Roman', 'SFFF']
+tags: ['Avis', 'Connie Willis', 'Roman', 'SFFF', "J'ai Lu"]
 cover: 
     image: "le-grand-livre.jpg"
     hidden: true

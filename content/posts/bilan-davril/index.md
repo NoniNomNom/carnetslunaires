@@ -2,7 +2,7 @@
 title: 'Bilan d''avril'
 date: Sun, 02 May 2021 09:07:00 +0000
 draft: false
-tags: ['Annie Ernaux', 'Au quotidien', 'Michèle Pedinielli', 'Polar', 'Roman']
+tags: ['Au quotidien', 'Roman', 'Annie Ernaux', 'Folio', 'Michèle Pedinielli', 'Polar', "L'Aube"]
 cover: 
     image: "apres_les_chiens.jpg"
     hidden: true

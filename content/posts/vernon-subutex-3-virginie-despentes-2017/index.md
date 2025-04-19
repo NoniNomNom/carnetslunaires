@@ -2,7 +2,7 @@
 title: 'Vernon Subutex 3 - Virginie Despentes'
 date: Sun, 28 Nov 2021 11:15:55 +0000
 draft: false
-tags: ['Avis', 'Roman', 'Virginie Despentes']
+tags: ['Avis', 'Roman', 'Virginie Despentes', 'Le Livre de Poche']
 cover: 
     image: "vernon-subutex.jpg"
     hidden: true

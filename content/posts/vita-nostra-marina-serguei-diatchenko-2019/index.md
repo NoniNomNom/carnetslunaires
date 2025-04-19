@@ -2,7 +2,7 @@
 title: 'Vita Nostra - Marina & Sergueï Diatchenko'
 date: Sun, 07 Feb 2021 11:27:00 +0000
 draft: false
-tags: ['Avis', 'Les métamorphoses', 'Marina & Sergueï Diatchenko', 'Roman', 'SFFF']
+tags: ['Avis', 'Les métamorphoses', 'Marina & Sergueï Diatchenko', 'Roman', 'SFFF', "L'Atalante"]
 cover: 
     image: "vita-nostra.jpg"
     hidden: true

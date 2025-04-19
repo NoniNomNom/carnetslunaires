@@ -2,7 +2,7 @@
 title: 'Redshirts - John Scalzi'
 date: Fri, 06 Aug 2021 09:28:54 +0000
 draft: false
-tags: ['Avis', 'John Scalzi', 'Roman', 'SFFF']
+tags: ['Avis', 'John Scalzi', 'Roman', 'SFFF', "L'Atalante"]
 cover: 
     image: "redshirts.jpg"
     hidden: true

@@ -2,7 +2,7 @@
 title: 'Le sens du vent - Iain M. Banks'
 date: Sat, 18 Dec 2021 17:16:57 +0000
 draft: false
-tags: ['Avis', 'Culture (cycle)', 'Iain M. Banks', 'Roman', 'SFFF']
+tags: ['Avis', 'Culture (cycle)', 'Iain M. Banks', 'Roman', 'SFFF', 'Le Livre de Poche']
 cover: 
     image: "sens-du-vent.jpeg"
     hidden: true

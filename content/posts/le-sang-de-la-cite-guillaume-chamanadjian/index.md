@@ -2,7 +2,7 @@
 title: 'Le sang de la Cité - Guillaume Chamanadjian'
 date: Sat, 09 Apr 2022 12:42:29 +0000
 draft: false
-tags: ['Avis', 'Capitale du Sud', 'Claire Duvivier', 'Guillaume Chamanadjian', 'La tour de garde', 'Roman', 'SFFF']
+tags: ['Avis', 'Capitale du Sud', 'Claire Duvivier', 'Guillaume Chamanadjian', 'La tour de garde', 'Roman', 'SFFF', 'Aux Forges de Vulcain']
 cover: 
     image: "le-sang-de-la-cite.jpg"
     hidden: true

@@ -2,7 +2,7 @@
 title: 'Terra Ignota, la fin - Ada Palmer'
 date: Sun, 27 Nov 2022 13:38:59 +0000
 draft: false
-tags: ['Ada Palmer', 'Avis', 'Roman', 'SFFF', 'Terra Ignota']
+tags: ['Ada Palmer', 'Avis', 'Roman', 'SFFF', 'Terra Ignota', "Le Bélial'"]
 cover: 
     image: "alphabetcreateurs.jpg"
     hidden: true

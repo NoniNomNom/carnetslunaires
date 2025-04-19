@@ -2,7 +2,7 @@
 title: 'Mort aux geais ! - Claire Duvivier'
 date: Sat, 10 Jun 2023 18:25:40 +0000
 draft: false
-tags: ['Avis', 'Capitale du Nord', 'Claire Duvivier', 'La tour de garde', 'Roman', 'SFFF']
+tags: ['Avis', 'Capitale du Nord', 'Claire Duvivier', 'La tour de garde', 'Roman', 'SFFF', 'Aux Forges de Vulcain']
 cover: 
     image: "mortauxgeais.jpg"
     hidden: true

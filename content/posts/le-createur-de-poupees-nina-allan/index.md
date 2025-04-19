@@ -2,7 +2,7 @@
 title: 'Le créateur de poupées - Nina Allan'
 date: Mon, 18 Apr 2022 12:22:11 +0000
 draft: false
-tags: ['Avis', 'Nina Allan', 'Roman', 'SFFF']
+tags: ['Avis', 'Nina Allan', 'Roman', 'SFFF', 'Tristram']
 cover: 
     image: "createur-de-poupees.jpg"
     hidden: true

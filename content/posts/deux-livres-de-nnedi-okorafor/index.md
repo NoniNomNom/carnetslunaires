@@ -2,7 +2,7 @@
 title: 'Deux livres de Nnedi Okorafor'
 date: Sun, 11 Apr 2021 10:55:21 +0000
 draft: false
-tags: ['Avis', 'Nnedi Okorafor', 'Roman', 'SFFF']
+tags: ['Avis', 'Nnedi Okorafor', 'Roman', 'SFFF', 'Le Livre de Poche', 'ActuSF']
 cover: 
     image: "qui-a-peur-de-la-mort.jpeg"
     hidden: true

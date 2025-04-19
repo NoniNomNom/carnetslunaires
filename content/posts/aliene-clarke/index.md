@@ -2,7 +2,7 @@
 title: 'Aliène - Phoebe Hadjimarkos Clarke'
 date: 2025-03-07
 draft: false
-tags: ['Avis', 'Phoebe Hadjimarkos Clarke', 'Roman', 'SFFF']
+tags: ['Avis', 'Phoebe Hadjimarkos Clarke', 'Roman', 'SFFF', 'Editions du sous-sol']
 cover: 
     image: "aliene.jpg"
     hidden: true

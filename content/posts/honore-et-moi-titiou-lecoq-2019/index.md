@@ -2,7 +2,7 @@
 title: 'Honoré et moi - Titiou Lecoq'
 date: Tue, 18 Aug 2020 10:30:00 +0000
 draft: false
-tags: ['Avis', 'Biographie', 'Titiou Lecoq']
+tags: ['Avis', 'Biographie', 'Titiou Lecoq', "L'Iconoclaste"]
 cover: 
     image: "honore-et-moi.png"
     hidden: true

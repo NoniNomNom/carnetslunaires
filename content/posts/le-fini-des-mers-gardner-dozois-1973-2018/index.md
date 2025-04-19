@@ -2,7 +2,7 @@
 title: 'Le fini des mers - Gardner Dozois'
 date: Thu, 23 Sep 2021 10:04:02 +0000
 draft: false
-tags: ['Avis', 'Gardner Dozois', 'Novella', 'SFFF', 'Une Heure-Lumière']
+tags: ['Avis', 'Gardner Dozois', 'Novella', 'SFFF', 'Une Heure-Lumière', "Le Bélial'"]
 cover: 
     image: "fini-des-mers.jpg"
     hidden: true

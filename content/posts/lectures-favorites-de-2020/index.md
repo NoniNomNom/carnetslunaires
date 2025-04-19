@@ -2,7 +2,7 @@
 title: 'Lectures favorites de 2020'
 date: Mon, 28 Dec 2020 11:18:00 +0000
 draft: false
-tags: ['Ada Palmer', 'Annie Ernaux', 'Catherine Dufour', 'Disque-monde', 'Kapka Kassabova', 'Listes', 'Louise Mey', 'Magdalena Parys', 'N.K. Jemisin', 'Non-fiction', 'Polar', 'Roman', 'SFFF', 'Terra Ignota', 'Terry Pratchett', 'Thomas Gunzig', 'Warren Ellis']
+tags: ['Ada Palmer', 'Annie Ernaux', 'Catherine Dufour', 'Disque-monde', 'Kapka Kassabova', 'Listes', 'Louise Mey', 'Magdalena Parys', 'N.K. Jemisin', 'Non-fiction', 'Polar', 'Roman', 'SFFF', 'Terra Ignota', 'Terry Pratchett', 'Thomas Gunzig', 'Warren Ellis', Le Bélial', Seuil, Cadre Noir, Folio, Agullo Noir, Au diable vauvert, L'Atalante, Le Livre de Poche, Marchialy, Nouveaux Millénaires, Fleuve Editions, Fleuve Noir]
 cover: 
     image: "sept-redditions.jpg"
     hidden: true

@@ -2,7 +2,7 @@
 title: 'J''ai vu les soucoupes - Sandrine Kerion'
 date: Sat, 05 Feb 2022 11:06:24 +0000
 draft: false
-tags: ['Au quotidien', 'BD', 'Marie Peltier', 'Marie-Aude Murail', 'Non-fiction', 'Roman', 'Sandrine Kerion', 'SFFF']
+tags: ['Au quotidien', 'BD', 'Marie Peltier', 'Marie-Aude Murail', 'Non-fiction', 'Roman', 'Sandrine Kerion', 'SFFF', 'La Boîte à Bulles']
 cover: 
     image: "jai-vu-les-soucoupes.jpg"
     hidden: true

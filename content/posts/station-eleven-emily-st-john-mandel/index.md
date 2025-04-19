@@ -2,7 +2,7 @@
 title: 'Station Eleven - Emily St. John Mandel'
 date: Sat, 06 Apr 2024 07:32:43 +0000
 draft: false
-tags: ['Avis', 'Emily St. John Mandel', 'Roman', 'SFFF']
+tags: ['Avis', 'Emily St. John Mandel', 'Roman', 'SFFF', 'Le Livre de Poche']
 cover: 
     image: "stationeleven.jpg"
     hidden: true

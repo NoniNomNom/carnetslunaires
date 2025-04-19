@@ -2,7 +2,7 @@
 title: 'Les Livres de la Terre fracturée - Nora K. Jemisin'
 date: Fri, 21 May 2021 11:35:43 +0000
 draft: false
-tags: ['Avis', 'N.K. Jemisin', 'Roman', 'SFFF']
+tags: ['Avis', 'N.K. Jemisin', 'Roman', 'SFFF', 'Nouveaux Millénaires']
 cover: 
     image: "cinquieme-saison.jpg"
     hidden: true

@@ -2,7 +2,7 @@
 title: 'Le chant du Drille - Ayerdhal'
 date: Thu, 20 Jul 2023 13:20:26 +0000
 draft: false
-tags: ['Avis', 'Ayerdhal', 'Roman', 'SFFF']
+tags: ['Avis', 'Ayerdhal', 'Roman', 'SFFF', 'Au diable vauvert']
 cover: 
     image: "drille.jpg"
     hidden: true

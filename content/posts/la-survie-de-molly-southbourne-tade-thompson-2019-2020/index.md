@@ -2,7 +2,7 @@
 title: 'La Survie de Molly Southbourne - Tade Thompson'
 date: Wed, 29 Sep 2021 10:12:29 +0000
 draft: false
-tags: ['Avis', 'Novella', 'SFFF', 'Tade Thompson', 'Une Heure-Lumière']
+tags: ['Avis', 'Novella', 'SFFF', 'Tade Thompson', 'Une Heure-Lumière', "Le Bélial'"]
 cover: 
     image: "survie-molly.jpg"
     hidden: true
