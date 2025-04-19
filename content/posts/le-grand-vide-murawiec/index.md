@@ -10,7 +10,7 @@ cover:
 ---
 {{< inTextImg-left url="grandvide_couv.jpg" alt="Le grand vide - couverture" width="30%">}}
 
-Manel Naher vit dans une ville étouffante. Si chacun y exhibe son patronyme pour ne pas être oublié,  c'est parce que la mort sociale y coincide avec la mort biologique. Peu sociable, elle trouve refuge dans une bouquinerie et rêve de s'en aller avec un de ses rares amis. Quand une chanteuse homonyme explose avec son nouveau single, occupant l'esprit de tout un tas de gens qui auraient plutôt pu penser à elle, les conséquences sont concrètes et rapides : crise cardiaque. Le traitement prescrit est clair : il est temps d'exister, de renforcer sa "présence" à tout prix.
+Manel Naher vit dans une ville étouffante. Si chacun y exhibe son nom pour ne pas être oublié,  c'est parce que la mort sociale y coincide avec la mort biologique. Peu sociable, elle trouve refuge dans une bouquinerie et rêve de s'en aller avec un de ses rares amis. Quand une chanteuse homonyme explose avec son nouveau single, occupant l'esprit de tout un tas de gens qui auraient plutôt pu penser à elle, les conséquences sont concrètes et rapides : crise cardiaque. Le traitement prescrit est clair : il est temps d'exister, de renforcer sa "présence" à tout prix.
 
 {{< inTextImg-right url="grandvide_extr4.jpg" alt="Le grand vide - extrait" width="30%">}}
 
