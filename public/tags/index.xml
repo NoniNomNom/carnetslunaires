@@ -1366,19 +1366,5 @@
       <guid>http://localhost:1313/carnetslunaires/tags/svetlana-alexievitch/</guid>
       <description></description>
     </item>
-    <item>
-      <title>Notules</title>
-      <link>http://localhost:1313/carnetslunaires/tags/notules/</link>
-      <pubDate>Sun, 09 Apr 2000 00:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/carnetslunaires/tags/notules/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>NAME</title>
-      <link>http://localhost:1313/carnetslunaires/tags/name/</link>
-      <pubDate>Fri, 03 Mar 2000 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/carnetslunaires/tags/name/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>

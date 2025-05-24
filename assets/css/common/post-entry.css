@@ -54,6 +54,7 @@
     font-size: 14px;
     margin-bottom: var(--gap);
     text-align: center;
+    padding-bottom: 5%;
 }
 
 .entry-cover img {
