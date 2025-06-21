@@ -1,6 +1,6 @@
 ---
 title: 'La Sonate Hydrogène - Iain M. Banks'
-date: 2025-06-12
+date: 2025-06-21
 draft: true
 tags: ['Avis', 'Iain M. Banks', 'Roman', 'Culture (Cycle)', 'Le Livre de Poche', 'SFFF']
 cover: 
