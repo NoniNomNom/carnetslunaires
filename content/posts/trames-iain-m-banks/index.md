@@ -9,19 +9,13 @@ cover:
     hiddeninlist: false
 ---
 
+<span style="color:grey">Note du Noni de 2025 : j'ai remanié le début de ce billet paru initialement dans l'enthousiasme de la sortie de *ChatGPT* et qui a rapidement beaucoup trop mal vieilli à mon goût.</span>
+
 {{< inTextImg-left url="trames.jpeg" alt="Trames - couverture" width="30%">}}
 
-Quand on s'attaque à _Trames_ et qu'on le compare aux sept bouquins du cycle de la _Culture_ parus auparavant, il y a quelque chose qui frappe d'emblée : son épaisseur. Mais avant d'aller plus loin, je vais me faciliter la vie en laissant à _ChatGPT_ le soin d'expliquer ce qu'est la Culture :
+Quand on s'attaque à _Trames_ et qu'on le compare aux sept bouquins du cycle de la _Culture_ parus auparavant, il y a quelque chose qui frappe d'emblée : son épaisseur. Mais avant d'aller plus loin, je vais me faciliter la vie en laissant à *Wikipedia* le soin d'expliquer ce qu'est la Culture :
 
-"_La Culture est un univers de fiction créé par l'écrivain écossais Iain M. Banks dans une série de romans de science-fiction. La Culture est une société post-scarcity qui a atteint une technologie avancée et est gouvernée par des intelligences artificielles qui ont pour but de maintenir la paix et la prospérité pour tous ses membres. Les personnages de la Culture sont souvent des individus très avancés technologiquement et possèdent de nombreux pouvoirs et capacités. La série de livres explore les interactions de la Culture avec d'autres sociétés moins avancées technologiquement, ainsi que les défis éthiques et moraux que ces interactions peuvent causer._"
-
-<span style="color:grey">Note du Noni du futur (2025) : oui, ces choix rédactionnels ont très mal vieilli</span>
-
-Demandons ensuite à notre modèle de langage préféré d'expliciter l'expression "société post-scarcity" (à traduire par "[société - ou économie - de l'abondance](https://fr.wikipedia.org/wiki/%C3%89conomie_de_l%27abondance)") :
-
-"_Une société post-scarcity est une société dans laquelle les besoins de base de ses membres sont largement satisfaits et les ressources sont suffisantes pour répondre à la demande. Il n'y a donc pas de pénurie de biens et de services, et les individus n'ont pas à se soucier de la survie matérielle de base. Cela permet à ces sociétés de se concentrer sur des questions plus élevées telles que le développement personnel, la recherche scientifique, la création artistique, etc. Dans la science-fiction, les sociétés post-scarcity sont souvent décrites comme ayant atteint un niveau élevé de technologie qui leur permet de produire des ressources de manière efficace._"
-
-Merci, ça ira pour cette fois. Et surtout n'oubliez pas de vérifier vos sources et de ne pas faire confiance aveuglément à la première machine venue (aussi fascinante soit-elle).
+"_La Culture est une civilisation pan-galactique inventée par Iain Banks au travers de ses romans et nouvelles de science-fiction. [...] Il s'agit d'une société anarchiste : ni loi, ni hiérarchie, ni argent, ni propriété. Elle compte trente mille milliards de citoyens, mêlant dans une totale égalité humains, extraterrestres, drones et intelligences artificielles. La Culture est une société post-pénurie vivant une économie de l'abondance : ses techniques de pointe offrent une richesse matérielle pratiquement illimitée et le confort à tous, gratuitement, et elle a quasiment supprimé la notion de biens._"
 
 Venons en maintenant au vif du sujet. Nous assistons aux quêtes croisées des trois enfants d'un roi assassiné au sommet de sa gloire. Cet abord médiéval peut rappeler _Inversions_, cet étrange roman du cycle intégralement situé dans une société moyenâgeuse et dans lequel on scrute méticuleusement les éventuelles traces de technologie avancée. Il n'en est rien ici car nous sommes sur Sursamen, un gigantesque monde artificiel et creux, à multiples niveaux habités chacun par des espèces variées (le genre de structures farfelues typiques de ce cycle et que j'aime tellement). Les humains qui en squattent les huitième et neuvième niveau sont bien conscients que des espèces et civilisations infiniment plus avancée technologiquement se baladent dehors. Ils croisent même un alien de temps à autre, mais cela fait simplement partie d'un décor un peu lointain et n'influence généralement pas leur vie quotidienne.
 
