@@ -1,11 +1,11 @@
 ---
 title: 'Notules (3)'
 date: 2025-07-06
-draft: true
+draft: false
 tags: ['Listes', 'Aline Kiner', 'Roman', 'Liana Levi', 'Histoire', 'Valentina Tanni', 'Essai', 'Audimat éditions', 'Numérique']
 cover: 
     image: "nuit-beguines_couv.jpg"
-    hidden: false
+    hidden: true
     hiddeninlist: false
 ---
 
