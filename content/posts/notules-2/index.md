@@ -4,7 +4,7 @@ date: 2025-06-07
 draft: false
 tags: ['Listes', 'Tracy Chevalier', 'Roman', Folio, Antonio Scurati, Les Arènes, Histoire]
 cover: 
-    image: "prodigieuses-creatures.jpg"
+    image: "notules2_multi_couv.jpg"
     hidden: true
     hiddeninlist: false
 ---

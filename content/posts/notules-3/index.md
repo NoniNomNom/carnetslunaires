@@ -4,7 +4,7 @@ date: 2025-07-06
 draft: false
 tags: ['Listes', 'Aline Kiner', 'Roman', 'Liana Levi', 'Histoire', 'Valentina Tanni', 'Essai', 'Audimat éditions', 'Numérique']
 cover: 
-    image: "nuit-beguines_couv.jpg"
+    image: "notules3_multi_couv.jpg"
     hidden: true
     hiddeninlist: false
 ---
