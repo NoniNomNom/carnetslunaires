@@ -1,7 +1,7 @@
 ---
 title: 'Notules (5)'
 date: 2025-07-20
-draft: false
+draft: true
 tags: ['Listes', 'Eric Vuillard', 'Histoire', 'Roman', 'Actes Sud']
 cover: 
     image: "notules5_multicouv.jpg"
