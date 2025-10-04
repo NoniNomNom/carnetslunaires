@@ -6,40 +6,61 @@
     <description>Recent content in Tags on Carnets lunaires</description>
     <generator>Hugo -- 0.143.1</generator>
     <language>fr-be</language>
-    <lastBuildDate>Fri, 26 Sep 2025 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 01 Oct 2025 00:00:00 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/carnetslunaires/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Alison Bechdel</title>
+      <link>http://localhost:1313/carnetslunaires/tags/alison-bechdel/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/carnetslunaires/tags/alison-bechdel/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Avis</title>
       <link>http://localhost:1313/carnetslunaires/tags/avis/</link>
-      <pubDate>Fri, 26 Sep 2025 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0200</pubDate>
       <guid>http://localhost:1313/carnetslunaires/tags/avis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>BD</title>
+      <link>http://localhost:1313/carnetslunaires/tags/bd/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/carnetslunaires/tags/bd/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Points</title>
+      <link>http://localhost:1313/carnetslunaires/tags/points/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/carnetslunaires/tags/points/</guid>
       <description></description>
     </item>
     <item>
       <title>Leo Perutz</title>
       <link>http://localhost:1313/carnetslunaires/tags/leo-perutz/</link>
-      <pubDate>Fri, 26 Sep 2025 00:00:00 +0200</pubDate>
+      <pubDate>Sun, 28 Sep 2025 00:00:00 +0200</pubDate>
       <guid>http://localhost:1313/carnetslunaires/tags/leo-perutz/</guid>
       <description></description>
     </item>
     <item>
       <title>Libretto</title>
       <link>http://localhost:1313/carnetslunaires/tags/libretto/</link>
-      <pubDate>Fri, 26 Sep 2025 00:00:00 +0200</pubDate>
+      <pubDate>Sun, 28 Sep 2025 00:00:00 +0200</pubDate>
       <guid>http://localhost:1313/carnetslunaires/tags/libretto/</guid>
       <description></description>
     </item>
     <item>
       <title>Roman</title>
       <link>http://localhost:1313/carnetslunaires/tags/roman/</link>
-      <pubDate>Fri, 26 Sep 2025 00:00:00 +0200</pubDate>
+      <pubDate>Sun, 28 Sep 2025 00:00:00 +0200</pubDate>
       <guid>http://localhost:1313/carnetslunaires/tags/roman/</guid>
       <description></description>
     </item>
     <item>
       <title>SFFF</title>
       <link>http://localhost:1313/carnetslunaires/tags/sfff/</link>
-      <pubDate>Fri, 26 Sep 2025 00:00:00 +0200</pubDate>
+      <pubDate>Sun, 28 Sep 2025 00:00:00 +0200</pubDate>
       <guid>http://localhost:1313/carnetslunaires/tags/sfff/</guid>
       <description></description>
     </item>
@@ -331,13 +352,6 @@
       <description></description>
     </item>
     <item>
-      <title>BD</title>
-      <link>http://localhost:1313/carnetslunaires/tags/bd/</link>
-      <pubDate>Sat, 31 May 2025 00:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/carnetslunaires/tags/bd/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Exemplaire</title>
       <link>http://localhost:1313/carnetslunaires/tags/exemplaire/</link>
       <pubDate>Sat, 31 May 2025 00:00:00 +0200</pubDate>
@@ -566,13 +580,6 @@
       <link>http://localhost:1313/carnetslunaires/tags/plon/</link>
       <pubDate>Mon, 30 Dec 2024 19:31:34 +0000</pubDate>
       <guid>http://localhost:1313/carnetslunaires/tags/plon/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Points</title>
-      <link>http://localhost:1313/carnetslunaires/tags/points/</link>
-      <pubDate>Mon, 30 Dec 2024 19:31:34 +0000</pubDate>
-      <guid>http://localhost:1313/carnetslunaires/tags/points/</guid>
       <description></description>
     </item>
     <item>
@@ -1602,13 +1609,6 @@
       <link>http://localhost:1313/carnetslunaires/tags/notules/</link>
       <pubDate>Sun, 09 Apr 2000 00:00:00 +0200</pubDate>
       <guid>http://localhost:1313/carnetslunaires/tags/notules/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Alison Bechdel</title>
-      <link>http://localhost:1313/carnetslunaires/tags/alison-bechdel/</link>
-      <pubDate>Fri, 03 Mar 2000 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/carnetslunaires/tags/alison-bechdel/</guid>
       <description></description>
     </item>
     <item>
