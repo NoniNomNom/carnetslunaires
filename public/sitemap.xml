@@ -2,6 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/carnetslunaires/tags/cambourakis/</loc>
+    <lastmod>2025-10-05T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnetslunaires/</loc>
+    <lastmod>2025-10-05T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnetslunaires/tags/le-b%C3%A9lial/</loc>
+    <lastmod>2025-10-05T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnetslunaires/tags/listes/</loc>
+    <lastmod>2025-10-05T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnetslunaires/posts/notules-9/</loc>
+    <lastmod>2025-10-05T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnetslunaires/posts/</loc>
+    <lastmod>2025-10-05T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnetslunaires/tags/roman/</loc>
+    <lastmod>2025-10-05T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnetslunaires/tags/sfff/</loc>
+    <lastmod>2025-10-05T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnetslunaires/tags/</loc>
+    <lastmod>2025-10-05T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnetslunaires/tags/une-heure-lumi%C3%A8re/</loc>
+    <lastmod>2025-10-05T00:00:00+02:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/carnetslunaires/tags/alison-bechdel/</loc>
     <lastmod>2025-10-01T00:00:00+02:00</lastmod>
   </url><url>
@@ -11,19 +41,10 @@
     <loc>http://localhost:1313/carnetslunaires/tags/bd/</loc>
     <lastmod>2025-10-01T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/carnetslunaires/</loc>
-    <lastmod>2025-10-01T00:00:00+02:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/carnetslunaires/posts/fun-home-bechdel/</loc>
     <lastmod>2025-10-01T00:00:00+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/carnetslunaires/tags/points/</loc>
-    <lastmod>2025-10-01T00:00:00+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/carnetslunaires/posts/</loc>
-    <lastmod>2025-10-01T00:00:00+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/carnetslunaires/tags/</loc>
     <lastmod>2025-10-01T00:00:00+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/carnetslunaires/posts/le-cavalier-suedois-perutz/</loc>
@@ -35,31 +56,13 @@
     <loc>http://localhost:1313/carnetslunaires/tags/libretto/</loc>
     <lastmod>2025-09-28T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/carnetslunaires/tags/roman/</loc>
-    <lastmod>2025-09-28T00:00:00+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/carnetslunaires/tags/sfff/</loc>
-    <lastmod>2025-09-28T00:00:00+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/carnetslunaires/tags/cambourakis/</loc>
-    <lastmod>2025-09-20T00:00:00+02:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/carnetslunaires/tags/editions-h%C3%A9lo%C3%AFse-dormesson/</loc>
     <lastmod>2025-09-20T00:00:00+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/carnetslunaires/tags/jean-michelin/</loc>
     <lastmod>2025-09-20T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/carnetslunaires/tags/le-b%C3%A9lial/</loc>
-    <lastmod>2025-09-20T00:00:00+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/carnetslunaires/tags/listes/</loc>
-    <lastmod>2025-09-20T00:00:00+02:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/carnetslunaires/posts/notules-8/</loc>
-    <lastmod>2025-09-20T00:00:00+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/carnetslunaires/posts/notules-9/</loc>
     <lastmod>2025-09-20T00:00:00+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/carnetslunaires/tags/victor-lavalle/</loc>
@@ -741,9 +744,6 @@
     <lastmod>2021-10-02T09:34:18+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/carnetslunaires/tags/greg-egan/</loc>
-    <lastmod>2021-10-02T09:34:18+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/carnetslunaires/tags/une-heure-lumi%C3%A8re/</loc>
     <lastmod>2021-10-02T09:34:18+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/carnetslunaires/posts/la-survie-de-molly-southbourne-tade-thompson-2019-2020/</loc>

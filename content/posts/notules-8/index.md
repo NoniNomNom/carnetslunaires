@@ -2,7 +2,7 @@
 title: 'Notules (8)'
 date: 2025-09-20
 draft: false
-tags: ['Listes', 'Victor LaValle', "Le Bélial'", 'SFFF', 'Jean Michelin', "Editions Héloïse d'Ormesson", "Roman" ]
+tags: ['Listes', 'Victor LaValle', "Le Bélial'", 'Une Heure-Lumière', 'SFFF', 'Jean Michelin', "Editions Héloïse d'Ormesson", "Roman" ]
 cover: 
     image: "multicouv.jpg"
     hidden: true
