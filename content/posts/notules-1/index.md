@@ -1,5 +1,5 @@
 ---
-title: 'Notules (1)'
+title: 'Notules (1) - Goliarda Sapienza, Ketty Steward'
 date: 2025-04-10
 draft: false
 tags: ['Listes', 'Goliarda Sapienza', 'Roman', 'Editions Attila', 'Ketty Steward', 'Novella', 'SFFF', 'Argyll', 'RéciFs', ]

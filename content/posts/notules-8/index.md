@@ -1,5 +1,5 @@
 ---
-title: 'Notules (8)'
+title: 'Notules (8) - Victor LaValle, Jean Michelin'
 date: 2025-09-20
 draft: false
 tags: ['Listes', 'Victor LaValle', "Le Bélial'", 'Une Heure-Lumière', 'SFFF', 'Jean Michelin', "Editions Héloïse d'Ormesson", "Roman" ]

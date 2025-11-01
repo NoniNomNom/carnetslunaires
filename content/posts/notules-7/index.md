@@ -1,5 +1,5 @@
 ---
-title: 'Notules (7)'
+title: 'Notules (7) - Philippe Jaenada, Teffi'
 date: 2025-09-15
 draft: false
 tags: ['Listes', 'Philippe Jaenada', 'Roman', 'Teffi', 'Récit', 'Autobiographie', 'Éditions des Syrtes']

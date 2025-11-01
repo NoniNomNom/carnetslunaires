@@ -1,5 +1,5 @@
 ---
-title: 'Notules (6)'
+title: 'Notules (6) - Iegor Gran, Cookie Mueller'
 date: 2025-09-08
 draft: false
 tags: ['Listes', 'Iegor Gran', 'Histoire', 'Roman', 'Folio', 'Cookie Mueller', '10-18', 'Nouvelles']

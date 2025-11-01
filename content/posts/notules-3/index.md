@@ -1,5 +1,5 @@
 ---
-title: 'Notules (3)'
+title: 'Notules (3) - Aline Kiner, Valentina Tanni'
 date: 2025-07-06
 draft: false
 tags: ['Listes', 'Aline Kiner', 'Roman', 'Liana Levi', 'Histoire', 'Valentina Tanni', 'Essai', 'Audimat éditions', 'Numérique']

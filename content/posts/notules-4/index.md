@@ -1,5 +1,5 @@
 ---
-title: 'Notules (4)'
+title: 'Notules (4) - Denis Colombi, Adèle Yon'
 date: 2025-07-20
 draft: false
 tags: ['Listes', 'Denis Colombi', 'Novella', 'SFFF', '1115', 'Adèle Yon', 'Editions Du Sous-Sol', 'Roman']

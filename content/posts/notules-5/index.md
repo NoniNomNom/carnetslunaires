@@ -1,5 +1,5 @@
 ---
-title: 'Notules (5)'
+title: 'Notules (5) - Jenny Zhang, Eric Vuillard'
 date: 2025-08-31
 draft: false
 tags: ['Listes', Jenny Zhang, Éditions Picquier, 'Eric Vuillard', 'Histoire', 'Roman', 'Actes Sud']

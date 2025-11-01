@@ -3,7 +3,7 @@ from PIL import Image, ImageDraw
 number = 10
 
 book1 = "/plasmas.jpg"
-book2 = "/fun-home-couv.jpg"
+book2 = "/defenses-extinction.jpg"
 
 # Paths to your two images
 image1_path = "C:/Users/devos/carnetslunaires/content/posts/notules-" + str(number) + book1
@@ -40,15 +40,15 @@ mask2 = Image.new("L", (w, h), 0)
 draw1 = ImageDraw.Draw(mask1)
 draw2 = ImageDraw.Draw(mask2)
 
-# # First mask: keep top-left triangle
-# draw1.polygon([(0, 0), (w, 0), (0, h)], fill=255)
-# # Second mask: keep bottom-right triangle
-# draw2.polygon([(w, h), (w, 0), (0, h)], fill=255)
+# First mask: keep top-left triangle
+draw1.polygon([(0, 0), (w, 0), (0, h)], fill=255)
+# Second mask: keep bottom-right triangle
+draw2.polygon([(w, h), (w, 0), (0, h)], fill=255)
 
-# First mask: keep top-right triangle
-draw1.polygon([(0, 0), (w, 0), (w, h)], fill=255)
-# Second mask: keep bottom-left triangle
-draw2.polygon([(0, 0), (0, h), (w, h)], fill=255)
+# # First mask: keep top-right triangle
+# draw1.polygon([(0, 0), (w, 0), (w, h)], fill=255)
+# # Second mask: keep bottom-left triangle
+# draw2.polygon([(0, 0), (0, h), (w, h)], fill=255)
 
 # # First mask: left rectangle
 # draw1.polygon([(0, 0), (w/2, 0), (w/2, h), (0, h)], fill=255)
