@@ -11,7 +11,7 @@ cover:
 
 {{< inTextImg-left url="fun-home-couv.jpg" alt="Fun Home - couverture" width="30%">}}
 
-Alison Bechdel ([celle du test](https://fr.wikipedia.org/wiki/Test_de_Bechdel)) dresse dans *Fun Home* - une BD autobiographique - un portrait de son père, prof d'anglais et directeur de pompes funèbres brutalement décédé après une vie complexe et contrariée. Élevée dans une atmosphère rappelant la série *Six Feet Under*, Alison a eu tout loisir d'observer son papa agir en tyran froid et obsessionnel, voué corps et âme à la décoration d'intérieur. Elle en tire un récit forcément très introspectif, dans lequel elle s'interroge sur ce décès soudain (s'agit-il d'un suicide, comme le suggéreraient certains indices ?) et raconte la découverte de son homosexualité (la sienne et, quasi simultanément, celle de son père) dans une narration marquée par une sorte de froideur ironique. 
+Alison Bechdel ([celle du test](https://fr.wikipedia.org/wiki/Test_de_Bechdel)) dresse dans *Fun Home* - une BD autobiographique - un portrait de son père, prof d'anglais et directeur de pompes funèbres brutalement décédé après une vie complexe et contrariée. Élevée dans une atmosphère rappelant la série *Six Feet Under*, elle a eu tout loisir d'observer son papa agir en tyran froid et obsessionnel, voué corps et âme à la décoration d'intérieur. L'autrice en tire un récit forcément très introspectif, dans lequel elle s'interroge sur ce décès soudain (s'agit-il d'un suicide, comme le suggéreraient certains indices ?) et raconte la découverte de son homosexualité (la sienne et, quasi simultanément, celle de son père) dans une narration marquée par une sorte de froideur ironique. 
 
 {{< inTextImg-right url="fun-home-2.jpg" alt="Extrait de Fun Home" width="30%">}}
 
