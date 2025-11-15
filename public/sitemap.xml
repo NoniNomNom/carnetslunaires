@@ -3,10 +3,40 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/carnetslunaires/tags/avis/</loc>
-    <lastmod>2025-11-04T00:00:00+01:00</lastmod>
+    <lastmod>2025-11-13T00:00:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/carnetslunaires/</loc>
-    <lastmod>2025-11-04T00:00:00+01:00</lastmod>
+    <lastmod>2025-11-13T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnetslunaires/posts/conquest-nina-allan/</loc>
+    <lastmod>2025-11-13T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnetslunaires/tags/nina-allan/</loc>
+    <lastmod>2025-11-13T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnetslunaires/posts/</loc>
+    <lastmod>2025-11-13T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnetslunaires/tags/roman/</loc>
+    <lastmod>2025-11-13T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnetslunaires/tags/sfff/</loc>
+    <lastmod>2025-11-13T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnetslunaires/tags/</loc>
+    <lastmod>2025-11-13T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnetslunaires/tags/dave-gilbert/</loc>
+    <lastmod>2025-11-08T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnetslunaires/tags/jeu-vid%C3%A9o/</loc>
+    <lastmod>2025-11-08T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnetslunaires/posts/old-skies-wadjet-eye/</loc>
+    <lastmod>2025-11-08T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnetslunaires/tags/wadjet-eye-games/</loc>
+    <lastmod>2025-11-08T00:00:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/carnetslunaires/posts/la-cite-miracles-bennett/</loc>
     <lastmod>2025-11-04T00:00:00+01:00</lastmod>
@@ -14,16 +44,7 @@
     <loc>http://localhost:1313/carnetslunaires/tags/les-cit%C3%A9s-divines/</loc>
     <lastmod>2025-11-04T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/carnetslunaires/posts/</loc>
-    <lastmod>2025-11-04T00:00:00+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/carnetslunaires/tags/robert-jackson-bennett/</loc>
-    <lastmod>2025-11-04T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/carnetslunaires/tags/sfff/</loc>
-    <lastmod>2025-11-04T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/carnetslunaires/tags/</loc>
     <lastmod>2025-11-04T00:00:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/carnetslunaires/tags/c%C3%A9line-minard/</loc>
@@ -50,18 +71,6 @@
     <loc>http://localhost:1313/carnetslunaires/tags/une-heure-lumi%C3%A8re/</loc>
     <lastmod>2025-11-01T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/carnetslunaires/tags/dave-gilbert/</loc>
-    <lastmod>2025-10-29T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/carnetslunaires/tags/jeu-vid%C3%A9o/</loc>
-    <lastmod>2025-10-29T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/carnetslunaires/posts/old-skies-wadjet-eye/</loc>
-    <lastmod>2025-10-29T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/carnetslunaires/tags/wadjet-eye-games/</loc>
-    <lastmod>2025-10-29T00:00:00+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/carnetslunaires/tags/ann-leckie/</loc>
     <lastmod>2025-10-26T00:00:00+02:00</lastmod>
   </url><url>
@@ -69,9 +78,6 @@
     <lastmod>2025-10-26T00:00:00+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/carnetslunaires/posts/l-epee-ancillaire-ann-leckie/</loc>
-    <lastmod>2025-10-26T00:00:00+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/carnetslunaires/tags/roman/</loc>
     <lastmod>2025-10-26T00:00:00+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/carnetslunaires/posts/les-dangers-fumer-lit-enriquez/</loc>
@@ -372,9 +378,6 @@
     <lastmod>2024-12-30T19:31:34+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/carnetslunaires/tags/lydie-salvayre/</loc>
-    <lastmod>2024-12-30T19:31:34+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/carnetslunaires/tags/nina-allan/</loc>
     <lastmod>2024-12-30T19:31:34+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/carnetslunaires/tags/plon/</loc>
