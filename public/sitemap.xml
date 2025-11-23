@@ -2,11 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/carnetslunaires/tags/alison-bechdel/</loc>
+    <lastmod>2025-11-15T00:00:00+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/carnetslunaires/tags/avis/</loc>
-    <lastmod>2025-11-13T00:00:00+01:00</lastmod>
+    <lastmod>2025-11-15T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnetslunaires/tags/bd/</loc>
+    <lastmod>2025-11-15T00:00:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/carnetslunaires/</loc>
-    <lastmod>2025-11-13T00:00:00+01:00</lastmod>
+    <lastmod>2025-11-15T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnetslunaires/posts/fun-home-bechdel/</loc>
+    <lastmod>2025-11-15T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnetslunaires/tags/points/</loc>
+    <lastmod>2025-11-15T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnetslunaires/posts/</loc>
+    <lastmod>2025-11-15T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnetslunaires/tags/</loc>
+    <lastmod>2025-11-15T00:00:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/carnetslunaires/posts/conquest-nina-allan/</loc>
     <lastmod>2025-11-13T00:00:00+01:00</lastmod>
@@ -14,16 +32,10 @@
     <loc>http://localhost:1313/carnetslunaires/tags/nina-allan/</loc>
     <lastmod>2025-11-13T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/carnetslunaires/posts/</loc>
-    <lastmod>2025-11-13T00:00:00+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/carnetslunaires/tags/roman/</loc>
     <lastmod>2025-11-13T00:00:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/carnetslunaires/tags/sfff/</loc>
-    <lastmod>2025-11-13T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/carnetslunaires/tags/</loc>
     <lastmod>2025-11-13T00:00:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/carnetslunaires/tags/dave-gilbert/</loc>
@@ -85,18 +97,6 @@
   </url><url>
     <loc>http://localhost:1313/carnetslunaires/tags/mariana-enriquez/</loc>
     <lastmod>2025-10-18T00:00:00+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/carnetslunaires/tags/points/</loc>
-    <lastmod>2025-10-18T00:00:00+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/carnetslunaires/tags/alison-bechdel/</loc>
-    <lastmod>2025-10-14T00:00:00+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/carnetslunaires/tags/bd/</loc>
-    <lastmod>2025-10-14T00:00:00+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/carnetslunaires/posts/fun-home-bechdel/</loc>
-    <lastmod>2025-10-14T00:00:00+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/carnetslunaires/tags/alastair-reynolds/</loc>
     <lastmod>2025-10-05T00:00:00+02:00</lastmod>
