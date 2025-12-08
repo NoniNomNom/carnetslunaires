@@ -2,11 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/carnetslunaires/tags/alix-e.-harrow/</loc>
+    <lastmod>2025-12-01T00:00:00+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/carnetslunaires/tags/avis/</loc>
-    <lastmod>2025-11-23T00:00:00+01:00</lastmod>
+    <lastmod>2025-12-01T00:00:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/carnetslunaires/</loc>
-    <lastmod>2025-11-23T00:00:00+01:00</lastmod>
+    <lastmod>2025-12-01T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnetslunaires/tags/le-livre-de-poche/</loc>
+    <lastmod>2025-12-01T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnetslunaires/posts/le-temps-des-sorci%C3%A8res-harrow/</loc>
+    <lastmod>2025-12-01T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnetslunaires/posts/</loc>
+    <lastmod>2025-12-01T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnetslunaires/tags/roman/</loc>
+    <lastmod>2025-12-01T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnetslunaires/tags/sfff/</loc>
+    <lastmod>2025-12-01T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnetslunaires/tags/</loc>
+    <lastmod>2025-12-01T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnetslunaires/posts/conquest-nina-allan/</loc>
+    <lastmod>2025-11-30T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnetslunaires/tags/nina-allan/</loc>
+    <lastmod>2025-11-30T00:00:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/carnetslunaires/posts/la-cite-miracles-bennett/</loc>
     <lastmod>2025-11-23T00:00:00+01:00</lastmod>
@@ -14,16 +41,7 @@
     <loc>http://localhost:1313/carnetslunaires/tags/les-cit%C3%A9s-divines/</loc>
     <lastmod>2025-11-23T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/carnetslunaires/posts/</loc>
-    <lastmod>2025-11-23T00:00:00+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/carnetslunaires/tags/robert-jackson-bennett/</loc>
-    <lastmod>2025-11-23T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/carnetslunaires/tags/sfff/</loc>
-    <lastmod>2025-11-23T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/carnetslunaires/tags/</loc>
     <lastmod>2025-11-23T00:00:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/carnetslunaires/tags/alison-bechdel/</loc>
@@ -37,15 +55,6 @@
   </url><url>
     <loc>http://localhost:1313/carnetslunaires/tags/points/</loc>
     <lastmod>2025-11-15T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/carnetslunaires/posts/conquest-nina-allan/</loc>
-    <lastmod>2025-11-13T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/carnetslunaires/tags/nina-allan/</loc>
-    <lastmod>2025-11-13T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/carnetslunaires/tags/roman/</loc>
-    <lastmod>2025-11-13T00:00:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/carnetslunaires/tags/dave-gilbert/</loc>
     <lastmod>2025-11-08T00:00:00+01:00</lastmod>
@@ -246,9 +255,6 @@
     <lastmod>2025-06-21T00:00:00+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/carnetslunaires/posts/la-sonate-hydrogene-banks/</loc>
-    <lastmod>2025-06-21T00:00:00+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/carnetslunaires/tags/le-livre-de-poche/</loc>
     <lastmod>2025-06-21T00:00:00+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/carnetslunaires/tags/antonio-scurati/</loc>
@@ -1059,9 +1065,6 @@
     <lastmod>2000-03-03T00:00:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/carnetslunaires/posts/1-template-name/</loc>
-    <lastmod>2000-03-03T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/carnetslunaires/posts/le-temps-des-sorci%C3%A8res-harrow/</loc>
     <lastmod>2000-03-03T00:00:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/carnetslunaires/archive/</loc>
