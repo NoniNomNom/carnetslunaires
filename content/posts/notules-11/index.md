@@ -1,7 +1,7 @@
 ---
 title: 'Notules (11) - Capucine Delattre, Eric Ambler'
 date: 2025-12-18
-draft: false
+draft: true
 tags: ['Listes', 'Capucine Delattre', 'Essai', 'La Ville Brûle', 'Eric Ambler', 'Polar', 'Folio']
 cover: 
     image: "multicouv.jpg"
