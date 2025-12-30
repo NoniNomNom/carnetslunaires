@@ -6,8 +6,18 @@
     <description>Recent content in Avis on Carnets lunaires</description>
     <generator>Hugo -- 0.143.1</generator>
     <language>fr-be</language>
-    <lastBuildDate>Sat, 20 Dec 2025 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 28 Dec 2025 00:00:00 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/carnetslunaires/tags/avis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Harrow la Neuvième - Tamsyn Muir</title>
+      <link>http://localhost:1313/carnetslunaires/posts/harrow-la-neuvieme-tamsyn-muir/</link>
+      <pubDate>Sun, 28 Dec 2025 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/carnetslunaires/posts/harrow-la-neuvieme-tamsyn-muir/</guid>
+      <description>&lt;a href=&#34;harrow_couv.jpg&#34; target=&#34;_blank&#34;&gt;&lt;img class=&#34;in-text&#34; width=&#34;30%&#34; src=&#34;harrow_couv.jpg&#34; alt=&#34;Couverture de Harrow la Neuvième&#34; style=&#34;float: left; margin-right: 10px;&#34; &gt;&lt;/a&gt;
+
+
+&lt;p&gt;Je me suis lancé dans &lt;em&gt;Harrow la Neuvième&lt;/em&gt; environ deux ans et demi après &lt;a href=&#34;https://noninomnom.github.io/carnetslunaires/posts/gideon-la-neuvieme-tamsyn-muir/&#34;&gt;&lt;em&gt;Gideon la Neuvième&lt;/em&gt;&lt;/a&gt;, qui m&amp;rsquo;avait laissé un souvenir de lecture chelou mais très fun. Ce fut là ma première erreur. Avant d&amp;rsquo;entamer ce second tome du cycle du &lt;em&gt;Tombeau scellé&lt;/em&gt;, il est en effet nécessaire d&amp;rsquo;être bien préparé. Après une petite centaine de page, s&amp;rsquo;est ainsi posée la question de l&amp;rsquo;abandon pur et simple. A la place, j&amp;rsquo;ai parcouru quelques discussions sur Reddit (je ne suis pas le seul à avoir envisagé de balancer le livre par la fenêtre) et lu un résumé complet du premier tome pour me raffraîchir la mémoire. Si cela n&amp;rsquo;a pas suffi à éclairer ma lanterne, ces recherches m&amp;rsquo;ont au moins convaincu de ne pas lâcher l&amp;rsquo;affaire immédiatement.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Les Tentacules - Rita Indiana</title>
       <link>http://localhost:1313/carnetslunaires/posts/les-tentacules-rita-indiana/</link>
@@ -939,6 +949,16 @@
       <link>http://localhost:1313/carnetslunaires/posts/1-template-name/</link>
       <pubDate>Fri, 03 Mar 2000 00:00:00 +0100</pubDate>
       <guid>http://localhost:1313/carnetslunaires/posts/1-template-name/</guid>
+      <description>&lt;a href=&#34;IMAGE.jpg&#34; target=&#34;_blank&#34;&gt;&lt;img class=&#34;in-text&#34; width=&#34;30%&#34; src=&#34;IMAGE.jpg&#34; alt=&#34;TITLE - couverture&#34; style=&#34;float: left; margin-right: 10px;&#34; &gt;&lt;/a&gt;
+
+
+&lt;p&gt;Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l&amp;rsquo;imprimerie depuis les années 1500, quand un imprimeur anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de polices de texte. Il n&amp;rsquo;a pas fait que survivre cinq siècles, mais s&amp;rsquo;est aussi adapté à la bureautique informatique, sans que son contenu n&amp;rsquo;en soit modifié. Il a été popularisé dans les années 1960 grâce à la vente de feuilles Letraset contenant des passages du Lorem Ipsum, et, plus récemment, par son inclusion dans des applications de mise en page de texte, comme Aldus PageMaker.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>TITLE - NAME</title>
+      <link>http://localhost:1313/carnetslunaires/posts/soli-deo-gloria-cour-deveney/</link>
+      <pubDate>Fri, 03 Mar 2000 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/carnetslunaires/posts/soli-deo-gloria-cour-deveney/</guid>
       <description>&lt;a href=&#34;IMAGE.jpg&#34; target=&#34;_blank&#34;&gt;&lt;img class=&#34;in-text&#34; width=&#34;30%&#34; src=&#34;IMAGE.jpg&#34; alt=&#34;TITLE - couverture&#34; style=&#34;float: left; margin-right: 10px;&#34; &gt;&lt;/a&gt;
 
 

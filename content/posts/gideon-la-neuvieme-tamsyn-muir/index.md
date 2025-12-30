@@ -2,7 +2,7 @@
 title: 'Gideon la Neuvième - Tamsyn Muir'
 date: Sun, 06 Aug 2023 10:36:10 +0000
 draft: false
-tags: ['Avis', 'Le Tombeau Scellé', 'Roman', 'SFFF', 'Tamsyn Muir', 'Actes Sud', 'Exofictions']
+tags: ['Avis', 'Le Tombeau scellé', 'Roman', 'SFFF', 'Tamsyn Muir', 'Actes Sud', 'Exofictions']
 cover: 
     image: "gideon.jpg"
     hidden: true
@@ -19,4 +19,4 @@ Le déroulement du récit nous donne bien sûr l'occasion de voir évoluer la re
 
 Au fond, ce bouquin est une sorte de plongée au sein d'un empire du Mal très codifié luttant pour sa survie, aux pratiques étranges et occultes. Il est aussi super kiffant. Comme sa (superbe) couverture l'indique, c'est le premier d'une série, _Le tombeau scellé_, prévue pour être une tétralogie. Il possède toutefois une vraie conclusion et peut se suffire à lui-même si on aime les fins ouvertes, ce qui ne gâche rien.
 
-_Titre original : _Gideon the Ninth / _Sortie originale (anglais) : 2019 / Version française : 2022 (traduction : _ Stéphanie Lux_)_
+*Titre original : Gideon the Ninth / Sortie originale (anglais) : 2019 / Version française : 2022 (traduction : Stéphanie Lux)*
