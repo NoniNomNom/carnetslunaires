@@ -27,7 +27,7 @@ _[Gideon la Neuvième]({{< ref "gideon-la-neuvieme-tamsyn-muir" >}})_, de Tamsyn
 
 _[Hildegarde]({{< ref "hildegarde-leo-henry" >}})_, de Léo Henry. Étrange. Le vaste portrait d'une moniale du douzième siècle aux multiples compétences, qui réussit à être fluide et varié. L'auteur nous plonge dans le monde qui fut celui de Hildegarde de Bingen, son univers géographique, spirituel, politique, voire psychologique, et le fait admirablement bien.
 
-{{< inTextImg-left url="le-grand-livre.jpg" alt="Le grand livre - couverture" width="120">}} 
+{{< inTextImg-left url="grand_livre.jpg" alt="Le grand livre - couverture" width="120">}} 
 
 _[La Grand Livre]({{< ref "le-grand-livre-connie-willis" >}})_, de Connie Willis. Tourbillonnant. L'histoire d'un voyage dans le temps, depuis un XXIème siècle futuriste vers un XIVème siècle peu accueillant. Et surtout, une histoire qui ne nous laisse pas le temps de respirer, qui saute d'une péripétie à l'autre tout en se permettant un running gag par-ci par-là sur fond de chaos dramatique. Des mois plus tard, j'essaie toujours de reprendre mon souffle.
 
