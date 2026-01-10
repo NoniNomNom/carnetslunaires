@@ -2,7 +2,7 @@
 title: 'Moi, Jean Gabin - Goliarda Sapienza'
 date: 2000-04-09
 draft: true
-tags: ['Notules', 'Goliarda Sapienza', 'Roman']
+tags: ['Notules', 'Goliarda Sapienza', 'Roman', 'LGBT']
 cover: 
     image: "moi-jean-gabin.jpg"
     hidden: true

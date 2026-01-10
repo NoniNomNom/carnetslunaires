@@ -6,13 +6,55 @@
     <description>Recent content in Tags on Carnets lunaires</description>
     <generator>Hugo -- 0.143.1</generator>
     <language>fr-be</language>
-    <lastBuildDate>Fri, 02 Jan 2026 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 07 Jan 2026 00:00:00 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/carnetslunaires/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Karim Madani</title>
+      <link>http://localhost:1313/carnetslunaires/tags/karim-madani/</link>
+      <pubDate>Wed, 07 Jan 2026 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/carnetslunaires/tags/karim-madani/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Listes</title>
+      <link>http://localhost:1313/carnetslunaires/tags/listes/</link>
+      <pubDate>Wed, 07 Jan 2026 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/carnetslunaires/tags/listes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Marchialy</title>
+      <link>http://localhost:1313/carnetslunaires/tags/marchialy/</link>
+      <pubDate>Wed, 07 Jan 2026 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/carnetslunaires/tags/marchialy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Non-Fiction</title>
+      <link>http://localhost:1313/carnetslunaires/tags/non-fiction/</link>
+      <pubDate>Wed, 07 Jan 2026 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/carnetslunaires/tags/non-fiction/</guid>
+      <description></description>
+    </item>
     <item>
       <title>26 en 2026</title>
       <link>http://localhost:1313/carnetslunaires/tags/26-en-2026/</link>
-      <pubDate>Fri, 02 Jan 2026 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 03 Jan 2026 00:00:00 +0100</pubDate>
       <guid>http://localhost:1313/carnetslunaires/tags/26-en-2026/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Challenge</title>
+      <link>http://localhost:1313/carnetslunaires/tags/challenge/</link>
+      <pubDate>Sat, 03 Jan 2026 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/carnetslunaires/tags/challenge/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SFFF</title>
+      <link>http://localhost:1313/carnetslunaires/tags/sfff/</link>
+      <pubDate>Sat, 03 Jan 2026 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/carnetslunaires/tags/sfff/</guid>
       <description></description>
     </item>
     <item>
@@ -23,17 +65,10 @@
       <description></description>
     </item>
     <item>
-      <title>Challenge</title>
-      <link>http://localhost:1313/carnetslunaires/tags/challenge/</link>
+      <title>LGBT</title>
+      <link>http://localhost:1313/carnetslunaires/tags/lgbt/</link>
       <pubDate>Fri, 02 Jan 2026 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/carnetslunaires/tags/challenge/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Listes</title>
-      <link>http://localhost:1313/carnetslunaires/tags/listes/</link>
-      <pubDate>Fri, 02 Jan 2026 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/carnetslunaires/tags/listes/</guid>
+      <guid>http://localhost:1313/carnetslunaires/tags/lgbt/</guid>
       <description></description>
     </item>
     <item>
@@ -48,13 +83,6 @@
       <link>http://localhost:1313/carnetslunaires/tags/roman/</link>
       <pubDate>Fri, 02 Jan 2026 00:00:00 +0100</pubDate>
       <guid>http://localhost:1313/carnetslunaires/tags/roman/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>SFFF</title>
-      <link>http://localhost:1313/carnetslunaires/tags/sfff/</link>
-      <pubDate>Fri, 02 Jan 2026 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/carnetslunaires/tags/sfff/</guid>
       <description></description>
     </item>
     <item>
@@ -1031,13 +1059,6 @@
       <description></description>
     </item>
     <item>
-      <title>Non-Fiction</title>
-      <link>http://localhost:1313/carnetslunaires/tags/non-fiction/</link>
-      <pubDate>Sat, 01 Jul 2023 11:45:53 +0000</pubDate>
-      <guid>http://localhost:1313/carnetslunaires/tags/non-fiction/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Capitale Du Nord</title>
       <link>http://localhost:1313/carnetslunaires/tags/capitale-du-nord/</link>
       <pubDate>Sat, 10 Jun 2023 18:25:40 +0000</pubDate>
@@ -1686,13 +1707,6 @@
       <link>http://localhost:1313/carnetslunaires/tags/magdalena-parys/</link>
       <pubDate>Mon, 28 Dec 2020 11:18:00 +0000</pubDate>
       <guid>http://localhost:1313/carnetslunaires/tags/magdalena-parys/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Marchialy</title>
-      <link>http://localhost:1313/carnetslunaires/tags/marchialy/</link>
-      <pubDate>Mon, 28 Dec 2020 11:18:00 +0000</pubDate>
-      <guid>http://localhost:1313/carnetslunaires/tags/marchialy/</guid>
       <description></description>
     </item>
     <item>

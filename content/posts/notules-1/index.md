@@ -2,7 +2,7 @@
 title: 'Notules (1) - Goliarda Sapienza, Ketty Steward'
 date: 2025-04-10
 draft: false
-tags: ['Listes', 'Goliarda Sapienza', 'Roman', 'Editions Attila', 'Ketty Steward', 'Novella', 'SFFF', 'Argyll', 'RéciFs', ]
+tags: ['Listes', 'Goliarda Sapienza', 'Roman', 'Editions Attila', 'LGBT', 'Ketty Steward', 'Novella', 'SFFF', 'Argyll', 'RéciFs', ]
 cover: 
     image: "notules1_multi_couv.jpg"
     hidden: true
