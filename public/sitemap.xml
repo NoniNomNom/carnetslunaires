@@ -2,8 +2,71 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/carnetslunaires/tags/avis/</loc>
+    <lastmod>2026-01-17T00:00:00+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/carnetslunaires/</loc>
-    <lastmod>2026-01-07T00:00:00+01:00</lastmod>
+    <lastmod>2026-01-17T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnetslunaires/tags/ellipsis/</loc>
+    <lastmod>2026-01-17T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnetslunaires/posts/greta-valdin-rebecca-reilly/</loc>
+    <lastmod>2026-01-17T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnetslunaires/tags/lgbt/</loc>
+    <lastmod>2026-01-17T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnetslunaires/posts/</loc>
+    <lastmod>2026-01-17T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnetslunaires/tags/rebecca-k.-reilly/</loc>
+    <lastmod>2026-01-17T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnetslunaires/tags/roman/</loc>
+    <lastmod>2026-01-17T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnetslunaires/tags/</loc>
+    <lastmod>2026-01-17T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnetslunaires/tags/bd/</loc>
+    <lastmod>2026-01-12T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnetslunaires/tags/dupuis/</loc>
+    <lastmod>2026-01-12T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnetslunaires/tags/edouard-cour/</loc>
+    <lastmod>2026-01-12T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnetslunaires/tags/histoire/</loc>
+    <lastmod>2026-01-12T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnetslunaires/tags/jean-christophe-deveney/</loc>
+    <lastmod>2026-01-12T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnetslunaires/tags/musique/</loc>
+    <lastmod>2026-01-12T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnetslunaires/posts/soli-deo-gloria-cour-deveney/</loc>
+    <lastmod>2026-01-12T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnetslunaires/tags/actes-sud/</loc>
+    <lastmod>2026-01-10T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnetslunaires/tags/exofictions/</loc>
+    <lastmod>2026-01-10T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnetslunaires/posts/harrow-la-neuvieme-tamsyn-muir/</loc>
+    <lastmod>2026-01-10T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnetslunaires/tags/le-tombeau-scell%C3%A9/</loc>
+    <lastmod>2026-01-10T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnetslunaires/tags/sfff/</loc>
+    <lastmod>2026-01-10T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnetslunaires/tags/tamsyn-muir/</loc>
+    <lastmod>2026-01-10T00:00:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/carnetslunaires/tags/karim-madani/</loc>
     <lastmod>2026-01-07T00:00:00+01:00</lastmod>
@@ -20,12 +83,6 @@
     <loc>http://localhost:1313/carnetslunaires/posts/notules-12/</loc>
     <lastmod>2026-01-07T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/carnetslunaires/posts/</loc>
-    <lastmod>2026-01-07T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/carnetslunaires/tags/</loc>
-    <lastmod>2026-01-07T00:00:00+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/carnetslunaires/tags/26-en-2026/</loc>
     <lastmod>2026-01-03T00:00:00+01:00</lastmod>
   </url><url>
@@ -34,54 +91,6 @@
   </url><url>
     <loc>http://localhost:1313/carnetslunaires/posts/26-en-2026/</loc>
     <lastmod>2026-01-03T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/carnetslunaires/tags/sfff/</loc>
-    <lastmod>2026-01-03T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/carnetslunaires/tags/avis/</loc>
-    <lastmod>2026-01-02T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/carnetslunaires/posts/greta-valdin-rebecca-reilly/</loc>
-    <lastmod>2026-01-02T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/carnetslunaires/tags/lgbt/</loc>
-    <lastmod>2026-01-02T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/carnetslunaires/tags/rebecca-k.-reilly/</loc>
-    <lastmod>2026-01-02T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/carnetslunaires/tags/roman/</loc>
-    <lastmod>2026-01-02T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/carnetslunaires/tags/actes-sud/</loc>
-    <lastmod>2026-01-01T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/carnetslunaires/tags/bd/</loc>
-    <lastmod>2026-01-01T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/carnetslunaires/tags/dupuis/</loc>
-    <lastmod>2026-01-01T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/carnetslunaires/tags/edouard-cour/</loc>
-    <lastmod>2026-01-01T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/carnetslunaires/tags/exofictions/</loc>
-    <lastmod>2026-01-01T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/carnetslunaires/posts/harrow-la-neuvieme-tamsyn-muir/</loc>
-    <lastmod>2026-01-01T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/carnetslunaires/tags/jean-christophe-deveney/</loc>
-    <lastmod>2026-01-01T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/carnetslunaires/tags/le-tombeau-scell%C3%A9/</loc>
-    <lastmod>2026-01-01T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/carnetslunaires/posts/soli-deo-gloria-cour-deveney/</loc>
-    <lastmod>2026-01-01T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/carnetslunaires/tags/tamsyn-muir/</loc>
-    <lastmod>2026-01-01T00:00:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/carnetslunaires/tags/10-18/</loc>
     <lastmod>2025-12-30T00:00:00+01:00</lastmod>
@@ -303,9 +312,6 @@
     <lastmod>2025-09-15T00:00:00+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/carnetslunaires/tags/cookie-mueller/</loc>
-    <lastmod>2025-09-08T00:00:00+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/carnetslunaires/tags/histoire/</loc>
     <lastmod>2025-09-08T00:00:00+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/carnetslunaires/tags/iegor-gran/</loc>
@@ -759,9 +765,6 @@
     <lastmod>2022-01-26T09:42:27+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/carnetslunaires/tags/mark-fisher/</loc>
-    <lastmod>2022-01-26T09:42:27+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/carnetslunaires/tags/musique/</loc>
     <lastmod>2022-01-26T09:42:27+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/carnetslunaires/posts/spectres-de-ma-vie-mark-fisher/</loc>
