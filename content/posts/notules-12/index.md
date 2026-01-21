@@ -1,8 +1,8 @@
 ---
-title: 'Notules (12) - Karim Madani,'
-date: 2026-01-07
+title: 'Notules (12) - Karim Madani, Naomi Novik'
+date: 2026-01-18
 draft: true
-tags: ['Listes', 'Karim Madani', 'Marchialy', 'Non-fiction']
+tags: ['Listes', '26 en 2026', 'Karim Madani', 'Marchialy', 'Non-fiction', 'Naomi Novik', "J'ai lu", 'SFFF']
 cover: 
     image: "multicouv.jpg"
     hidden: true
@@ -15,8 +15,9 @@ Avec *Jewish Gangsta*, je m'attendais à de la non-fiction traitant principaleme
 
 *Sortie : 2017*
 
-{{< inTextImg-right url="masque_dimitrios.jpg" alt="Couverture de Le masque de Dimitrios (poche)." width="30%">}}
+{{< inTextImg-right url="scholomance.jpg" alt="Couverture de Scholomance 1 - Education meurtrière" width="30%">}}
 
+*Education meurtrière* est le premier tome de la série *Scholomance*. L'autrice américaine Naomi Novik y met en scène Galadriel, El pour les intimes, jeune sorcière en avant-dernière année dans l'école du même nom. Loin d'être une école de sorcellerie paisible, la Scholomance est plutôt un lieu mortellement dangereux, certes dépourvue de prof mais bourrée de créatures atroces très excités à l'idée de dévorer des ados pleins de mana. Galadriel est une étudiante peu appréciée et isolée dans un contexte cruel où les alliances et les bons réseaux sont la clé de la survie. Ce que personne ne sait, c'est qu'elle dispose d'un pouvoir redoutable qu'elle se refuse à utiliser. L'histoire commence alors qu'un autre étudiant, Orion, lui sauve la vie, à son plus grand agacement. J'ai bien aimé assister au parcours personnel d'El et comprendre progressivement le fonctionnement de cette école terrifiante. C'est un bouquin que j'aurais tendance à situer du côté du *young adult* et que j'ai pris plaisir à lire.
 
-*Titre original : The Mask of Dimitrios / Sortie originale (anglais) : 1939 / Version française : 1966 pour cette traduction sans révision, 2024 pour l'édition révisée (traduction : Gabriel Veraldi)*
+*Titre original : A Deadly Education / Sortie originale (anglais) : 2020 / Version française : 2022 (traduction : Benjamin Kuntzer)*
 
