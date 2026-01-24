@@ -21,4 +21,4 @@ Le livre comprend deux autres protagonistes. Zanka, un écrivain rendu célèbre
 
 Ce qui pourrait n'être qu'un agglomérat indigeste d'éléments épars se révèle être un ensemble cohérent et passionnant, que j'ai dévoré avec un appétit rare. Le collectif d'écrivains italiens Wu Ming y mélange le vrai (l'époque violente, l'enlèvement d'Aldo Moro, l'atmosphère culturelle du moment,...) et le faux (comme certains lieux qui n'existent simplement pas) pour construire son intrigue et dépeindre avec acuité les tenants d'une période qu'ils connaissent manifestement très bien. Que certains personnages mélomanes y partagent leur passion pour le krautrock, et autres expérimentations sonores de l'époque, ne gâche rien. Un livre nourrissant.
 
-_Titre original :_ Ufo 78 / _Sortie originale (italien) :_ 2022 / _Version française : 2024 (traduction :_ Serge Quadruppani_)_
+*Titre original : Ufo 78 / Sortie originale (italien) : 2022 / Version française : 2024 (traduction : Serge Quadruppani)*

@@ -1,7 +1,7 @@
 ---
 title: 'Soli Deo Gloria - Cour, Deveney'
-date: 2026-01-12
-draft: true
+date: 2026-01-24
+draft: false
 tags: ['Avis', 'Edouard Cour', 'Jean-Christophe Deveney', 'BD', 'Dupuis', 'Histoire', 'Musique']
 cover: 
     image: "solideogloria.jpg"
@@ -11,7 +11,7 @@ cover:
 
 {{< inTextImg-left url="solideogloria.jpg" alt="Couverture de Soli Deo Gloria" width="30%">}}
 
-À un moment où je me prends à vouloir découvrir davantage la musique classique, *Soli Deo Gloria* tombe à point. Cette BD de 280 pages (qui pèse son poids) commence au XVIIIème siècle dans la campagne du Saint-Empire avec la naissance des jumeaux Hans et Helma, immédiatement inséparables. Rapidement, ils sont attirés par la musicalité de leur environnement, à commencer par le chant des oiseaux. Nous suivons leur jeunesse agitée, souvent violente et dramatique, d'un bled rural aux fastes de l'Italie en passant par un rude orphelinat et le château d'un chef de guerre. Chacune de ces étapes est un jalon de leur apprentissage musical et une façon d'appréhender leur complicité en la mettant à l'épreuve. 
+À un moment où je me prends à vouloir découvrir davantage la musique classique, *Soli Deo Gloria* tombe à point. Cette BD de 280 pages (qui pèse son poids) commence au XVIIIe siècle dans la campagne du Saint-Empire avec la naissance des jumeaux Hans et Helma, immédiatement inséparables. Rapidement, ils sont attirés par la musicalité de leur environnement, à commencer par le chant des oiseaux. Nous suivons leur jeunesse agitée, souvent violente et dramatique, d'un bled rural aux fastes de l'Italie en passant par un rude orphelinat et le château d'un chef de guerre. Chacune de ces étapes est un jalon de leur apprentissage musical et une façon d'appréhender leur complicité en la mettant à l'épreuve. 
 
 {{< inTextImg-right url="page13.jpg" alt="Page 13 de Soli Deo Gloria" width="30%">}}
 

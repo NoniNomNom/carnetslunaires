@@ -6,8 +6,57 @@
     <description>Recent content in Tags on Carnets lunaires</description>
     <generator>Hugo -- 0.143.1</generator>
     <language>fr-be</language>
-    <lastBuildDate>Wed, 21 Jan 2026 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jan 2026 00:00:00 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/carnetslunaires/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Avis</title>
+      <link>http://localhost:1313/carnetslunaires/tags/avis/</link>
+      <pubDate>Sat, 24 Jan 2026 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/carnetslunaires/tags/avis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>BD</title>
+      <link>http://localhost:1313/carnetslunaires/tags/bd/</link>
+      <pubDate>Sat, 24 Jan 2026 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/carnetslunaires/tags/bd/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dupuis</title>
+      <link>http://localhost:1313/carnetslunaires/tags/dupuis/</link>
+      <pubDate>Sat, 24 Jan 2026 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/carnetslunaires/tags/dupuis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Edouard Cour</title>
+      <link>http://localhost:1313/carnetslunaires/tags/edouard-cour/</link>
+      <pubDate>Sat, 24 Jan 2026 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/carnetslunaires/tags/edouard-cour/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Histoire</title>
+      <link>http://localhost:1313/carnetslunaires/tags/histoire/</link>
+      <pubDate>Sat, 24 Jan 2026 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/carnetslunaires/tags/histoire/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jean-Christophe Deveney</title>
+      <link>http://localhost:1313/carnetslunaires/tags/jean-christophe-deveney/</link>
+      <pubDate>Sat, 24 Jan 2026 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/carnetslunaires/tags/jean-christophe-deveney/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Musique</title>
+      <link>http://localhost:1313/carnetslunaires/tags/musique/</link>
+      <pubDate>Sat, 24 Jan 2026 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/carnetslunaires/tags/musique/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Daniel O&#39;Malley</title>
       <link>http://localhost:1313/carnetslunaires/tags/daniel-omalley/</link>
@@ -93,6 +142,20 @@
       <description></description>
     </item>
     <item>
+      <title>Argyll</title>
+      <link>http://localhost:1313/carnetslunaires/tags/argyll/</link>
+      <pubDate>Sun, 18 Jan 2026 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/carnetslunaires/tags/argyll/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cassandra Khaw</title>
+      <link>http://localhost:1313/carnetslunaires/tags/cassandra-khaw/</link>
+      <pubDate>Sun, 18 Jan 2026 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/carnetslunaires/tags/cassandra-khaw/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>J&#39;ai Lu</title>
       <link>http://localhost:1313/carnetslunaires/tags/jai-lu/</link>
       <pubDate>Sun, 18 Jan 2026 00:00:00 +0100</pubDate>
@@ -128,10 +191,10 @@
       <description></description>
     </item>
     <item>
-      <title>Avis</title>
-      <link>http://localhost:1313/carnetslunaires/tags/avis/</link>
-      <pubDate>Sat, 17 Jan 2026 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/carnetslunaires/tags/avis/</guid>
+      <title>RéciFs</title>
+      <link>http://localhost:1313/carnetslunaires/tags/r%C3%A9cifs/</link>
+      <pubDate>Sun, 18 Jan 2026 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/carnetslunaires/tags/r%C3%A9cifs/</guid>
       <description></description>
     </item>
     <item>
@@ -160,48 +223,6 @@
       <link>http://localhost:1313/carnetslunaires/tags/roman/</link>
       <pubDate>Sat, 17 Jan 2026 00:00:00 +0100</pubDate>
       <guid>http://localhost:1313/carnetslunaires/tags/roman/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>BD</title>
-      <link>http://localhost:1313/carnetslunaires/tags/bd/</link>
-      <pubDate>Mon, 12 Jan 2026 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/carnetslunaires/tags/bd/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Dupuis</title>
-      <link>http://localhost:1313/carnetslunaires/tags/dupuis/</link>
-      <pubDate>Mon, 12 Jan 2026 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/carnetslunaires/tags/dupuis/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Edouard Cour</title>
-      <link>http://localhost:1313/carnetslunaires/tags/edouard-cour/</link>
-      <pubDate>Mon, 12 Jan 2026 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/carnetslunaires/tags/edouard-cour/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Histoire</title>
-      <link>http://localhost:1313/carnetslunaires/tags/histoire/</link>
-      <pubDate>Mon, 12 Jan 2026 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/carnetslunaires/tags/histoire/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Jean-Christophe Deveney</title>
-      <link>http://localhost:1313/carnetslunaires/tags/jean-christophe-deveney/</link>
-      <pubDate>Mon, 12 Jan 2026 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/carnetslunaires/tags/jean-christophe-deveney/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Musique</title>
-      <link>http://localhost:1313/carnetslunaires/tags/musique/</link>
-      <pubDate>Mon, 12 Jan 2026 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/carnetslunaires/tags/musique/</guid>
       <description></description>
     </item>
     <item>
@@ -814,13 +835,6 @@
       <description></description>
     </item>
     <item>
-      <title>Argyll</title>
-      <link>http://localhost:1313/carnetslunaires/tags/argyll/</link>
-      <pubDate>Thu, 10 Apr 2025 00:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/carnetslunaires/tags/argyll/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Editions Attila</title>
       <link>http://localhost:1313/carnetslunaires/tags/editions-attila/</link>
       <pubDate>Thu, 10 Apr 2025 00:00:00 +0200</pubDate>
@@ -839,13 +853,6 @@
       <link>http://localhost:1313/carnetslunaires/tags/ketty-steward/</link>
       <pubDate>Thu, 10 Apr 2025 00:00:00 +0200</pubDate>
       <guid>http://localhost:1313/carnetslunaires/tags/ketty-steward/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>RéciFs</title>
-      <link>http://localhost:1313/carnetslunaires/tags/r%C3%A9cifs/</link>
-      <pubDate>Thu, 10 Apr 2025 00:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/carnetslunaires/tags/r%C3%A9cifs/</guid>
       <description></description>
     </item>
     <item>
