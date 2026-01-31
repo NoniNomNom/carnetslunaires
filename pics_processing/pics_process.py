@@ -3,7 +3,7 @@ from PIL import Image, ImageDraw
 number = 12
 
 book1 = "/jewish_gangsta.jpg"
-book2 = "/scholomance.jpg"
+book2 = "/briser_les_os.jpg"
 
 # Paths to your two images
 image1_path = "C:/Users/devos/carnetslunaires/content/posts/notules-" + str(number) + book1
