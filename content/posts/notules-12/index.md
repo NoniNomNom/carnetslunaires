@@ -1,7 +1,7 @@
 ---
 title: 'Notules (12) - Karim Madani, Cassandra Khaw'
-date: 2026-01-29
-draft: true
+date: 2026-02-07
+draft: false
 tags: ['Listes', '26 en 2026', 'Karim Madani', 'Marchialy', 'Non-fiction', 'SFFF', 'Cassandra Khaw', 'Argyll', 'RéciFs']
 cover: 
     image: "multicouv.jpg"
@@ -17,7 +17,7 @@ Avec *Jewish Gangsta*, je m'attendais à de la non-fiction traitant principaleme
 
 {{< inTextImg-right url="briser_les_os.jpg" alt="Couverture de Le masque de Dimitrios (poche)." width="30%">}}
 
-John Persons est un détective privé tout ce qu'il y a de plus classique. Lorsqu'un jeune garçon vient le voir pour lui demander avec insistance de tuer son beau père, il est un peu perplexe mais décide d'enquêter. Rapidement, il est confronté à des monstruosités pleines d'yeux et d'organes inconnus, tandis que nous réalisons que ce détective privé n'est en fait pas si classique que ça, tout rompu qu'il est aux atrocités occultes. *Briser les os* est un court roman de 128 pages dont je suis sorti partagé. Avec l'impression d'avancer dans un brouillard opaque, j'ai eu beaucoup de mal à visualiser ce que Cassandra Khaw voulait me montrer en matière d'horreur cosmique (une autre manière de dire que je n'ai pas tout compris). J'ai par contre bien saisi le propos concernant les violences intrafamiliales, qui percute. 
+John Persons est un détective privé tout ce qu'il y a de plus classique. Lorsqu'un jeune garçon vient le voir pour lui demander avec insistance de tuer son beau père, il est un peu perplexe mais décide d'enquêter. Rapidement, il est confronté à des monstruosités pleines d'yeux et d'organes inconnus, tandis que nous réalisons que ce détective privé n'est en fait pas si classique que ça, tout rompu qu'il est aux atrocités occultes. *Briser les os* est un court roman de 128 pages dont je suis sorti partagé. Hormis le propos concernant les violences intrafamiliales, qui percute bien (et peut-être est-ce là l'essentiel ?), j'ai eu du mal à visualiser ce que Cassandra Khaw voulait me dire. L'horreur cosmique est bien là, mais je n'ai pas toujours compris ni pourquoi ni comment. 
 
 *Titre original : Hammers on Bone / Sortie originale (anglais) : 2017 / Version française : 2025 (traduction : Marie Koullen)*
 
