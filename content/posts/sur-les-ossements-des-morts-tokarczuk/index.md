@@ -1,7 +1,7 @@
 ---
 title: 'Sur les ossements des morts - Olga Tokarczuk'
 date: 2026-02-14
-draft: true
+draft: false
 tags: ['Avis', 'Olga Tokarczuk', 'Roman', 'Libretto', 'SFFF']
 cover: 
     image: "ossements_morts.jpg"
