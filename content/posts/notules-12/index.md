@@ -15,7 +15,7 @@ Avec *Jewish Gangsta*, je m'attendais à de la non-fiction traitant principaleme
 
 *Sortie : 2017*
 
-{{< inTextImg-right url="briser_les_os.jpg" alt="Couverture de Le masque de Dimitrios (poche)." width="30%">}}
+{{< inTextImg-right url="briser_les_os.jpg" alt="Couverture de Briser les os." width="30%">}}
 
 John Persons est un détective privé tout ce qu'il y a de plus classique. Lorsqu'un jeune garçon vient le voir pour lui demander avec insistance de tuer son beau père, il est un peu perplexe mais décide d'enquêter. Rapidement, il est confronté à des monstruosités pleines d'yeux et d'organes inconnus, tandis que nous réalisons que ce détective privé n'est en fait pas si classique que ça, tout rompu qu'il est aux atrocités occultes. *Briser les os* est un court roman de 128 pages dont je suis sorti partagé. Hormis le propos concernant les violences intrafamiliales, qui percute bien (et peut-être est-ce là l'essentiel ?), j'ai eu du mal à visualiser ce que Cassandra Khaw voulait me dire. L'horreur cosmique est bien là, mais je n'ai pas toujours compris ni pourquoi ni comment. 
 
