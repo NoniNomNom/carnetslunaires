@@ -1,6 +1,6 @@
 ---
 title: 'La guerre des salamandres - Karel Čapek'
-date: 2026-02-09
+date: 2026-02-23
 draft: true
 tags: ['Avis', 'Karel Čapek', 'Roman', 'SFFF', "Ibolya Virág"]
 cover: 
@@ -11,7 +11,7 @@ cover:
 
 {{< inTextImg-left url="salamandres_couv.jpg" alt="Couverture de La guerre des salamandres." width="30%">}}
 
-Karel Čapek a sorti *La guerre des salamandres* en 1936, deux ans avant que son pays - la République tchécoslovaque - commence à être décecée par son voisin nazi suite aux accords de Munich. L'auteur décrit dans ce livre la découverte de salamandres bipèdes sur une petite île du Pacifique, découverte qui entraîne leur multiplication rapide. Avec le temps, elles deviennent capables de parler, puis de construire des digues, puis d'effectuer toutes sortes de constructions de plus en plus ambitieuses, et tout ça sans rechigner à la tâche. Inévitablement, leur force de travail finit par être exploitée pour répondre aux intérêts d'une humanité avide, fascinée, et pas du tout préoccupée par les conséquences potentielles de ce qu'elle est en train de faire. Qu'importe qu'on aille droit dans le mur si on vit un nouvel âge d'or ?
+Karel Čapek a sorti *La guerre des salamandres* en 1936, deux ans avant que son pays - la République tchécoslovaque - commence à être dépecée par son voisin nazi suite aux accords de Munich. L'auteur décrit dans ce livre la découverte de salamandres bipèdes sur une petite île du Pacifique, découverte qui entraîne leur multiplication rapide. Avec le temps, elles deviennent capables de parler, puis de construire des digues, puis d'effectuer toutes sortes de constructions de plus en plus ambitieuses, et tout ça sans rechigner à la tâche. Inévitablement, leur force de travail finit par être exploitée pour répondre aux intérêts d'une humanité avide, fascinée, et pas du tout préoccupée par les conséquences potentielles de ce qu'elle est en train de faire. Qu'importe qu'on aille droit dans le mur, si on vit un nouvel âge d'or ?
 
 {{< inTextImg-right url="andrias_schleuchzeri.jpg" alt="Fossile d'Andrias schleuchzeri, salamandre géante du Miocène et de l'Oligocène." width="30%">}}
 

@@ -1,6 +1,6 @@
 ---
 title: "C'est toi ma maman ? - Alison Bechdel"
-date: 2026-02-10
+date: 2026-02-23
 draft: true
 tags: ['Avis', 'Alison Bechdel', 'BD', 'Points']
 cover: 

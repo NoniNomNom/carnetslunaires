@@ -11,7 +11,7 @@ cover:
 
 {{< inTextImg-left url="ossements_morts.jpg" alt="Sur les ossements des morts - couverture" width="30%">}}
 
-Madame Doucheyko vit dans un petit hameau de quelques habitants en Pologne, près de la frontière tchèque. Retraitée mais loin d'être inactive, elle donne des cours d'anglais quelques heures par semaine, surveille les maisons de ses voisins absents pendant les rudes hivers polonais, se passionne pour l'astrologie et aide un ami à traduire de la poésie. Une nuit, elle découvre un de ses voisins mort, étranglé chez lui par un os de biche. Le défunt était un braconneur notoire. Quelques temps plus tard, un second décès survient : un chasseur, cette fois, visiblement assassiné. Troublée, Madame Doucheyko en vient à se demander si les animaux n'auraient pas crié vengeance.
+Madame Doucheyko vit dans un petit hameau de quelques habitants en Pologne, près de la frontière tchèque. Retraitée mais loin d'être inactive, elle donne des cours d'anglais quelques heures par semaine, surveille les maisons de ses voisins absents pendant les rudes hivers polonais, se passionne pour l'astrologie et aide un ami à traduire de la poésie. Une nuit, elle découvre un de ses voisins mort, étranglé chez lui par un os de biche. Le défunt était un braconnier notoire. Quelques temps plus tard, un second décès survient : un chasseur, cette fois, visiblement assassiné. Troublée, Madame Doucheyko en vient à se demander si les animaux n'auraient pas crié vengeance.
 
 {{< inTextImg-right url="suzuki_samurai.jpg" alt="Suzuki Samurai" width="30%">}}
 
