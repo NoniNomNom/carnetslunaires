@@ -2,7 +2,7 @@
 title: 'Notules (14) - Laura Vazquez, Megan Whalen Turner'
 date: 2026-02-23
 draft: true
-tags: ['Listes', 'Laura Vazquez', 'Points', 'Megan Whalen Turner', 'Le Voleur de la Reine', 'Monsieur Toussaint Louverture']
+tags: ['Listes', 'Laura Vazquez', 'Points', 'Megan Whalen Turner', 'Le Voleur de la Reine', 'Monsieur Toussaint Louverture', 'SFFF']
 cover: 
     image: "multicouv.jpg"
     hidden: true
