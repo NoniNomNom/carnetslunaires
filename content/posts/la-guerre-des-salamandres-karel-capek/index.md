@@ -1,7 +1,7 @@
 ---
 title: 'La guerre des salamandres - Karel Čapek'
 date: 2026-03-09
-draft: true
+draft: false
 tags: ['Avis', 'Karel Čapek', 'Roman', 'SFFF', "Ibolya Virág"]
 cover: 
     image: "salamandres_couv.jpg"
