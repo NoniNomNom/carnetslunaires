@@ -2,7 +2,7 @@
 title: 'Notules (15) - Maylis de Kerangal & Joy Sorman, Collectif'
 date: 2026-03-08
 draft: true
-tags: ['Listes', 'Maylis de Kerangal', 'Joy Sorman', 'Actes Sud', 'Inculte', 'SFFF']
+tags: ['Listes', '26 en 2026', 'Maylis de Kerangal', 'Joy Sorman', 'Actes Sud', 'Inculte', 'SFFF']
 cover: 
     image: "multicouv.jpg"
     hidden: true
