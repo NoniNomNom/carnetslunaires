@@ -2,10 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/carnetslunaires/tags/alison-bechdel/</loc>
-    <lastmod>2026-03-04T00:00:00+01:00</lastmod>
+    <loc>http://localhost:1313/carnetslunaires/tags/actes-sud/</loc>
+    <lastmod>2026-03-08T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnetslunaires/</loc>
+    <lastmod>2026-03-08T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnetslunaires/tags/inculte/</loc>
+    <lastmod>2026-03-08T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnetslunaires/tags/joy-sorman/</loc>
+    <lastmod>2026-03-08T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnetslunaires/tags/listes/</loc>
+    <lastmod>2026-03-08T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnetslunaires/tags/maylis-de-kerangal/</loc>
+    <lastmod>2026-03-08T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnetslunaires/posts/notules-15/</loc>
+    <lastmod>2026-03-08T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnetslunaires/posts/</loc>
+    <lastmod>2026-03-08T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnetslunaires/tags/sfff/</loc>
+    <lastmod>2026-03-08T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnetslunaires/tags/</loc>
+    <lastmod>2026-03-08T00:00:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/carnetslunaires/tags/avis/</loc>
+    <lastmod>2026-03-05T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnetslunaires/tags/ibolya-vir%C3%A1g/</loc>
+    <lastmod>2026-03-05T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnetslunaires/tags/karel-%C4%8Dapek/</loc>
+    <lastmod>2026-03-05T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnetslunaires/posts/la-guerre-des-salamandres-karel-capek/</loc>
+    <lastmod>2026-03-05T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnetslunaires/tags/roman/</loc>
+    <lastmod>2026-03-05T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnetslunaires/tags/alison-bechdel/</loc>
     <lastmod>2026-03-04T00:00:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/carnetslunaires/tags/bd/</loc>
@@ -14,16 +56,7 @@
     <loc>http://localhost:1313/carnetslunaires/posts/c-est-toi-ma-maman-bechdel/</loc>
     <lastmod>2026-03-04T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/carnetslunaires/</loc>
-    <lastmod>2026-03-04T00:00:00+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/carnetslunaires/tags/points/</loc>
-    <lastmod>2026-03-04T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/carnetslunaires/posts/</loc>
-    <lastmod>2026-03-04T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/carnetslunaires/tags/</loc>
     <lastmod>2026-03-04T00:00:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/carnetslunaires/tags/26-en-2026/</loc>
@@ -44,19 +77,10 @@
     <loc>http://localhost:1313/carnetslunaires/tags/les-%C3%A9ditions-du-typhon/</loc>
     <lastmod>2026-02-28T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/carnetslunaires/tags/listes/</loc>
-    <lastmod>2026-02-28T00:00:00+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/carnetslunaires/posts/notules-13/</loc>
     <lastmod>2026-02-28T00:00:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/carnetslunaires/tags/r%C3%A9cifs/</loc>
-    <lastmod>2026-02-28T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/carnetslunaires/tags/roman/</loc>
-    <lastmod>2026-02-28T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/carnetslunaires/tags/sfff/</loc>
     <lastmod>2026-02-28T00:00:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/carnetslunaires/tags/sofia-samatar/</loc>
@@ -65,31 +89,10 @@
     <loc>http://localhost:1313/carnetslunaires/tags/violaine-lison/</loc>
     <lastmod>2026-02-28T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/carnetslunaires/tags/actes-sud/</loc>
-    <lastmod>2026-02-23T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/carnetslunaires/tags/ibolya-vir%C3%A1g/</loc>
-    <lastmod>2026-02-23T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/carnetslunaires/tags/inculte/</loc>
-    <lastmod>2026-02-23T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/carnetslunaires/tags/joy-sorman/</loc>
-    <lastmod>2026-02-23T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/carnetslunaires/tags/karel-%C4%8Dapek/</loc>
-    <lastmod>2026-02-23T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/carnetslunaires/posts/la-guerre-des-salamandres-karel-capek/</loc>
-    <lastmod>2026-02-23T00:00:00+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/carnetslunaires/tags/laura-vazquez/</loc>
     <lastmod>2026-02-23T00:00:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/carnetslunaires/tags/le-voleur-de-la-reine/</loc>
-    <lastmod>2026-02-23T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/carnetslunaires/tags/maylis-de-kerangal/</loc>
     <lastmod>2026-02-23T00:00:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/carnetslunaires/tags/megan-whalen-turner/</loc>
@@ -99,9 +102,6 @@
     <lastmod>2026-02-23T00:00:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/carnetslunaires/posts/notules-14/</loc>
-    <lastmod>2026-02-23T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/carnetslunaires/posts/notules-15/</loc>
     <lastmod>2026-02-23T00:00:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/carnetslunaires/posts/des-gens-qui-regardent-sid/</loc>

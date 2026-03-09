@@ -6,20 +6,83 @@
     <description>Recent content in Tags on Carnets lunaires</description>
     <generator>Hugo -- 0.143.1</generator>
     <language>fr-be</language>
-    <lastBuildDate>Wed, 04 Mar 2026 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 00:00:00 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/carnetslunaires/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Alison Bechdel</title>
-      <link>http://localhost:1313/carnetslunaires/tags/alison-bechdel/</link>
-      <pubDate>Wed, 04 Mar 2026 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/carnetslunaires/tags/alison-bechdel/</guid>
+      <title>Actes Sud</title>
+      <link>http://localhost:1313/carnetslunaires/tags/actes-sud/</link>
+      <pubDate>Sun, 08 Mar 2026 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/carnetslunaires/tags/actes-sud/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Inculte</title>
+      <link>http://localhost:1313/carnetslunaires/tags/inculte/</link>
+      <pubDate>Sun, 08 Mar 2026 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/carnetslunaires/tags/inculte/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Joy Sorman</title>
+      <link>http://localhost:1313/carnetslunaires/tags/joy-sorman/</link>
+      <pubDate>Sun, 08 Mar 2026 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/carnetslunaires/tags/joy-sorman/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Listes</title>
+      <link>http://localhost:1313/carnetslunaires/tags/listes/</link>
+      <pubDate>Sun, 08 Mar 2026 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/carnetslunaires/tags/listes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Maylis De Kerangal</title>
+      <link>http://localhost:1313/carnetslunaires/tags/maylis-de-kerangal/</link>
+      <pubDate>Sun, 08 Mar 2026 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/carnetslunaires/tags/maylis-de-kerangal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SFFF</title>
+      <link>http://localhost:1313/carnetslunaires/tags/sfff/</link>
+      <pubDate>Sun, 08 Mar 2026 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/carnetslunaires/tags/sfff/</guid>
       <description></description>
     </item>
     <item>
       <title>Avis</title>
       <link>http://localhost:1313/carnetslunaires/tags/avis/</link>
-      <pubDate>Wed, 04 Mar 2026 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 05 Mar 2026 00:00:00 +0100</pubDate>
       <guid>http://localhost:1313/carnetslunaires/tags/avis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ibolya Virág</title>
+      <link>http://localhost:1313/carnetslunaires/tags/ibolya-vir%C3%A1g/</link>
+      <pubDate>Thu, 05 Mar 2026 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/carnetslunaires/tags/ibolya-vir%C3%A1g/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Karel Čapek</title>
+      <link>http://localhost:1313/carnetslunaires/tags/karel-%C4%8Dapek/</link>
+      <pubDate>Thu, 05 Mar 2026 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/carnetslunaires/tags/karel-%C4%8Dapek/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Roman</title>
+      <link>http://localhost:1313/carnetslunaires/tags/roman/</link>
+      <pubDate>Thu, 05 Mar 2026 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/carnetslunaires/tags/roman/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Alison Bechdel</title>
+      <link>http://localhost:1313/carnetslunaires/tags/alison-bechdel/</link>
+      <pubDate>Wed, 04 Mar 2026 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/carnetslunaires/tags/alison-bechdel/</guid>
       <description></description>
     </item>
     <item>
@@ -72,31 +135,10 @@
       <description></description>
     </item>
     <item>
-      <title>Listes</title>
-      <link>http://localhost:1313/carnetslunaires/tags/listes/</link>
-      <pubDate>Sat, 28 Feb 2026 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/carnetslunaires/tags/listes/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>RéciFs</title>
       <link>http://localhost:1313/carnetslunaires/tags/r%C3%A9cifs/</link>
       <pubDate>Sat, 28 Feb 2026 00:00:00 +0100</pubDate>
       <guid>http://localhost:1313/carnetslunaires/tags/r%C3%A9cifs/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Roman</title>
-      <link>http://localhost:1313/carnetslunaires/tags/roman/</link>
-      <pubDate>Sat, 28 Feb 2026 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/carnetslunaires/tags/roman/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>SFFF</title>
-      <link>http://localhost:1313/carnetslunaires/tags/sfff/</link>
-      <pubDate>Sat, 28 Feb 2026 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/carnetslunaires/tags/sfff/</guid>
       <description></description>
     </item>
     <item>
@@ -114,41 +156,6 @@
       <description></description>
     </item>
     <item>
-      <title>Actes Sud</title>
-      <link>http://localhost:1313/carnetslunaires/tags/actes-sud/</link>
-      <pubDate>Mon, 23 Feb 2026 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/carnetslunaires/tags/actes-sud/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Ibolya Virág</title>
-      <link>http://localhost:1313/carnetslunaires/tags/ibolya-vir%C3%A1g/</link>
-      <pubDate>Mon, 23 Feb 2026 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/carnetslunaires/tags/ibolya-vir%C3%A1g/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Inculte</title>
-      <link>http://localhost:1313/carnetslunaires/tags/inculte/</link>
-      <pubDate>Mon, 23 Feb 2026 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/carnetslunaires/tags/inculte/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Joy Sorman</title>
-      <link>http://localhost:1313/carnetslunaires/tags/joy-sorman/</link>
-      <pubDate>Mon, 23 Feb 2026 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/carnetslunaires/tags/joy-sorman/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Karel Čapek</title>
-      <link>http://localhost:1313/carnetslunaires/tags/karel-%C4%8Dapek/</link>
-      <pubDate>Mon, 23 Feb 2026 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/carnetslunaires/tags/karel-%C4%8Dapek/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Laura Vazquez</title>
       <link>http://localhost:1313/carnetslunaires/tags/laura-vazquez/</link>
       <pubDate>Mon, 23 Feb 2026 00:00:00 +0100</pubDate>
@@ -160,13 +167,6 @@
       <link>http://localhost:1313/carnetslunaires/tags/le-voleur-de-la-reine/</link>
       <pubDate>Mon, 23 Feb 2026 00:00:00 +0100</pubDate>
       <guid>http://localhost:1313/carnetslunaires/tags/le-voleur-de-la-reine/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Maylis De Kerangal</title>
-      <link>http://localhost:1313/carnetslunaires/tags/maylis-de-kerangal/</link>
-      <pubDate>Mon, 23 Feb 2026 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/carnetslunaires/tags/maylis-de-kerangal/</guid>
       <description></description>
     </item>
     <item>
