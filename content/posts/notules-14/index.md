@@ -1,8 +1,8 @@
 ---
 title: 'Notules (14) - Laura Vazquez, Megan Whalen Turner'
-date: 2026-02-23
+date: 2026-03-10
 draft: true
-tags: ['Listes', 'Laura Vazquez', 'Points', 'Megan Whalen Turner', 'Le Voleur de la Reine', 'Monsieur Toussaint Louverture', 'SFFF', '26 en 2026']
+tags: ['Listes', 'Roman', 'Poésie', 'Laura Vazquez', 'Points', 'Megan Whalen Turner', 'Le Voleur de la Reine', 'Monsieur Toussaint Louverture', 'SFFF', '26 en 2026']
 cover: 
     image: "multicouv.jpg"
     hidden: true
@@ -17,6 +17,6 @@ Ce n'est pas facile pour moi d'écrire un mot sur *La semaine perpétuelle*, car
 
 {{< inTextImg-right url="le_voleur.jpg" alt="Couverture de Le Voleur" width="30%">}}
 
-Initialement paru en 1996 mais édité en français (de fort jolie manière) l'an dernier par la maison d'édition *Monsieur Toussaint Louverture*, *Le Voleur* est le premier tome de la série de fantasy *Le Voleur de la Reine*, plutôt destinée à un jeune public. J'ai été attiré par la promesse d'intrigues politiques et d'un univers inspiré du monde byzantin : j'en sors un peu perplexe. D'accord, la personnalité du protagoniste (Gen, un voleur très doué sorti de prison par un conseiller du roi pour l'aider à récupérer un artefact) est intéressante. L'histoire, par contre, ne m'a pas emballé. Elle est grosso modo découpée en deux parties : une phase de voyage pas franchement palpitante et qui semble bien longue, puis une phase de résolution plus courte qui (heureusement) secoue le récit. Il paraît que la saga écrite par l'Américaine Megan Whalen Turner est super et qu'il faut donner une chance à la suite, pourtant je ne déborde pas d'enthousiasme. Mais le livre est très joli. 
+Initialement paru en 1996 mais édité en français (de fort jolie manière) l'an dernier par la maison d'édition *Monsieur Toussaint Louverture*, *Le Voleur* est le premier tome de la série de fantasy *Le Voleur de la Reine*, plutôt destinée à un jeune public. J'ai été attiré par les promesses d'intrigues politiques et d'un univers inspiré du monde byzantin : j'en sors un peu perplexe. D'accord, la personnalité du protagoniste (Gen, un voleur très doué sorti de prison par un conseiller du roi pour l'aider à récupérer un artefact) est intéressante. L'histoire, par contre, ne m'a pas emballé. Elle est grosso modo découpée en deux parties : une phase de voyage pas franchement palpitante et qui semble bien longue, puis une phase de résolution plus courte qui (heureusement) secoue le récit. Il paraît que la saga écrite par l'Américaine Megan Whalen Turner est super et qu'il faut donner une chance à la suite, pourtant je ne déborde pas d'enthousiasme. Mais c'est un très joli livre. 
 
 *Titre original : The Thief / Sortie originale (anglais) : 1996 / Version française : 2025 (traduction : Yoko Lacour)*

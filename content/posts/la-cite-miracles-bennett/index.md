@@ -2,7 +2,7 @@
 title: 'La Cité des Miracles - Robert Jackson Bennett'
 date: 2025-11-23
 draft: false
-tags: ['Avis', 'SFFF', 'Les Cités Divines', 'Robert Jackson Bennett']
+tags: ['Avis', 'SFFF', 'Les Cités Divines', 'Robert Jackson Bennett', 'Roman']
 cover: 
     image: "cite-miracles-couv.jpg"
     hidden: true

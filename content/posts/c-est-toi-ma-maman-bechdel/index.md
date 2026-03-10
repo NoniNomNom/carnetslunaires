@@ -2,7 +2,7 @@
 title: "C'est toi ma maman ? - Alison Bechdel"
 date: 2026-03-04
 draft: false
-tags: ['Avis', 'Alison Bechdel', 'BD', 'Points']
+tags: ['Avis', 'Alison Bechdel', 'BD', 'Points', 'LGBT']
 cover: 
     image: "bechdel_maman.jpg"
     hidden: true

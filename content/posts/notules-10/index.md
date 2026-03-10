@@ -2,7 +2,7 @@
 title: 'Notules (10) - Ray Nayler, Céline Minard'
 date: 2025-11-01
 draft: false
-tags: ['Listes', "Le Bélial'", "Une Heure-Lumière", 'Ray Nayler', 'Nouvelles', 'Céline Minard', 'Rivages', 'SFFF']
+tags: ['Listes', "Le Bélial'", "Une Heure-Lumière", 'Novella', 'Ray Nayler', 'Nouvelles', 'Céline Minard', 'Rivages', 'SFFF']
 cover: 
     image: "multicouv.jpg"
     hidden: true
