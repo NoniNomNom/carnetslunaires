@@ -1,23 +1,22 @@
 ---
-title: 'Notules (15) - Maylis de Kerangal & Joy Sorman, Collectif'
-date: 2026-03-10
+title: 'Notules (15) - Sabrina Calvo, Collectif'
+date: 2026-03-20
 draft: true
-tags: ['Listes', '26 en 2026', 'Maylis de Kerangal', 'Joy Sorman', 'Actes Sud', 'Inculte', 'Roman', 'SFFF', 'Cambourakis', 'Poésie']
+tags: ['Listes', 'Roman', 'SFFF', 'Sabrina Calvo', 'Folio SF', '26 en 2026', 'Cambourakis', 'Poésie']
 cover: 
     image: "multicouv.jpg"
     hidden: true
     hiddeninlist: false
 ---
 
-{{< inTextImg-left url="seyvoz_couv.jpg" alt="Couverture de Seyvoz" width="30%">}}
+{{< inTextImg-left url="melmoth_furieux.jpg" alt="Couverture de Melmoth Furieux" width="30%">}}
 
-*Seyvoz* est un petit roman écrit à quatre mains par Maylis de Kerangal et Joy Sorman. Son sujet : un village, Seyvoz, englouti suite à la construction d'un barrage dans les années 50 (qui dans la réalité semble correspondre [au barrage de Tignes](https://fr.wikipedia.org/wiki/Barrage_de_Tignes)). D'une part, on suit à notre époque les quatre jours sur place d'un ingénieur envoyé inspecter les installations. Arrivé sur place, il est confronté à une atmosphère étrange, éthérée - une absence quasiment hostile. D'autre part on retourne assister à des bribes d'avant le barrage : les derniers moments du village, la résistance de ses habitants, des drames survenus pendant les travaux. En somme, pas mal de choses en une grosse centaine de pages. C'est un livre qui fonctionne bien, même si je reste quelque peu dans le flou après avoir refermé sa dernière page. 
+J'ai été très peu réceptif à *Melmoth Furieux*. Ce roman aurait pu me plaire, avec son présent alternatif dystopique, sa Commune de Belleville (qui parlera surtout aux Parisiens) barricadée contre un extérieur aussi ravagé que menaçant, la protagoniste Fi - couturière en colère - et les nombreux enfants qui l'accompagnent, sans parler de l'envie bien compréhensible d'aller cramer Euro Disney transformé en épicentre du mal. Dystopie, mais aussi fantastique tant le rêve et la réalité s'y mélangent (au point de me rappeler Jeff Noon, également édité chez La Volte). Le style de Sabrina Calvo est très travaillé : c'est probablement très beau, ça m'a surtout tenu à distance. Le lyrisme, les symboles partout, les changements de sujet à tout bout de champ et les personnages nébuleux ont été autant de prises glissantes auxquelles je n'ai pu m'accrocher. J'ai scanné le dernier quart à toute vitesse sans plus comprendre grand-chose, en m'en fichant un peu et avec hâte que ça se termine. Tant pis.
 
-*Sortie : 2022*
+*Sortie : 2021*
 
 {{< inTextImg-right url="je_transporte_COUV.jpg" alt="Couverture de Je transporte des explosifs on les appelle des mots" width="30%">}}
 
-Pour animer sa communauté, la vidéaste [Marouchka de Qu'est-ce qu'on lit](https://www.youtube.com/@Questcequonlit) organise chaque mois une activité littéraire. En mars, il s'agissait de sortir de sa zone de confort et mon choix s'est porté sur *Je transporte des explosifs on les appelle des mots*, recueil de poésie féministe américaine accompagné d'un essai sur la poésie et le militantisme (par la poétesse Jan Clausen). Chaque poème s'y trouve en deux langues, ce qui est bien pratique, et j'ai dans l'ensemble passé un bon moment de lecture, évidemment variable selon les autrices (24 en tout : Audre Lorde, Adrienne Rich, bell hooks, Doroty Allison, Mohja Kahf,...). Tout ne m'a bien sûr pas touché pareil. L'essai est très spécifique aux années 70, j'avoue volontiers l'avoir un peu survolé par moments, mais comporte des passages intéressants sur les liens entre poésie et militantisme politique. 
-
+Pour animer sa communauté, la vidéaste [Marouchka de Qu'est-ce qu'on lit](https://www.youtube.com/@Questcequonlit) organise chaque mois une activité littéraire. En mars, il s'agissait de sortir de sa zone de confort et mon choix s'est porté sur *Je transporte des explosifs on les appelle des mots*, recueil de poésie féministe américaine accompagné d'un essai sur la poésie et le militantisme (par la poétesse Jan Clausen). Chaque poème s'y trouve en deux langues - ce qui est bien pratique pour profiter de la musicalité de la langue originale tout en saisissant le sens global - et j'ai dans l'ensemble passé un bon moment de lecture, bien sûr variable selon les autrices (24 en tout : Audre Lorde, Adrienne Rich, bell hooks, Doroty Allison, Mohja Kahf,...). Avec une telle variabilité de styles, tout ne m'a bien sûr pas touché pareil. Quant à lui, l'essai est très spécifique aux années 70 et j'avoue volontiers l'avoir un peu survolé par moments, mais il comporte des passages intéressants sur les liens entre poésie et militantisme politique et donne parfois l'impression que les choses n'ont pas beaucoup changé. 
 
 *Sortie : 2019 (traductions : Oliv Zuretti, Meghan McNealy, Charlotte Blanchard, Gerty Dambury et le Collectif Cases Rebelles)*

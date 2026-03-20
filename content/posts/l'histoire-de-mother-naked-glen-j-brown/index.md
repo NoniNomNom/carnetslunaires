@@ -1,7 +1,7 @@
 ---
 title: "L'histoire de Mother Naked - Glen James Brown"
-date: 2026-03-10
-draft: true
+date: 2026-03-20
+draft: false
 tags: ['Avis', 'Glen James Brown', 'Roman', 'SFFF', 'Les éditions du typhon']
 cover: 
     image: "couv_mother.jpg"
@@ -15,6 +15,9 @@ Après son premier roman *Ironopolis* sur lequel je lorgne depuis quelques temps
 
 {{< inTextImg-right url="3840px-Durham_-_John_Speed_Map.jpg" alt="Carte du Comté de Durham au XVIIe siècle." width="30%">}}
 
-Et aucun doute : Mother Naked sait tenir son public en haleine, avec son style rythmé, son langage fleuri et ses pauses savamment calculées. Il le chatouille un peu aussi, avec sa façon d'interroger les rapports de pouvoirs et ses occasionnelles piques contre l'Eglise. Puis vient le moment où les pièces commencent à s'assembler et où on réalise qu'aucun élément de son histoire n'est là par hasard. La tension monte alors d'un cran et on attend le dénouement avec une certaine gourmandise, non sans se délecter de la suite du monologue. C'est un roman admirablement construit, très réussi et prenant. J'ai adoré et j'ai encore plus envie qu'avant de lire *Ironopolis*. 
+Et aucun doute : Mother Naked sait tenir son public en haleine, avec son style rythmé, son langage fleuri et ses pauses savamment calculées. Il le chatouille un peu aussi, avec sa façon d'interroger les rapports de pouvoirs et ses occasionnelles piques contre l'Eglise. Puis vient le moment où les pièces commencent à s'assembler et où on réalise qu'aucun élément de son histoire n'est là par hasard. La tension monte alors d'un cran et on attend le dénouement avec une certaine gourmandise, non sans se délecter de la suite de son monologue. C'est un roman admirablement construit, très réussi et prenant de bout en bout. J'ai adoré et j'ai encore plus envie qu'avant de lire *Ironopolis*. 
 
 *Titre original : Mother Naked / Sortie originale (anglais) : 2024 / Version française : 2025 (traduction : Claire Charrier)*
+
+*Image :*
+* [Carte du Comté de Durham au XVIIe siècle.](https://commons.wikimedia.org/wiki/File:Durham_-_John_Speed_Map.jpg)

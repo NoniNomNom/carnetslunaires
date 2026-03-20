@@ -1,22 +1,19 @@
 ---
-title: 'Notules (16) - '
+title: 'Notules (16) - Maya Kandel, '
 date: 2026-03-10
 draft: true
-tags: ['Listes', '26 en 2026', 'Roman', 'SFFF', 'Sabrina Calvo', 'Folio SF']
+tags: ['Listes', 'Essai', 'Maya Kandel', 'Gallimard', ]
 cover: 
     image: "multicouv.jpg"
     hidden: true
     hiddeninlist: false
 ---
 
-{{< inTextImg-left url="seyvoz_couv.jpg" alt="Couverture de Seyvoz" width="30%">}}
+{{< inTextImg-left url="trumpisme.jpg" alt="Couverture de Seyvoz" width="30%">}}
+
+L'air du temps étant ce qu'il est, ça m'a semblé une bonne idée de lire *Une première histoire du trumpisme* de l'historienne Maya Kandel, spécialiste des Etats-Unis et de leur politique étrangère (elle a également écrit *Les Etats-Unis et le monde*, en 2018). C'est un essai très utile pour faire le point, pour saisir un peu mieux les tenants des victoires de Donald Trump et de sa clique. On comprend notamment que Trump ne sort pas de nulle part et qu'il ne s'est pas levé un beau jour en 2015 avec l'envie de devenir Président. Maya Kandel nous offre aussi un panorama des différentes groupes (parfois concurrents) qui le soutiennent. C'est un livre assez court, synthétique et efficace, que je conseillerais à quiconque souhaite y voir un peu plus clair dans cet immense foutoir. 
+
+*Sortie : 2025*
 
 
 
-*Sortie : 2022*
-
-{{< inTextImg-right url="melmoth_furieux.jpg" alt="Couverture de Melmoth Furieux" width="30%">}}
-
-J'ai été très peu réceptif à *Melmoth Furieux*. Ce roman aurait pu me plaire, avec son présent alternatif dystopique, sa Commune de Belleville (qui parlera surtout aux Parisiens) barricadée contre un extérieur aussi ravagé que menaçant, la protagoniste Fi - couturière en colère - et les nombreux enfants qui l'accompagnent, l'envie bien compréhensible d'aller cramer EuroDisney transformé en épicentre du mal. Dystopie, mais aussi fantastique tant le rêve et la réalité s'y mélangent (au point de me rappeler Jeff Noon, également édité chez La Volte). Le style de Sabrina Calvo est très travaillé : c'est probablement très beau, ça m'a surtout tenu à distance. Le lyrisme, les symboles partout, les changements de sujet à tout bout de champ et les personnages nébuleux ont été autant de prises glissantes auxquelles je n'ai pu m'accrocher. J'ai survolé le dernier quart en vitesse, sans plus comprendre grand-chose, en m'en fichant un peu. Tant pis.
-
-*Sortie : 2021*
