@@ -1,6 +1,6 @@
 ---
 title: "Mon travail n'est pas terminé - Thomas Ligotti"
-date: 2026-03-22
+date: 2026-03-29
 draft: true
 tags: ['Avis', 'Thomas Ligotti', 'Roman', 'SFFF', 'Rivages']
 cover: 

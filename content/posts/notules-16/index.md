@@ -1,6 +1,6 @@
 ---
 title: 'Notules (16) - Maya Kandel, '
-date: 2026-03-10
+date: 2026-03-29
 draft: true
 tags: ['Listes', 'Essai', 'Maya Kandel', 'Gallimard', ]
 cover: 
