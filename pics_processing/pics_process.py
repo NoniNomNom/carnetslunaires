@@ -1,9 +1,9 @@
 from PIL import Image, ImageDraw
 
-number = 15
+number = 16
 
-book1 = "/melmoth_furieux.jpg"
-book2 = "/je_transporte_COUV.jpg"
+book1 = "/trumpisme.jpg"
+book2 = "/wager_couv.jpg"
 
 # Paths to your two images
 image1_path = "C:/Users/devos/carnetslunaires/content/posts/notules-" + str(number) + book1
