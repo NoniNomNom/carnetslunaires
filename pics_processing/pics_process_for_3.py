@@ -1,15 +1,15 @@
 from PIL import Image, ImageDraw
 
-number = 11
+name = "club-folie"
 
-book1 = "/new_thing.jpg"
-book2 = "/magicien.jpg"
-book3 = "/briser_les_os.jpg"
+book1 = "/compagnie_spectres.jpg"
+book2 = "/cinglee.jpg"
+book3 = "/se_retablir.jpg"
 
 # Paths to your two images
-image1_path = "C:/Users/devos/carnetslunaires/content/posts/26-en-2026" + book1
-image2_path = "C:/Users/devos/carnetslunaires/content/posts/26-en-2026" + book2
-image3_path = "C:/Users/devos/carnetslunaires/content/posts/26-en-2026" + book3
+image1_path = "C:/Users/devos/carnetslunaires/content/posts/" + name + book1
+image2_path = "C:/Users/devos/carnetslunaires/content/posts/" + name + book2
+image3_path = "C:/Users/devos/carnetslunaires/content/posts/" + name + book3
 
 
 # Load images
