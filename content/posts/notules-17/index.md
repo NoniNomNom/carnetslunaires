@@ -1,8 +1,8 @@
 ---
-title: 'Notules (17) - Uketsu, '
+title: 'Notules (17) - Uketsu, Anaïs Lecoq'
 date: 2026-04-18
 draft: true
-tags: ['Listes', 'Uketsu', 'Polar', 'Points', 'SFFF']
+tags: ['Listes', 'Uketsu', 'Polar', 'Points', 'SFFF', 'Anaïs Lecoq', 'Nouriturfu']
 cover: 
     image: "multicouv.jpg"
     hidden: true
@@ -15,8 +15,8 @@ Je ne sais plus comment ce *Strange pictures*, du mystérieux auteur japonais Uk
 
 *Titre original : Hen na E (変な絵) / Sortie originale (japonais) : 2022 / Version française : 2025 (traduction : Silvain Chupin)*
 
+{{< inTextImg-right url="bieres.png" alt="Couverture du Guide des bières féministes, queer et décoloniales" width="30%">}}
 
-{{< inTextImg-right url="wager_couv.jpg" alt="Couverture de Les naufragés du Wager" width="30%">}}
+Comme de nombreux vingtenaires dans les années 2010, j'ai eu une phase "beer geek", toujours à la recherche d'une nouvelle stout onctueuse ou d'une IPA à je ne sais quel houblon sauvage. Si j'ai grandement diminué ma consommation, j'aime toujours une bonne bière de temps en temps et ce qui est sûr c'est que livre m'a donné soif. *Le Guide des bières féministes, queer et décoloniales* présente des brasseries, des bières, des personnalités, des projets ou des traditions brassicoles d'un peu partout dans le monde, après une intro dans laquelle l'autrice Anaïs Lecoq ironise sur le fait que non, pas du tout, jamais, la bière et son brassage n'ont rien de politique. Qu'il s'agisse d'une brasserie fonctionnant 100% en autonomie, d'une bière collaborative destinée à lever des fonds pour Black Lives Matter, d'une brasserie palestinienne qui existe envers et contre tout, d'une autre composée de femmes en colère, chaque exemple est passionnant et on sent que l'autrice a creusé son sujet. 
 
-
-*Titre original : The Wager: A Tale of Shipwreck, Mutiny and Murder / Sortie originale (anglais) : 2023 / Version française : 2023 (traduction : Johan-Frédérik Hel Guedj)*
+*Sortie : 2026*
