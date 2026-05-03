@@ -6,8 +6,43 @@
     <description>Recent content in Tags on Carnets lunaires</description>
     <generator>Hugo -- 0.143.1</generator>
     <language>fr-be</language>
-    <lastBuildDate>Thu, 30 Apr 2026 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 00:00:00 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/carnetslunaires/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Avis</title>
+      <link>http://localhost:1313/carnetslunaires/tags/avis/</link>
+      <pubDate>Sun, 03 May 2026 00:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/carnetslunaires/tags/avis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Manon Gauthier-Faure</title>
+      <link>http://localhost:1313/carnetslunaires/tags/manon-gauthier-faure/</link>
+      <pubDate>Sun, 03 May 2026 00:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/carnetslunaires/tags/manon-gauthier-faure/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Marchialy</title>
+      <link>http://localhost:1313/carnetslunaires/tags/marchialy/</link>
+      <pubDate>Sun, 03 May 2026 00:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/carnetslunaires/tags/marchialy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Roman</title>
+      <link>http://localhost:1313/carnetslunaires/tags/roman/</link>
+      <pubDate>Sun, 03 May 2026 00:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/carnetslunaires/tags/roman/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SFFF</title>
+      <link>http://localhost:1313/carnetslunaires/tags/sfff/</link>
+      <pubDate>Sun, 03 May 2026 00:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/carnetslunaires/tags/sfff/</guid>
+      <description></description>
+    </item>
     <item>
       <title>David Grann</title>
       <link>http://localhost:1313/carnetslunaires/tags/david-grann/</link>
@@ -72,13 +107,6 @@
       <description></description>
     </item>
     <item>
-      <title>Avis</title>
-      <link>http://localhost:1313/carnetslunaires/tags/avis/</link>
-      <pubDate>Mon, 27 Apr 2026 00:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/carnetslunaires/tags/avis/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Chroniques Du Radch</title>
       <link>http://localhost:1313/carnetslunaires/tags/chroniques-du-radch/</link>
       <pubDate>Mon, 27 Apr 2026 00:00:00 +0200</pubDate>
@@ -90,20 +118,6 @@
       <link>http://localhost:1313/carnetslunaires/tags/jai-lu/</link>
       <pubDate>Mon, 27 Apr 2026 00:00:00 +0200</pubDate>
       <guid>http://localhost:1313/carnetslunaires/tags/jai-lu/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Roman</title>
-      <link>http://localhost:1313/carnetslunaires/tags/roman/</link>
-      <pubDate>Mon, 27 Apr 2026 00:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/carnetslunaires/tags/roman/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>SFFF</title>
-      <link>http://localhost:1313/carnetslunaires/tags/sfff/</link>
-      <pubDate>Mon, 27 Apr 2026 00:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/carnetslunaires/tags/sfff/</guid>
       <description></description>
     </item>
     <item>
@@ -153,20 +167,6 @@
       <link>http://localhost:1313/carnetslunaires/tags/au-diable-vauvert/</link>
       <pubDate>Sat, 18 Apr 2026 00:00:00 +0200</pubDate>
       <guid>http://localhost:1313/carnetslunaires/tags/au-diable-vauvert/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Manon Gauthier-Faure</title>
-      <link>http://localhost:1313/carnetslunaires/tags/manon-gauthier-faure/</link>
-      <pubDate>Sat, 18 Apr 2026 00:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/carnetslunaires/tags/manon-gauthier-faure/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Marchialy</title>
-      <link>http://localhost:1313/carnetslunaires/tags/marchialy/</link>
-      <pubDate>Sat, 18 Apr 2026 00:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/carnetslunaires/tags/marchialy/</guid>
       <description></description>
     </item>
     <item>
