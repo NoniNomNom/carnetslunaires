@@ -6,8 +6,64 @@
     <description>Recent content in Tags on Carnets lunaires</description>
     <generator>Hugo -- 0.143.1</generator>
     <language>fr-be</language>
-    <lastBuildDate>Sun, 03 May 2026 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 00:00:00 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/carnetslunaires/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>26 en 2026</title>
+      <link>http://localhost:1313/carnetslunaires/tags/26-en-2026/</link>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/carnetslunaires/tags/26-en-2026/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Au Diable Vauvert</title>
+      <link>http://localhost:1313/carnetslunaires/tags/au-diable-vauvert/</link>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/carnetslunaires/tags/au-diable-vauvert/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>J&#39;ai Lu</title>
+      <link>http://localhost:1313/carnetslunaires/tags/jai-lu/</link>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/carnetslunaires/tags/jai-lu/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Listes</title>
+      <link>http://localhost:1313/carnetslunaires/tags/listes/</link>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/carnetslunaires/tags/listes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Naomi Novik</title>
+      <link>http://localhost:1313/carnetslunaires/tags/naomi-novik/</link>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/carnetslunaires/tags/naomi-novik/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Scholomance</title>
+      <link>http://localhost:1313/carnetslunaires/tags/scholomance/</link>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/carnetslunaires/tags/scholomance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SFFF</title>
+      <link>http://localhost:1313/carnetslunaires/tags/sfff/</link>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/carnetslunaires/tags/sfff/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Thomas Gunzig</title>
+      <link>http://localhost:1313/carnetslunaires/tags/thomas-gunzig/</link>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/carnetslunaires/tags/thomas-gunzig/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Avis</title>
       <link>http://localhost:1313/carnetslunaires/tags/avis/</link>
@@ -37,13 +93,6 @@
       <description></description>
     </item>
     <item>
-      <title>SFFF</title>
-      <link>http://localhost:1313/carnetslunaires/tags/sfff/</link>
-      <pubDate>Sun, 03 May 2026 00:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/carnetslunaires/tags/sfff/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>David Grann</title>
       <link>http://localhost:1313/carnetslunaires/tags/david-grann/</link>
       <pubDate>Thu, 30 Apr 2026 00:00:00 +0200</pubDate>
@@ -62,13 +111,6 @@
       <link>http://localhost:1313/carnetslunaires/tags/gallimard/</link>
       <pubDate>Thu, 30 Apr 2026 00:00:00 +0200</pubDate>
       <guid>http://localhost:1313/carnetslunaires/tags/gallimard/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Listes</title>
-      <link>http://localhost:1313/carnetslunaires/tags/listes/</link>
-      <pubDate>Thu, 30 Apr 2026 00:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/carnetslunaires/tags/listes/</guid>
       <description></description>
     </item>
     <item>
@@ -93,13 +135,6 @@
       <description></description>
     </item>
     <item>
-      <title>26 en 2026</title>
-      <link>http://localhost:1313/carnetslunaires/tags/26-en-2026/</link>
-      <pubDate>Mon, 27 Apr 2026 00:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/carnetslunaires/tags/26-en-2026/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Ann Leckie</title>
       <link>http://localhost:1313/carnetslunaires/tags/ann-leckie/</link>
       <pubDate>Mon, 27 Apr 2026 00:00:00 +0200</pubDate>
@@ -111,13 +146,6 @@
       <link>http://localhost:1313/carnetslunaires/tags/chroniques-du-radch/</link>
       <pubDate>Mon, 27 Apr 2026 00:00:00 +0200</pubDate>
       <guid>http://localhost:1313/carnetslunaires/tags/chroniques-du-radch/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>J&#39;ai Lu</title>
-      <link>http://localhost:1313/carnetslunaires/tags/jai-lu/</link>
-      <pubDate>Mon, 27 Apr 2026 00:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/carnetslunaires/tags/jai-lu/</guid>
       <description></description>
     </item>
     <item>
@@ -163,13 +191,6 @@
       <description></description>
     </item>
     <item>
-      <title>Au Diable Vauvert</title>
-      <link>http://localhost:1313/carnetslunaires/tags/au-diable-vauvert/</link>
-      <pubDate>Sat, 18 Apr 2026 00:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/carnetslunaires/tags/au-diable-vauvert/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Nouriturfu</title>
       <link>http://localhost:1313/carnetslunaires/tags/nouriturfu/</link>
       <pubDate>Sat, 18 Apr 2026 00:00:00 +0200</pubDate>
@@ -181,13 +202,6 @@
       <link>http://localhost:1313/carnetslunaires/tags/polar/</link>
       <pubDate>Sat, 18 Apr 2026 00:00:00 +0200</pubDate>
       <guid>http://localhost:1313/carnetslunaires/tags/polar/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Thomas Gunzig</title>
-      <link>http://localhost:1313/carnetslunaires/tags/thomas-gunzig/</link>
-      <pubDate>Sat, 18 Apr 2026 00:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/carnetslunaires/tags/thomas-gunzig/</guid>
       <description></description>
     </item>
     <item>
@@ -482,20 +496,6 @@
       <link>http://localhost:1313/carnetslunaires/tags/non-fiction/</link>
       <pubDate>Sat, 07 Feb 2026 00:00:00 +0100</pubDate>
       <guid>http://localhost:1313/carnetslunaires/tags/non-fiction/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Naomi Novik</title>
-      <link>http://localhost:1313/carnetslunaires/tags/naomi-novik/</link>
-      <pubDate>Sat, 31 Jan 2026 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/carnetslunaires/tags/naomi-novik/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Scholomance</title>
-      <link>http://localhost:1313/carnetslunaires/tags/scholomance/</link>
-      <pubDate>Sat, 31 Jan 2026 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/carnetslunaires/tags/scholomance/</guid>
       <description></description>
     </item>
     <item>
