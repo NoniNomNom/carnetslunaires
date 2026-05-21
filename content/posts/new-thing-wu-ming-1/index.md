@@ -1,6 +1,6 @@
 ---
 title: 'New thing - Wu Ming 1'
-date: 2026-05-12
+date: 2026-05-17
 draft: true
 tags: ['Avis', 'Wu Ming 1', 'Wu Ming', 'Roman', 'Métailié', '26 en 2026']
 cover: 
