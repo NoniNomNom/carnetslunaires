@@ -6,8 +6,43 @@
     <description>Recent content in Tags on Carnets lunaires</description>
     <generator>Hugo -- 0.143.1</generator>
     <language>fr-be</language>
-    <lastBuildDate>Mon, 25 May 2026 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 00:00:00 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/carnetslunaires/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Avis</title>
+      <link>http://localhost:1313/carnetslunaires/tags/avis/</link>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/carnetslunaires/tags/avis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Christian Bourgois Éditeur</title>
+      <link>http://localhost:1313/carnetslunaires/tags/christian-bourgois-%C3%A9diteur/</link>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/carnetslunaires/tags/christian-bourgois-%C3%A9diteur/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Roman</title>
+      <link>http://localhost:1313/carnetslunaires/tags/roman/</link>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/carnetslunaires/tags/roman/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SFFF</title>
+      <link>http://localhost:1313/carnetslunaires/tags/sfff/</link>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/carnetslunaires/tags/sfff/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Thomas D. Lee</title>
+      <link>http://localhost:1313/carnetslunaires/tags/thomas-d.-lee/</link>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/carnetslunaires/tags/thomas-d.-lee/</guid>
+      <description></description>
+    </item>
     <item>
       <title>26 en 2026</title>
       <link>http://localhost:1313/carnetslunaires/tags/26-en-2026/</link>
@@ -16,17 +51,24 @@
       <description></description>
     </item>
     <item>
-      <title>Avis</title>
-      <link>http://localhost:1313/carnetslunaires/tags/avis/</link>
-      <pubDate>Mon, 25 May 2026 00:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/carnetslunaires/tags/avis/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>BD</title>
       <link>http://localhost:1313/carnetslunaires/tags/bd/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0200</pubDate>
       <guid>http://localhost:1313/carnetslunaires/tags/bd/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cadre Noir</title>
+      <link>http://localhost:1313/carnetslunaires/tags/cadre-noir/</link>
+      <pubDate>Mon, 25 May 2026 00:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/carnetslunaires/tags/cadre-noir/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Catherine Dufour</title>
+      <link>http://localhost:1313/carnetslunaires/tags/catherine-dufour/</link>
+      <pubDate>Mon, 25 May 2026 00:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/carnetslunaires/tags/catherine-dufour/</guid>
       <description></description>
     </item>
     <item>
@@ -79,31 +121,10 @@
       <description></description>
     </item>
     <item>
-      <title>Mo Hayder</title>
-      <link>http://localhost:1313/carnetslunaires/tags/mo-hayder/</link>
+      <title>Seuil</title>
+      <link>http://localhost:1313/carnetslunaires/tags/seuil/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/carnetslunaires/tags/mo-hayder/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Pocket</title>
-      <link>http://localhost:1313/carnetslunaires/tags/pocket/</link>
-      <pubDate>Mon, 25 May 2026 00:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/carnetslunaires/tags/pocket/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Roman</title>
-      <link>http://localhost:1313/carnetslunaires/tags/roman/</link>
-      <pubDate>Mon, 25 May 2026 00:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/carnetslunaires/tags/roman/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>SFFF</title>
-      <link>http://localhost:1313/carnetslunaires/tags/sfff/</link>
-      <pubDate>Mon, 25 May 2026 00:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/carnetslunaires/tags/sfff/</guid>
+      <guid>http://localhost:1313/carnetslunaires/tags/seuil/</guid>
       <description></description>
     </item>
     <item>
@@ -769,13 +790,6 @@
       <link>http://localhost:1313/carnetslunaires/tags/capucine-delattre/</link>
       <pubDate>Tue, 30 Dec 2025 00:00:00 +0100</pubDate>
       <guid>http://localhost:1313/carnetslunaires/tags/capucine-delattre/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Catherine Dufour</title>
-      <link>http://localhost:1313/carnetslunaires/tags/catherine-dufour/</link>
-      <pubDate>Tue, 30 Dec 2025 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/carnetslunaires/tags/catherine-dufour/</guid>
       <description></description>
     </item>
     <item>
@@ -1864,6 +1878,13 @@
       <description></description>
     </item>
     <item>
+      <title>Pocket</title>
+      <link>http://localhost:1313/carnetslunaires/tags/pocket/</link>
+      <pubDate>Tue, 17 Aug 2021 19:42:53 +0000</pubDate>
+      <guid>http://localhost:1313/carnetslunaires/tags/pocket/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Editions Allia</title>
       <link>http://localhost:1313/carnetslunaires/tags/editions-allia/</link>
       <pubDate>Wed, 21 Jul 2021 15:26:59 +0000</pubDate>
@@ -2039,13 +2060,6 @@
       <description></description>
     </item>
     <item>
-      <title>Cadre Noir</title>
-      <link>http://localhost:1313/carnetslunaires/tags/cadre-noir/</link>
-      <pubDate>Mon, 28 Dec 2020 11:18:00 +0000</pubDate>
-      <guid>http://localhost:1313/carnetslunaires/tags/cadre-noir/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Fleuve Noir</title>
       <link>http://localhost:1313/carnetslunaires/tags/fleuve-noir/</link>
       <pubDate>Mon, 28 Dec 2020 11:18:00 +0000</pubDate>
@@ -2071,13 +2085,6 @@
       <link>http://localhost:1313/carnetslunaires/tags/magdalena-parys/</link>
       <pubDate>Mon, 28 Dec 2020 11:18:00 +0000</pubDate>
       <guid>http://localhost:1313/carnetslunaires/tags/magdalena-parys/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Seuil</title>
-      <link>http://localhost:1313/carnetslunaires/tags/seuil/</link>
-      <pubDate>Mon, 28 Dec 2020 11:18:00 +0000</pubDate>
-      <guid>http://localhost:1313/carnetslunaires/tags/seuil/</guid>
       <description></description>
     </item>
     <item>

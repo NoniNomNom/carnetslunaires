@@ -2,7 +2,7 @@ from PIL import Image, ImageDraw
 
 name = "club-insomnie"
 
-book1 = "/tokyo.jpg"
+book1 = "/au_bal_des_absents.jpg"
 book2 = "/insomnie.jpg"
 book3 = "/vita-nostra.jpg"
 
