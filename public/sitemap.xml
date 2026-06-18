@@ -2,13 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/carnetslunaires/posts/astra-nova-lisa-blumen/</loc>
+    <lastmod>2026-06-13T00:00:00+02:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/carnetslunaires/tags/avis/</loc>
+    <lastmod>2026-06-13T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnetslunaires/tags/bd/</loc>
     <lastmod>2026-06-13T00:00:00+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/carnetslunaires/</loc>
     <lastmod>2026-06-13T00:00:00+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/carnetslunaires/tags/christian-bourgois-%C3%A9diteur/</loc>
+    <lastmod>2026-06-13T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnetslunaires/tags/lemploy%C3%A9-du-moi/</loc>
+    <lastmod>2026-06-13T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnetslunaires/tags/lisa-blumen/</loc>
     <lastmod>2026-06-13T00:00:00+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/carnetslunaires/posts/</loc>
@@ -56,9 +68,6 @@
     <loc>http://localhost:1313/carnetslunaires/tags/totem/</loc>
     <lastmod>2026-06-12T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/carnetslunaires/tags/bd/</loc>
-    <lastmod>2026-06-10T00:00:00+02:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/carnetslunaires/tags/gl%C3%A9nat/</loc>
     <lastmod>2026-06-10T00:00:00+02:00</lastmod>
   </url><url>
@@ -67,15 +76,6 @@
   </url><url>
     <loc>http://localhost:1313/carnetslunaires/tags/j.-personne/</loc>
     <lastmod>2026-06-10T00:00:00+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/carnetslunaires/posts/astra-nova-lisa-blumen/</loc>
-    <lastmod>2026-06-06T00:00:00+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/carnetslunaires/tags/lemploy%C3%A9-du-moi/</loc>
-    <lastmod>2026-06-06T00:00:00+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/carnetslunaires/tags/lisa-blumen/</loc>
-    <lastmod>2026-06-06T00:00:00+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/carnetslunaires/tags/aliz%C3%A9e-delpierre/</loc>
     <lastmod>2026-06-05T00:00:00+02:00</lastmod>

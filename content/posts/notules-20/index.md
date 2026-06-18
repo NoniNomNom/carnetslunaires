@@ -2,7 +2,7 @@
 title: 'Notules (20) - Carmen Maria Machado, Collectif'
 date: 2026-05-29
 draft: true
-tags: ['Avis', 'Carmen Maria Machado', 'Nouvelles', 'SFFF', 'Points']
+tags: ['Avis', 'Carmen Maria Machado', 'Nouvelles', 'SFFF', 'Points', '26 en 2026']
 cover: 
     image: "multicouv.jpg"
     hidden: true
@@ -11,7 +11,7 @@ cover:
 
 {{< inTextImg-left url="son_corps.jpg" alt="Son corps et autres célébrations - couverture" width="30%">}}
 
-Marqué par *Dans la maison rêvée*, j'étais enthousiaste à l'idée de me plonger dans un recueil de nouvelles de l'Américaine Carmen Maria Machado. *Son corps et autres célébrations* en contient huit, qui ont pour points communs principaux de comprendre des éléments de fantastique ou de weird, des relations presque exclusivement lesbiennes, et aussi du sexe. *Particulièrement monstrueux*, une des plus longues nouvelles, est peut-être la plus bizarre, reprenant un à un les épisodes des douze premières saisons de *New York, unité spéciale* en les transformant peu à peu en un récit étrange peuplé de fantômes et de döppelgangers. Ma nouvelle préférée, c'est peut-être *En résidence* (c'est aussi une des plus longues), dans laquelle une écrivaine se rend dans une résidence d'artistes à proximité d'une forêt qu'elle a fréquenté enfant avec son unité scoute, endroit qui fait remonter des souvenirs pas toujours heureux. J'ai beaucoup aimé l'atmosphère de ce récit. Inutile de passer en revue chaque nouvelle du recueil : elles valent toutes le coup, même si certaines sont plus obscures que d'autres (*Mères* notamment, est assez tortueux).
+Marqué par *Dans la maison rêvée*, j'étais enthousiaste à l'idée de me plonger dans un recueil de nouvelles de l'Américaine Carmen Maria Machado. *Son corps et autres célébrations* en contient huit, qui ont pour points communs principaux de contenir des éléments de fantastique ou de weird, des relations presque exclusivement lesbiennes, et aussi du sexe. *Particulièrement monstrueux*, une des plus longues nouvelles, est peut-être la plus bizarre, reprenant un à un les épisodes des douze premières saisons de *New York, unité spéciale* en les transformant peu à peu en un récit étrange peuplé de fantômes et de döppelgangers. Ma nouvelle préférée, c'est peut-être *En résidence* (c'est aussi une des plus longues), dans laquelle une écrivaine se rend dans une résidence d'artistes à proximité d'une forêt qu'elle a fréquenté enfant avec son unité scoute, endroit qui fait remonter des souvenirs pas toujours heureux. J'ai beaucoup aimé l'atmosphère de ce récit. Inutile de passer en revue chaque nouvelle du recueil : elles valent toutes le coup, même si certaines sont plus obscures que d'autres (*Mères* notamment, est assez tortueux).
 
 <!-- Ruban, mari, obsession pour le ruban
 Amants, épidémie, fuite

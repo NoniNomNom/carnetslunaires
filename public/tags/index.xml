@@ -16,10 +16,31 @@
       <description></description>
     </item>
     <item>
+      <title>BD</title>
+      <link>http://localhost:1313/carnetslunaires/tags/bd/</link>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/carnetslunaires/tags/bd/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Christian Bourgois Éditeur</title>
       <link>http://localhost:1313/carnetslunaires/tags/christian-bourgois-%C3%A9diteur/</link>
       <pubDate>Sat, 13 Jun 2026 00:00:00 +0200</pubDate>
       <guid>http://localhost:1313/carnetslunaires/tags/christian-bourgois-%C3%A9diteur/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>L&#39;employé Du Moi</title>
+      <link>http://localhost:1313/carnetslunaires/tags/lemploy%C3%A9-du-moi/</link>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/carnetslunaires/tags/lemploy%C3%A9-du-moi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lisa Blumen</title>
+      <link>http://localhost:1313/carnetslunaires/tags/lisa-blumen/</link>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/carnetslunaires/tags/lisa-blumen/</guid>
       <description></description>
     </item>
     <item>
@@ -100,13 +121,6 @@
       <description></description>
     </item>
     <item>
-      <title>BD</title>
-      <link>http://localhost:1313/carnetslunaires/tags/bd/</link>
-      <pubDate>Wed, 10 Jun 2026 00:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/carnetslunaires/tags/bd/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Glénat</title>
       <link>http://localhost:1313/carnetslunaires/tags/gl%C3%A9nat/</link>
       <pubDate>Wed, 10 Jun 2026 00:00:00 +0200</pubDate>
@@ -118,20 +132,6 @@
       <link>http://localhost:1313/carnetslunaires/tags/j.-personne/</link>
       <pubDate>Wed, 10 Jun 2026 00:00:00 +0200</pubDate>
       <guid>http://localhost:1313/carnetslunaires/tags/j.-personne/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>L&#39;employé Du Moi</title>
-      <link>http://localhost:1313/carnetslunaires/tags/lemploy%C3%A9-du-moi/</link>
-      <pubDate>Sat, 06 Jun 2026 00:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/carnetslunaires/tags/lemploy%C3%A9-du-moi/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Lisa Blumen</title>
-      <link>http://localhost:1313/carnetslunaires/tags/lisa-blumen/</link>
-      <pubDate>Sat, 06 Jun 2026 00:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/carnetslunaires/tags/lisa-blumen/</guid>
       <description></description>
     </item>
     <item>
