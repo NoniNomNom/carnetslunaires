@@ -2,8 +2,8 @@ from PIL import Image, ImageDraw
 
 name = "club-musique"
 
-book1 = "/conquest_couv.jpg"
-book2 = "/monstres_couv.jpg"
+book1 = "/new_thing.jpg"
+book2 = "/conquest_couv.jpg"
 book3 = "/outrage-et-rebellion.jpg"
 
 # Paths to your two images
