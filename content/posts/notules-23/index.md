@@ -1,8 +1,8 @@
 ---
-title: 'Notules (23) - Eric Vuillard'
+title: 'Notules (23) - Eric Vuillard, Benoit Philippon'
 date: 2026-06-19
 draft: true
-tags: ['Avis', 'Roman', 'Eric Vuillard', 'Histoire', 'Actes Sud', 'Babel']
+tags: ['Avis', 'Roman', 'Eric Vuillard', 'Histoire', 'Actes Sud', 'Babel', 'Benoit Philippon', 'Le Livre De Poche', 'Polar']
 cover: 
     image: "multicouv.jpg"
     hidden: true
@@ -15,6 +15,8 @@ Eric Vuillard écrit des romans plutôt courts et ce *Congo* n'échappe pas à l
 
 *Sortie : 2012*
 
-{{< inTextImg-right url="machine_couv.jpg" alt="La Machine - couverture" width="30%">}}
+{{< inTextImg-right url="mamie_luger.jpg" alt="Mamie Luger - couverture" width="30%">}}
 
-*Titre original : Sweet Harmony / Sortie originale (anglais) : 2020 / Version française : 2024 (traduction : Michel Pagel)*
+Berthe, 102 ans, est arrêtée un matin pour avoir tiré dans le derrière de son voisin, puis sur la police depuis la fenêtre de sa cuisine. Son interrogatoire avec l'inspecteur Ventura ne va pas manquer de surprises. Alors qu'on déterre les cadavres enterrés dans sa cave, Berthe raconte son histoire, parsemée d'hommes minables et violents. Ce *Mamie Luger* tient surtout à la personnalité extraordinaire de sa protagoniste, petite vieille au langage fleuri qui a su manier la pelle et les armes à feu tout au long de sa vie. Le but est de nous faire rire sur fond de roman noir, et ça fonctionne la plupart du temps. Du reste, et même s'il est parvenu à me toucher par moments, l'auteur utilise trop de clichés pour que j'aie pu y croire vraiment. Certaines critiques sur lesquelles je suis tombé dénoncent par ailleurs une écriture d'une part très masculine du corps féminins et des viols, d'autre part une écriture très blanche des personnages racisés. Je peux difficilement leur donner tort, malgré la bonne volonté assez évidente de l'auteur. 
+
+*Sortie : 2018*
