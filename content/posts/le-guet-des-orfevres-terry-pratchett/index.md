@@ -2,7 +2,7 @@
 title: 'Le guet des orfèvres - Terry Pratchett'
 date: Sat, 19 Aug 2023 07:45:29 +0000
 draft: false
-tags: ['Avis', 'Disque-monde', 'Roman', 'SFFF', 'Terry Pratchett', "L'Atalante"]
+tags: ['Avis', 'Les Annales du Disque-monde', 'Roman', 'SFFF', 'Terry Pratchett', "L'Atalante"]
 cover: 
     image: "guet_orfevres.jpg"
     hidden: true
@@ -17,4 +17,4 @@ Il est ici question de retrouver une arme dévastatrice qui n'a rien à faire l�
 
 Quitte à me joindre à un concert de louanges déjà bien fourni, je dirai simplement que Terry Pratchett a réussi quelque chose de formidable avec son _Disque-monde_ et que ce roman est un bon exemple pour prendre la mesure de l'exploit. _Le guet des orfèvres_ est non seulement très divertissant en plus d'être drôle, il se lit aussi comme un super polar et donne matière à réflexion sur les dynamiques à l'œuvre en matière de pouvoir, d'oppressions (entre classes, communautés, institutions...) et de racisme systémique. C'est un livre sorti en 1993 qui, à quelques choix d'expressions près, aurait probablement pu sortir vingt ou trente ans plus tard. D'ailleurs, Laird Fumble, [dans sa propre analyse](https://syndromequickson.com/2020/09/18/le-tour-du-disque-15-le-guet-des-orfevres/), a bien résumé en quoi c'est un problème.
 
-_Titre original : _ Men at arms / _Sortie originale (anglais) : 1993 / Version française : 2000 (traduction : _ Patrick Couton_)_
+*Titre original : Men at arms / Sortie originale (anglais) : 1993 / Version française : 2000 (traduction : Patrick Couton)*
