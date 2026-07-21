@@ -22,3 +22,5 @@ C'est un livre puissant qui donne un éclairage sur une partie du monde que je c
 *Titre original : Das mangelnde Licht / Sortie originale (allemand) : 2022 / Version française : 2024 (traduction : Barbara Fontaine)*
 
 Image : Vue sur Tbilissi, par Alexey Komarov
+
+<!-- Soleil mort - ELOI -->
