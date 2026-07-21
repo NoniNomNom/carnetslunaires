@@ -1,7 +1,7 @@
 ---
 title: 'Notules (24) - Adeline Dieudonné'
 date: 2026-07-19
-draft: false
+draft: true
 tags: ['Avis', 'Roman', 'Adeline Dieudonné', 'Collection Proche']
 cover: 
     image: "multicouv.jpg"
