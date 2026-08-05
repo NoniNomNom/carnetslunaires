@@ -1,7 +1,7 @@
 ---
 title: 'Bilan à mi-année 2026'
 date: 2026-08-05
-draft: true
+draft: false
 tags: ['Liste', "Mid-Year Book Freak Out Tag", 'Roman', 'SFFF', 'Glen James Brown', 'Les Éditions Du Typhon', 'Ann Leckie', "J'ai lu", 'Lucie Mosca', "L'Atalante", 'Phoebe Hadjimarkos Clarke', 'Editions Du Sous-Sol', 'Uketsu', 'Points', 'Olga Tokarczuk', 'Libretto', 'Michelle Pedinielli', "L'Aube", 'Mikros', 'Wu Ming 1', 'Métailié']
 cover: 
     image: "multicouv.jpg"
