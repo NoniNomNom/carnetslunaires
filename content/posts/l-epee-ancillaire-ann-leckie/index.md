@@ -2,7 +2,7 @@
 title: "L'épée de l'ancillaire - Ann Leckie"
 date: 2025-10-26
 draft: false
-tags: ['Avis', 'Ann Leckie', 'Roman', 'SFFF', 'Chroniques du Radch', "J'ai lu"]
+tags: ['Avis', 'Ann Leckie', 'Roman', 'SFFF', 'Chroniques du Radch', "J'ai lu", 'LGBT']
 cover: 
     image: "epee-ancillaire.jpg"
     hidden: true

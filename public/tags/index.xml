@@ -6,8 +6,99 @@
     <description>Recent content in Tags on Carnets lunaires</description>
     <generator>Hugo -- 0.143.1</generator>
     <language>fr-be</language>
-    <lastBuildDate>Wed, 05 Aug 2026 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 00:00:00 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/carnetslunaires/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Avis</title>
+      <link>http://localhost:1313/carnetslunaires/tags/avis/</link>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/carnetslunaires/tags/avis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Carmela Chergui</title>
+      <link>http://localhost:1313/carnetslunaires/tags/carmela-chergui/</link>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/carnetslunaires/tags/carmela-chergui/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Éditions Les Léonides</title>
+      <link>http://localhost:1313/carnetslunaires/tags/%C3%A9ditions-les-l%C3%A9onides/</link>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/carnetslunaires/tags/%C3%A9ditions-les-l%C3%A9onides/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Histoire</title>
+      <link>http://localhost:1313/carnetslunaires/tags/histoire/</link>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/carnetslunaires/tags/histoire/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LGBT</title>
+      <link>http://localhost:1313/carnetslunaires/tags/lgbt/</link>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/carnetslunaires/tags/lgbt/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nelly Mousset-Vos</title>
+      <link>http://localhost:1313/carnetslunaires/tags/nelly-mousset-vos/</link>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/carnetslunaires/tags/nelly-mousset-vos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Roman</title>
+      <link>http://localhost:1313/carnetslunaires/tags/roman/</link>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/carnetslunaires/tags/roman/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sylvie Bianchi-Vos</title>
+      <link>http://localhost:1313/carnetslunaires/tags/sylvie-bianchi-vos/</link>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/carnetslunaires/tags/sylvie-bianchi-vos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tusitala</title>
+      <link>http://localhost:1313/carnetslunaires/tags/tusitala/</link>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/carnetslunaires/tags/tusitala/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>L&#39;Atalante</title>
+      <link>http://localhost:1313/carnetslunaires/tags/latalante/</link>
+      <pubDate>Sun, 09 Aug 2026 00:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/carnetslunaires/tags/latalante/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Les Annales Du Disque-Monde</title>
+      <link>http://localhost:1313/carnetslunaires/tags/les-annales-du-disque-monde/</link>
+      <pubDate>Sun, 09 Aug 2026 00:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/carnetslunaires/tags/les-annales-du-disque-monde/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SFFF</title>
+      <link>http://localhost:1313/carnetslunaires/tags/sfff/</link>
+      <pubDate>Sun, 09 Aug 2026 00:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/carnetslunaires/tags/sfff/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Terry Pratchett</title>
+      <link>http://localhost:1313/carnetslunaires/tags/terry-pratchett/</link>
+      <pubDate>Sun, 09 Aug 2026 00:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/carnetslunaires/tags/terry-pratchett/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Ann Leckie</title>
       <link>http://localhost:1313/carnetslunaires/tags/ann-leckie/</link>
@@ -34,13 +125,6 @@
       <link>http://localhost:1313/carnetslunaires/tags/jai-lu/</link>
       <pubDate>Wed, 05 Aug 2026 00:00:00 +0200</pubDate>
       <guid>http://localhost:1313/carnetslunaires/tags/jai-lu/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>L&#39;Atalante</title>
-      <link>http://localhost:1313/carnetslunaires/tags/latalante/</link>
-      <pubDate>Wed, 05 Aug 2026 00:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/carnetslunaires/tags/latalante/</guid>
       <description></description>
     </item>
     <item>
@@ -128,20 +212,6 @@
       <description></description>
     </item>
     <item>
-      <title>Roman</title>
-      <link>http://localhost:1313/carnetslunaires/tags/roman/</link>
-      <pubDate>Wed, 05 Aug 2026 00:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/carnetslunaires/tags/roman/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>SFFF</title>
-      <link>http://localhost:1313/carnetslunaires/tags/sfff/</link>
-      <pubDate>Wed, 05 Aug 2026 00:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/carnetslunaires/tags/sfff/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Uketsu</title>
       <link>http://localhost:1313/carnetslunaires/tags/uketsu/</link>
       <pubDate>Wed, 05 Aug 2026 00:00:00 +0200</pubDate>
@@ -160,13 +230,6 @@
       <link>http://localhost:1313/carnetslunaires/tags/adeline-dieudonn%C3%A9/</link>
       <pubDate>Mon, 03 Aug 2026 00:00:00 +0200</pubDate>
       <guid>http://localhost:1313/carnetslunaires/tags/adeline-dieudonn%C3%A9/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Avis</title>
-      <link>http://localhost:1313/carnetslunaires/tags/avis/</link>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/carnetslunaires/tags/avis/</guid>
       <description></description>
     </item>
     <item>
@@ -212,13 +275,6 @@
       <description></description>
     </item>
     <item>
-      <title>Carmela Chergui</title>
-      <link>http://localhost:1313/carnetslunaires/tags/carmela-chergui/</link>
-      <pubDate>Sat, 01 Aug 2026 00:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/carnetslunaires/tags/carmela-chergui/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Du Monde Entier</title>
       <link>http://localhost:1313/carnetslunaires/tags/du-monde-entier/</link>
       <pubDate>Sat, 01 Aug 2026 00:00:00 +0200</pubDate>
@@ -226,66 +282,10 @@
       <description></description>
     </item>
     <item>
-      <title>Éditions Les Léonides</title>
-      <link>http://localhost:1313/carnetslunaires/tags/%C3%A9ditions-les-l%C3%A9onides/</link>
-      <pubDate>Sat, 01 Aug 2026 00:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/carnetslunaires/tags/%C3%A9ditions-les-l%C3%A9onides/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Histoire</title>
-      <link>http://localhost:1313/carnetslunaires/tags/histoire/</link>
-      <pubDate>Sat, 01 Aug 2026 00:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/carnetslunaires/tags/histoire/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Les Annales Du Disque-Monde</title>
-      <link>http://localhost:1313/carnetslunaires/tags/les-annales-du-disque-monde/</link>
-      <pubDate>Sat, 01 Aug 2026 00:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/carnetslunaires/tags/les-annales-du-disque-monde/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>LGBT</title>
-      <link>http://localhost:1313/carnetslunaires/tags/lgbt/</link>
-      <pubDate>Sat, 01 Aug 2026 00:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/carnetslunaires/tags/lgbt/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Nelly Mousset-Vos</title>
-      <link>http://localhost:1313/carnetslunaires/tags/nelly-mousset-vos/</link>
-      <pubDate>Sat, 01 Aug 2026 00:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/carnetslunaires/tags/nelly-mousset-vos/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Nino Haratischwili</title>
       <link>http://localhost:1313/carnetslunaires/tags/nino-haratischwili/</link>
       <pubDate>Sat, 01 Aug 2026 00:00:00 +0200</pubDate>
       <guid>http://localhost:1313/carnetslunaires/tags/nino-haratischwili/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Sylvie Bianchi-Vos</title>
-      <link>http://localhost:1313/carnetslunaires/tags/sylvie-bianchi-vos/</link>
-      <pubDate>Sat, 01 Aug 2026 00:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/carnetslunaires/tags/sylvie-bianchi-vos/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Terry Pratchett</title>
-      <link>http://localhost:1313/carnetslunaires/tags/terry-pratchett/</link>
-      <pubDate>Sat, 01 Aug 2026 00:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/carnetslunaires/tags/terry-pratchett/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tusitala</title>
-      <link>http://localhost:1313/carnetslunaires/tags/tusitala/</link>
-      <pubDate>Sat, 01 Aug 2026 00:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/carnetslunaires/tags/tusitala/</guid>
       <description></description>
     </item>
     <item>
@@ -1745,38 +1745,10 @@
       <description></description>
     </item>
     <item>
-      <title>Ada Palmer</title>
-      <link>http://localhost:1313/carnetslunaires/tags/ada-palmer/</link>
-      <pubDate>Sun, 02 Apr 2023 14:26:43 +0000</pubDate>
-      <guid>http://localhost:1313/carnetslunaires/tags/ada-palmer/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Auriane Velten</title>
-      <link>http://localhost:1313/carnetslunaires/tags/auriane-velten/</link>
-      <pubDate>Sun, 02 Apr 2023 14:26:43 +0000</pubDate>
-      <guid>http://localhost:1313/carnetslunaires/tags/auriane-velten/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Nouveaux Millénaires</title>
       <link>http://localhost:1313/carnetslunaires/tags/nouveaux-mill%C3%A9naires/</link>
       <pubDate>Sun, 02 Apr 2023 14:26:43 +0000</pubDate>
       <guid>http://localhost:1313/carnetslunaires/tags/nouveaux-mill%C3%A9naires/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Teixcalaan</title>
-      <link>http://localhost:1313/carnetslunaires/tags/teixcalaan/</link>
-      <pubDate>Sun, 02 Apr 2023 14:26:43 +0000</pubDate>
-      <guid>http://localhost:1313/carnetslunaires/tags/teixcalaan/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Terra Ignota</title>
-      <link>http://localhost:1313/carnetslunaires/tags/terra-ignota/</link>
-      <pubDate>Sun, 02 Apr 2023 14:26:43 +0000</pubDate>
-      <guid>http://localhost:1313/carnetslunaires/tags/terra-ignota/</guid>
       <description></description>
     </item>
     <item>
@@ -1791,6 +1763,13 @@
       <link>http://localhost:1313/carnetslunaires/tags/silvia-moreno-garcia/</link>
       <pubDate>Sat, 21 Jan 2023 14:48:37 +0000</pubDate>
       <guid>http://localhost:1313/carnetslunaires/tags/silvia-moreno-garcia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ada Palmer</title>
+      <link>http://localhost:1313/carnetslunaires/tags/ada-palmer/</link>
+      <pubDate>Fri, 30 Dec 2022 16:01:17 +0000</pubDate>
+      <guid>http://localhost:1313/carnetslunaires/tags/ada-palmer/</guid>
       <description></description>
     </item>
     <item>
@@ -1819,6 +1798,20 @@
       <link>http://localhost:1313/carnetslunaires/tags/mn%C3%A9mos/</link>
       <pubDate>Fri, 30 Dec 2022 16:01:17 +0000</pubDate>
       <guid>http://localhost:1313/carnetslunaires/tags/mn%C3%A9mos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Teixcalaan</title>
+      <link>http://localhost:1313/carnetslunaires/tags/teixcalaan/</link>
+      <pubDate>Fri, 30 Dec 2022 16:01:17 +0000</pubDate>
+      <guid>http://localhost:1313/carnetslunaires/tags/teixcalaan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Terra Ignota</title>
+      <link>http://localhost:1313/carnetslunaires/tags/terra-ignota/</link>
+      <pubDate>Fri, 30 Dec 2022 16:01:17 +0000</pubDate>
+      <guid>http://localhost:1313/carnetslunaires/tags/terra-ignota/</guid>
       <description></description>
     </item>
     <item>
@@ -1987,6 +1980,13 @@
       <link>http://localhost:1313/carnetslunaires/tags/outre-fleuve/</link>
       <pubDate>Sun, 21 Nov 2021 10:43:10 +0000</pubDate>
       <guid>http://localhost:1313/carnetslunaires/tags/outre-fleuve/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Auriane Velten</title>
+      <link>http://localhost:1313/carnetslunaires/tags/auriane-velten/</link>
+      <pubDate>Wed, 03 Nov 2021 08:55:03 +0000</pubDate>
+      <guid>http://localhost:1313/carnetslunaires/tags/auriane-velten/</guid>
       <description></description>
     </item>
     <item>
