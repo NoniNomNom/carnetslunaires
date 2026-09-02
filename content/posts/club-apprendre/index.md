@@ -1,7 +1,7 @@
 ---
 title: 'Club de lecture - Apprendre'
 date: 2026-08-31
-draft: false
+draft: true
 tags: ['Listes', 'Club de lecture', 'Scholomance', 'Naomi Novik', 'SFFF', "J'ai Lu", 'Goliarda Sapienza', "Editions Attila", 'LGBT', Etienne Davodeau', 'Futuropolis', 'BD' ]
 cover: 
     image: "multicouv.jpg"
@@ -9,7 +9,7 @@ cover:
     hiddeninlist: false
 ---
 
-Ce mois-ci, le thème du club de lecture est à nouveau raccord avec le moment de l'année. C'est la rentrée des classes, alors on va s'intéresser à ce que c'est "apprendre". Pour l'occasion, j'ai sélectionné deux romans et une BD dans ma bibliothèque. 
+Ce mois-ci, le thème du club de lecture est à nouveau raccord avec le moment de l'année. C'est la rentrée des classes, alors on va s'intéresser à ce que c'est "apprendre". Pour l'occasion, j'ai sélectionné dans ma bibliothèque deux romans et une BD. 
 
 {{< inTextImg-left url="scholomance.jpg" alt="Éducation meurtrière - couverture" width="20%">}}
 
@@ -23,4 +23,4 @@ Avec *Moi, Jean Gabin*, Goliarda Sapienza nous parle de son enfance. Et le moins
 
 Durant le club de lecture, les amateurs et amatrices d'alcool ont généralement l'occasion de déguster un bon vin choisi avec soin par l'organisatrice de l'événement. Ainsi, ça m'a semblé être le moment idéal d'y ramener *Les Ignorants*, BD d'Etienne Davodeau sortie en 2011. L'auteur y raconte comment il a appris à connaître le métier de vigneron exercé par un de ses amis, à qui il a réciproquement fait découvrir le monde de la bande dessinée. Il faut malheureusement accepter tout un discours autour de la biodynamie, dont franchement je me passerais bien. Sur le sujet, je voudrais d'ailleurs lire [la trilogie CosmoBacchus de l'auteur Jean-Benoît Meybeck](https://www.franceinfo.fr/culture/bd/cosmobacchus-une-bd-qui-explore-la-face-cachee-de-la-biodynamie-dans-le-monde-viticole_5051245.html), une enquête en BD sur la biodynamie et l'anthroposophie. Malgré cet écueil, cela n'empêche pas d'apprécier le dessin et le double récit d'apprentissage proposé par Etienne Davodeau. 
 
-<!-- Belgian State of Frustration - Experimental Tropic Blues Band -->
+<!-- good kid - Kendrick Lamar -->
