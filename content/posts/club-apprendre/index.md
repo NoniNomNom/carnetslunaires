@@ -2,7 +2,7 @@
 title: 'Club de lecture - Apprendre'
 date: 2026-09-05
 draft: false
-tags: ['Listes', 'Club de lecture', 'Scholomance', 'Naomi Novik', 'SFFF', "J'ai Lu", 'Goliarda Sapienza', "Editions Attila", 'LGBT', Étienne Davodeau', 'Futuropolis', 'BD' ]
+tags: ['Listes', 'Club de lecture', 'Scholomance', 'Naomi Novik', 'SFFF', "J'ai Lu", 'Goliarda Sapienza', "Editions Attila", 'LGBT', 'Étienne Davodeau', 'Futuropolis', 'BD' ]
 cover: 
     image: "multicouv.jpg"
     hidden: true
