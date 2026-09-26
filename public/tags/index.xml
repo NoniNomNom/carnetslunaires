@@ -30,6 +30,34 @@
       <description></description>
     </item>
     <item>
+      <title>Éditions ActuSF</title>
+      <link>http://localhost:1313/carnetslunaires/tags/%C3%A9ditions-actusf/</link>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/carnetslunaires/tags/%C3%A9ditions-actusf/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>L&#39;Atalante</title>
+      <link>http://localhost:1313/carnetslunaires/tags/latalante/</link>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/carnetslunaires/tags/latalante/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Martine Desjardins</title>
+      <link>http://localhost:1313/carnetslunaires/tags/martine-desjardins/</link>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/carnetslunaires/tags/martine-desjardins/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Neptune</title>
+      <link>http://localhost:1313/carnetslunaires/tags/neptune/</link>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/carnetslunaires/tags/neptune/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Non-Fiction</title>
       <link>http://localhost:1313/carnetslunaires/tags/non-fiction/</link>
       <pubDate>Sat, 19 Sep 2026 00:00:00 +0200</pubDate>
@@ -65,6 +93,13 @@
       <description></description>
     </item>
     <item>
+      <title>SFFF</title>
+      <link>http://localhost:1313/carnetslunaires/tags/sfff/</link>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/carnetslunaires/tags/sfff/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Philippe Jaenada</title>
       <link>http://localhost:1313/carnetslunaires/tags/philippe-jaenada/</link>
       <pubDate>Thu, 17 Sep 2026 00:00:00 +0200</pubDate>
@@ -90,13 +125,6 @@
       <link>http://localhost:1313/carnetslunaires/tags/phoebe-hadjimarkos-clarke/</link>
       <pubDate>Sat, 12 Sep 2026 00:00:00 +0200</pubDate>
       <guid>http://localhost:1313/carnetslunaires/tags/phoebe-hadjimarkos-clarke/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>SFFF</title>
-      <link>http://localhost:1313/carnetslunaires/tags/sfff/</link>
-      <pubDate>Sat, 12 Sep 2026 00:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/carnetslunaires/tags/sfff/</guid>
       <description></description>
     </item>
     <item>
@@ -195,27 +223,6 @@
       <link>http://localhost:1313/carnetslunaires/tags/sygne/</link>
       <pubDate>Wed, 02 Sep 2026 00:00:00 +0200</pubDate>
       <guid>http://localhost:1313/carnetslunaires/tags/sygne/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>L&#39;Atalante</title>
-      <link>http://localhost:1313/carnetslunaires/tags/latalante/</link>
-      <pubDate>Mon, 31 Aug 2026 00:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/carnetslunaires/tags/latalante/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Martine Desjardins</title>
-      <link>http://localhost:1313/carnetslunaires/tags/martine-desjardins/</link>
-      <pubDate>Mon, 31 Aug 2026 00:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/carnetslunaires/tags/martine-desjardins/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Neptune</title>
-      <link>http://localhost:1313/carnetslunaires/tags/neptune/</link>
-      <pubDate>Mon, 31 Aug 2026 00:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/carnetslunaires/tags/neptune/</guid>
       <description></description>
     </item>
     <item>
