@@ -2,7 +2,7 @@
 title: 'Notules (21) - Maren Uthaug, Eric Denécé & Jean Deuve'
 date: 2026-06-27
 draft: false
-tags: ['Avis', 'Maren Uthaug', 'Roman', 'Gallmeister', 'Totem', 'SFFF', 'Tallandier', 'Eric Denécé', 'Jean Deuve', 'Essai', '26 en 2026']
+tags: ['Listes', 'Maren Uthaug', 'Roman', 'Gallmeister', 'Totem', 'SFFF', 'Tallandier', 'Eric Denécé', 'Jean Deuve', 'Essai', '26 en 2026']
 cover: 
     image: "multicouv.jpg"
     hidden: true

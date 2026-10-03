@@ -2,7 +2,7 @@
 title: 'Notules (24) - Nelly Mousset-Vos, Carmela Chergui'
 date: 2026-08-15
 draft: false
-tags: ['Avis', 'Roman', 'Nelly Mousset-Vos', 'Sylvie Bianchi-Vos', 'Éditions Les Léonides', 'Histoire', 'LGBT', 'Carmela Chergui', 'Tusitala']
+tags: ['Listes', 'Roman', 'Nelly Mousset-Vos', 'Sylvie Bianchi-Vos', 'Éditions Les Léonides', 'Histoire', 'LGBT', 'Carmela Chergui', 'Tusitala']
 cover: 
     image: "multicouv.jpg"
     hidden: true

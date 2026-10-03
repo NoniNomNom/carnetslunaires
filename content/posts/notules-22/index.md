@@ -2,7 +2,7 @@
 title: 'Notules (22) - Claire North, René Belletto'
 date: 2026-07-12
 draft: false
-tags: ['Avis', 'Claire North', "Le Bélial'", "Une Heure-Lumière", 'René Belletto', 'Roman', 'SFFF', 'Folio']
+tags: ['Listes', 'Claire North', "Le Bélial'", "Une Heure-Lumière", 'René Belletto', 'Roman', 'SFFF', 'Folio']
 cover: 
     image: "multicouv.jpg"
     hidden: true

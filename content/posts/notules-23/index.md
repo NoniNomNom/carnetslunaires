@@ -2,7 +2,7 @@
 title: 'Notules (23) - Eric Vuillard, Benoit Philippon'
 date: 2026-07-18
 draft: false
-tags: ['Avis', 'Roman', 'Eric Vuillard', 'Histoire', 'Actes Sud', 'Babel', 'Benoit Philippon', 'Le Livre De Poche', 'Polar']
+tags: ['Listes', 'Roman', 'Eric Vuillard', 'Histoire', 'Actes Sud', 'Babel', 'Benoit Philippon', 'Le Livre De Poche', 'Polar']
 cover: 
     image: "multicouv.jpg"
     hidden: true

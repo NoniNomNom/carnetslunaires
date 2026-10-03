@@ -2,7 +2,7 @@
 title: 'Notules (25) - Lucile Novat, Adeline Dieudonné'
 date: 2026-08-29
 draft: false
-tags: ['Avis', 'Roman', 'Lucile Novat', 'Editions Du Sous-Sol', 'Adeline Dieudonné', 'Collection Proche']
+tags: ['Listes', 'Roman', 'Lucile Novat', 'Editions Du Sous-Sol', 'Adeline Dieudonné', 'Collection Proche']
 cover: 
     image: "multicouv.jpg"
     hidden: true

@@ -2,7 +2,7 @@
 title: 'Notules (26) - Cristina Rivera Garza, Paco Ignacio Taibo II'
 date: 2026-09-19
 draft: false
-tags: ['Avis', 'Non fiction', 'Cristina Rivera Garza', 'Christian Bourgois Éditeur', 'Paco Ignacio Taibo II', 'Roman', 'Polar', 'Rivages-Noir']
+tags: ['Listes', 'Non fiction', 'Cristina Rivera Garza', 'Christian Bourgois Éditeur', 'Paco Ignacio Taibo II', 'Roman', 'Polar', 'Rivages-Noir']
 cover: 
     image: "multicouv.jpg"
     hidden: true
