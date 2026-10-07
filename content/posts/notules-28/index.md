@@ -1,7 +1,7 @@
 ---
 title: 'Notules (28) - Esmée Dubois'
 date: 2026-10-03
-draft: false
+draft: true
 tags: ['Listes', 'Esmée Dubois', '1115', 'SFFF', 'Novella']
 cover: 
     image: "multicouv.jpg"
