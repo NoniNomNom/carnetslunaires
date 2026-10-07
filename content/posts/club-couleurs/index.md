@@ -1,7 +1,7 @@
 ---
 title: 'Club de lecture - Couleurs'
 date: 2026-10-04
-draft: false
+draft: true
 tags: ['Listes', 'Club de lecture', 'Svetlana Alexievitch', 'Actes Sud', 'Babel', 'Non-Fiction', 'Cookie Mueller', 'Esmée Dubois', '10-18', 'Nouvelles', '1115', 'SFFF', 'Novella']
 cover: 
     image: "multicouv.jpg"
