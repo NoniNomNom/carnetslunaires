@@ -16,7 +16,9 @@ Ce roman commence comme un polar, avec la découverte d'un corps sur une digue a
 *Sortie : 2024*
 
 
-{{< inTextImg-right url="teambuilding.jpg" alt="Team Building - couverture" width="30%">}}
+{{< inTextImg-right url=" .jpg" alt="Tintin au pays des fascistes - couverture" width="30%">}}
+
+
 
 
 *Sortie : 2026*

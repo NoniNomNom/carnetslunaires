@@ -1,7 +1,7 @@
 ---
 title: 'La galaxie vue du sol - Becky Chambers'
-date: 2026-09-27
-draft: true
+date: 2026-10-19
+draft: false
 tags: ['Avis', 'Becky Chambers', 'Roman', 'SFFF', "L'Atalante", "Les Voyageurs"]
 cover: 
     image: "galaxie.jpg"
