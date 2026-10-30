@@ -2,7 +2,7 @@
 title: 'La Grande Porte - Frederick Pohl'
 date: 2026-08-22
 draft: false
-tags: ['Avis', 'Frederick Pohl', 'Roman', 'SFFF', "J'ai lu"]
+tags: ['Avis', 'Frederick Pohl', 'Roman', 'SFFF', "J'ai lu", '26 en 2026']
 cover: 
     image: "grande_porte.jpg"
     hidden: true

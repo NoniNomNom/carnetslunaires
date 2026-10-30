@@ -1,8 +1,8 @@
 ---
-title: 'Notules (28) - Maylis de Kerangal, '
-date: 2026-10-12
+title: 'Notules (28) - Maylis de Kerangal, Svetlana Alexievitch'
+date: 2026-10-30
 draft: true
-tags: ['Liste', 'Maylis De Kerangal', 'Roman']
+tags: ['Liste', 'Maylis De Kerangal', 'Roman', 'Svetlana Alexievitch', '10-18', 'Histoire', '26 en 2026']
 cover: 
     image: "multicouv.jpg"
     hidden: true
@@ -15,11 +15,9 @@ Ce roman commence comme un polar, avec la découverte d'un corps sur une digue a
 
 *Sortie : 2024*
 
+{{< inTextImg-right url="derniers_temoins.jpg" alt="Derniers témoins - couverture" width="30%">}}
 
-{{< inTextImg-right url=" .jpg" alt="Tintin au pays des fascistes - couverture" width="30%">}}
-
-
-
+J'ai longtemps fait attendre ce livre de Svetlana Alexievitch dans ma pile à lire. C'est que le sujet - la seconde guerre mondiale du point de vue d'enfants, côté front de l'est - m'effrayait un peu, d'autant que je connais la méthode de l'autrice biélorusse pour l'avoir déjà explorée dans *La fin de l'homme rouge*, *La supplication* et *La guerre n'a pas un visage de femme*. Et ça n'a pas manqué. *Derniers témoins* est une collection d'atrocités, de violence aveugle, de pertes absurdes, de souffrances et de malheurs. J'ai été frappé par le déchaînement de brutalité nazie décrit tout au long des témoignages qui s'enchaînent comme une litanie : les massacres, les fuites éperdues, les pertes de parents et les destructions de villages entiers s'enchaînent en veux-tu en voilà. En général, celles et ceux qui témoignent ont survécu par chance ou par miracle. Je ne peux pas dire que j'ai particulièrement pris du plaisir à lire cette oeuvre. Par contre oui, c'est marquant, comme toujours avec Svetlana Alexievitch. 
 
 *Sortie : 2026*
 <!--  -  -->
