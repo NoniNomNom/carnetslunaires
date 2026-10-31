@@ -2,6 +2,8 @@
 title: 'Notules (9) - Alastair Reynolds, Marcia Burnier'
 date: 2025-10-05
 draft: false
+comments:
+    id: ''
 tags: ['Listes', "Le Bélial'", "Une Heure-Lumière", 'Novella', 'SFFF', "Cambourakis", "Roman", Alastair Reynolds, Marcia Burnier]
 cover: 
     image: "multicouv.jpg"

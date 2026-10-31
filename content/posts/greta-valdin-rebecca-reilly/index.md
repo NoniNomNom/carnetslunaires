@@ -2,6 +2,8 @@
 title: 'Greta & Valdin - Rebecca K. Reilly'
 date: 2026-01-17
 draft: false
+comments:
+    id: ''
 tags: ['Avis', 'Rebecca K. Reilly', 'Roman', 'LGBT', 'Ellipsis']
 cover: 
     image: "greta_valdin.jpg"

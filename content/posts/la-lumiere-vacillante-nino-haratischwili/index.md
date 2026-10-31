@@ -2,6 +2,8 @@
 title: 'La lumière vacillante - Nino Haratischwili'
 date: 2026-08-01
 draft: false
+comments:
+    id: '3mrz6meq6e22c'
 tags: ['Avis', 'Nino Haratischwili', 'Roman', 'Gallimard', "Du monde entier"]
 cover: 
     image: "lumiere.jpg"

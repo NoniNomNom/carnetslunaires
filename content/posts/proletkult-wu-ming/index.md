@@ -2,6 +2,8 @@
 title: 'Proletkult - Wu Ming'
 date: 2025-03-23
 draft: false
+comments:
+    id: ''
 tags: ['Avis', 'Wu Ming', 'Roman', 'SFFF', 'Histoire', 'Métailié']
 cover: 
     image: "proletkult_couv.jpg"

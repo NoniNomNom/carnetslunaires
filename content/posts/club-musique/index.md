@@ -2,6 +2,8 @@
 title: 'Club de lecture - En musique'
 date: 2026-06-24
 draft: false
+comments:
+    id: '3moz4kmfcwc24'
 tags: ['Listes', 'Club de lecture', 'SFFF', 'Nina Allan', '10-18', 'Catherine Dufour', 'Folio SF', 'Wu Ming', 'Wu Ming 1', 'Métailié']
 cover: 
     image: "multicouv.jpg"

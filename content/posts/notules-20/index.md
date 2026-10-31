@@ -2,6 +2,8 @@
 title: 'Notules (20) - Carmen Maria Machado, Collectif'
 date: 2026-06-21
 draft: false
+comments:
+    id: '3mos6jyqaxs2w'
 tags: ['Listes', 'Carmen Maria Machado', 'Nouvelles', 'SFFF', 'Points', '26 en 2026', 'LGBT']
 cover: 
     image: "multicouv.jpg"

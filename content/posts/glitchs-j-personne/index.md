@@ -2,6 +2,8 @@
 title: 'Glitchs - J. Personne'
 date: 2026-06-10
 draft: false
+comments:
+    id: '3mnwmgpnxxs2z'
 tags: ['Avis', 'J. Personne', 'BD', 'SFFF', 'Glénat']
 cover: 
     image: "glitchs.jpg"

@@ -2,6 +2,8 @@
 title: 'Notules (18) - Thomas Gunzig, Naomi Novik'
 date: 2026-05-21
 draft: false
+comments:
+    id: '3mme4m34hwc2t'
 tags: ['Listes', 'Thomas Gunzig', 'SFFF', 'Au diable vauvert', '26 en 2026', 'Naomi Novik', 'Scholomance', "J'ai lu",]
 cover: 
     image: "multicouv.jpg"

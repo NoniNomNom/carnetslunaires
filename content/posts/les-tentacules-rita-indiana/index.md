@@ -2,6 +2,8 @@
 title: 'Les Tentacules - Rita Indiana'
 date: 2025-12-20
 draft: false
+comments:
+    id: ''
 tags: ['Avis', 'Rita Indiana', 'Roman', 'SFFF', "Rue de l'échiquier"]
 cover: 
     image: "les-tentacules.jpg"

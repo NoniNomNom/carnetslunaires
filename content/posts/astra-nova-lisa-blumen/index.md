@@ -2,6 +2,8 @@
 title: 'Astra Nova - Lisa Blumen'
 date: 2026-07-04
 draft: false
+comments:
+    id: '3mpsrsvo23c2v'
 tags: ['Avis', 'Lisa Blumen', 'BD', 'SFFF', "L'employé du moi"]
 cover: 
     image: "astra_nova.png"

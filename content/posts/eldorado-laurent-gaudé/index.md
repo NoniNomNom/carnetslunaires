@@ -2,6 +2,8 @@
 title: 'Eldorado - Laurent Gaudé'
 date: 2026-04-07
 draft: false
+comments:
+    id: ''
 tags: ['Avis', 'Laurent Gaudé', 'Roman', 'Babel', 'Actes Sud', '26 en 2026']
 cover: 
     image: "eldorado.jpg"

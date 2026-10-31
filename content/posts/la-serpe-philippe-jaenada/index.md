@@ -2,6 +2,8 @@
 title: 'La serpe - Philippe Jaenada'
 date: 2026-10-07
 draft: false
+comments:
+    id: '3mxcdntwi4s2h'
 tags: ['Avis', 'Philippe Jaenada', 'Roman', 'Points', "Histoire"]
 cover: 
     image: "serpe.jpg"

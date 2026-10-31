@@ -2,6 +2,8 @@
 title: 'Notules (19) - Michèle Pedinielli, Alizée Delpierre'
 date: 2026-06-05
 draft: false
+comments:
+    id: '3mnkit7f62c2f'
 tags: ['Listes', 'Michèle Pedinielli', "L'Aube", 'Mikros', 'Polar', 'Alizée Delpierre', 'La Découverte', 'Essai']
 cover: 
     image: "multicouv.jpg"

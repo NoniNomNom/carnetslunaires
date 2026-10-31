@@ -2,6 +2,8 @@
 title: 'Royaume en péril - Thomas D. Lee'
 date: 2026-06-13
 draft: false
+comments:
+    id: '3mo63qpwxsk2b'
 tags: ['Avis', 'Thomas D. Lee', 'Roman', 'SFFF', 'Christian Bourgois Éditeur']
 cover: 
     image: "royaume.jpg"

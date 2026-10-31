@@ -2,6 +2,8 @@
 title: 'Un long voyage - Claire Duvivier'
 date: Sat, 31 Jul 2021 09:49:03 +0000
 draft: false
+comments:
+    id: ''
 tags: ['Avis', 'Claire Duvivier', 'Roman', 'SFFF', 'Aux Forges de Vulcain']
 cover: 
     image: "long-voyage.jpg"

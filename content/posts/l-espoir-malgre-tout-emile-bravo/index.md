@@ -2,6 +2,8 @@
 title: "L'espoir malgré tout - Emile Bravo"
 date: 2026-10-15
 draft: false
+comments:
+    id: '3mxvskujqbs2h'
 tags: ['Avis', 'Emile Bravo', 'BD', 'Histoire', 'Dupuis']
 cover: 
     image: "tome1.png"

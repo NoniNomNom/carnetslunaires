@@ -2,6 +2,8 @@
 title: 'Les fantômes du lac - Manon Gauthier-Faure'
 date: 2026-05-03
 draft: false
+comments:
+    id: ''
 tags: ['Avis', 'Manon Gauthier-Faure', 'Roman', 'SFFF', Marchialy]
 cover: 
     image: "couv-les-fantomes-du-lac.jpg"

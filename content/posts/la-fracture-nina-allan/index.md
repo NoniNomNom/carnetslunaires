@@ -2,6 +2,8 @@
 title: 'La fracture - Nina Allan'
 date: Sat, 02 Nov 2024 20:33:21 +0000
 draft: false
+comments:
+    id: ''
 tags: ['Avis', 'Nina Allan', 'Roman', 'SFFF', '10-18']
 cover: 
     image: "la_fracture.jpg"

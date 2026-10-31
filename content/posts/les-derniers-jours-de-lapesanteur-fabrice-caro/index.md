@@ -2,6 +2,8 @@
 title: "Les derniers jours de l'apesanteur - Fabrice Caro"
 date: 2026-09-02
 draft: false
+comments:
+    id: '3muk5hzh5ek2w'
 tags: ['Avis', 'Fabrice Caro', 'Roman', 'Gallimard', 'Sygne']
 cover: 
     image: "les_derniers_jours.jpg"

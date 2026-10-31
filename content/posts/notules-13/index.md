@@ -2,6 +2,8 @@
 title: 'Notules (13) - Violaine Lison, Sofia Samatar'
 date: 2026-02-28
 draft: false
+comments:
+    id: ''
 tags: ['Listes', '26 en 2026', 'Violaine Lison', 'Histoire', 'Esperluète Editions', 'Sofia Samatar', 'Argyll', 'RéciFs', 'SFFF', 'Roman', 'Novella']
 cover: 
     image: "multicouv.jpg"

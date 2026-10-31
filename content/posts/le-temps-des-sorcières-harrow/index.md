@@ -2,6 +2,8 @@
 title: 'Le temps des sorcières - Alix E. Harrow'
 date: 2025-12-13
 draft: false
+comments:
+    id: ''
 tags: ['Avis', 'Alix E. Harrow', 'Roman', 'SFFF', 'Le Livre de Poche', 'LGBT']
 cover: 
     image: "temps_sorcieres_couv.jpg"

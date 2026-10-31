@@ -2,6 +2,8 @@
 title: 'La mer de la tranquillité - Emily St. John Mandel'
 date: 2025-08-09
 draft: false
+comments:
+    id: ''
 tags: ['Avis', 'Emily St. John Mandel', 'Roman', 'SFFF']
 cover: 
     image: "mer-tranquillite-couv.jpg"

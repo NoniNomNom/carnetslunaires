@@ -2,6 +2,8 @@
 title: 'Sororités en révolution - Collectif'
 date: 2026-10-24
 draft: false
+comments:
+    id: '3mymagcx3ik2u'
 tags: ['Avis', 'Roman', 'SFFF', 'Goater', 'Ann VanderMeer', 'Jeff VanderMeer',  Angelica Gorodischer, Anne Richter, Carol Emshiwiller, Eleanor Arnason, Elisabeth Vonarburg, Hiromi Goto, Karin Tidbeck, Kelly Barnhill, Kelly Eskridge, Kit Reed, L. Timmel Duchamp, Leena Krohn, Leonora Carrington, M. Valente, Nalo Hopkinson, Nnedi Okorafor, Pamela Sergent, Rachel Swirsky, Rose B. Lemberg, Susan Palwick, Tanith Lee]
 cover: 
     image: "sororites.jpg"

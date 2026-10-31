@@ -2,6 +2,8 @@
 title: 'Un souvenir nommé empire - Arkady Martine'
 date: Thu, 17 Feb 2022 15:31:53 +0000
 draft: false
+comments:
+    id: ''
 tags: ['Arkady Martine', 'Avis', 'SFFF', 'Teixcalaan', 'Nouveaux Millénaires', 'LGBT']
 cover: 
     image: "souvenir-nomme-empire.jpg"

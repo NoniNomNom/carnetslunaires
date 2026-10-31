@@ -2,6 +2,8 @@
 title: 'Les Hygialogues de Ty Petersen - Saul Pandelakis'
 date: 2025-05-16
 draft: false
+comments:
+    id: ''
 tags: ['Avis', 'Saul Pandelakis', 'Roman', 'SFFF', 'Editions Goater', 'LGBT']
 cover: 
     image: "hygialogues_couv.jpg"

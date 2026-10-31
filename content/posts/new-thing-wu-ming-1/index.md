@@ -2,6 +2,8 @@
 title: 'New thing - Wu Ming 1'
 date: 2026-05-25
 draft: false
+comments:
+    id: '3mmoeenwlok2w'
 tags: ['Avis', 'Wu Ming 1', 'Wu Ming', 'Roman', 'Métailié', '26 en 2026']
 cover: 
     image: "new_thing.jpg"

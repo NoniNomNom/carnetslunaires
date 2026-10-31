@@ -2,6 +2,8 @@
 title: 'La Clémence des Dieux - James S. A. Corey'
 date: 2026-09-26
 draft: false
+comments:
+    id: '3mwfygxjo2k2s'
 tags: ['Avis', 'James S. A. Corey', 'Roman', 'SFFF', 'La Guerre des captifs', 'Actes Sud', 'Exofictions']
 cover: 
     image: "clemence.jpg"

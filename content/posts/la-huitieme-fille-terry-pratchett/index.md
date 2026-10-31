@@ -2,6 +2,8 @@
 title: 'La huitième fille - Terry Pratchett'
 date: 2026-08-09
 draft: false
+comments:
+    id: '3msnczbiwes2r'
 tags: ['Avis', 'Terry Pratchett', 'Roman', 'SFFF', 'Les Annales du Disque-monde', "L'Atalante"]
 cover: 
     image: "huitieme_fille.jpg"

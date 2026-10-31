@@ -2,6 +2,8 @@
 title: 'Notules (27) - Martine Desjardins, Katia Lanero Zamora'
 date: 2026-10-03
 draft: false
+comments:
+    id: '3mwxmj4fbws2s'
 tags: ['Listes', 'Roman', 'SFFF', 'Martine Desjardins', "L'Atalante", 'Neptune', 'Éditions ActuSF', 'Katia Lanero Zamora']
 cover: 
     image: "multicouv.jpg"

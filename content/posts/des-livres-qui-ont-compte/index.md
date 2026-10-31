@@ -2,6 +2,8 @@
 title: 'Des livres qui ont compté'
 date: Sat, 24 Apr 2021 09:36:38 +0000
 draft: false
+comments:
+    id: ''
 tags: ['Harry Potter', 'Hunter S. Thompson', 'J.K. Rowling', 'Listes', 'Nick Hornby', 'Non-fiction', 'Robin Klein', 'Roman', 'Sibylle Grimbert', Gallimard, 10-18, Flammarion, Castor Poche, Editions Léo Scheer, ]
 cover: 
     image: "haute-fidelite.jpg"

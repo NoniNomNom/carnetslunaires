@@ -2,6 +2,8 @@
 title: 'En juin, un polar (et le reste)'
 date: Thu, 01 Jul 2021 20:10:53 +0000
 draft: false
+comments:
+    id: ''
 tags: ['Au quotidien', 'Paco Ignacio Taibo II', 'Polar', 'Rivages-Noir', 'Roman', 'Thomas Gunzig']
 cover: 
     image: "la-vie-meme.jpg"

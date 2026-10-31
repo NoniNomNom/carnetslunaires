@@ -2,6 +2,8 @@
 title: "La Miséricorde de l'ancillaire - Ann Leckie"
 date: 2026-05-16
 draft: false
+comments:
+    id: '3mlxxlsl3gc2w'
 tags: ['Avis', 'Ann Leckie', 'Roman', 'SFFF', 'Chroniques du Radch', "J'ai lu", '26 en 2026', 'LGBT']
 cover: 
     image: "misericorde.jpg"

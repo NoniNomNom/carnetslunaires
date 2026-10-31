@@ -2,6 +2,8 @@
 title: 'Club de lecture - Insomnie'
 date: 2026-05-29
 draft: false
+comments:
+    id: '3mmycr33ddk2b'
 tags: ['Listes', 'Club de lecture', 'Marina & Sergueï Diatchenko', 'Roman', 'SFFF', "L'Atalante", 'Catherine Dufour', 'Seuil', 'Cadre Noir', 'Maëlle Reat', 'BD', 'Exemplaire']
 cover: 
     image: "multicouv.jpg"

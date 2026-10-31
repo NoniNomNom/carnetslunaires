@@ -2,6 +2,8 @@
 title: 'Fun Home - Alison Bechdel'
 date: 2025-11-15
 draft: false
+comments:
+    id: ''
 tags: ['Avis', 'Alison Bechdel', 'BD', 'Points', 'LGBT']
 cover: 
     image: "fun-home-couv.jpg"

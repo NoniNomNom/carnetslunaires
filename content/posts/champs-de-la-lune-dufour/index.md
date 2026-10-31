@@ -2,6 +2,8 @@
 title: 'Les Champs de la Lune - Catherine Dufour'
 date: 2025-03-16
 draft: false
+comments:
+    id: ''
 tags: ['Avis', 'Catherine Dufour', 'Roman', 'SFFF', 'Ailleurs et Demain', 'Robert Laffont']
 cover: 
     image: "champs_lune_couv.jpg"

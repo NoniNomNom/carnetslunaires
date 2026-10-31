@@ -2,6 +2,8 @@
 title: 'À dos de crocodile - Greg Egan'
 date: Sat, 02 Oct 2021 09:34:18 +0000
 draft: false
+comments:
+    id: ''
 tags: ['Avis', 'Greg Egan', 'Novella', 'SFFF', "Le Bélial'", 'Une Heure-Lumière']
 cover: 
     image: "dos-de-crocodile.jpg"

@@ -2,6 +2,8 @@
 title: 'Détruire tous les monstres - Grady Hendrix'
 date: 2026-06-18
 draft: false
+comments:
+    id: '3mol3rqcxf22h'
 tags: ['Avis', 'Grady Hendrix', 'Roman', 'SFFF', 'Pocket']
 cover: 
     image: "monstres_couv.jpg"

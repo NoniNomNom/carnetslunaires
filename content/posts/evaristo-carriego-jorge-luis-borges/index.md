@@ -2,6 +2,8 @@
 title: 'Evaristo Carriego - Jorge Luis Borges'
 date: Sat, 01 Jul 2023 11:45:53 +0000
 draft: false
+comments:
+    id: ''
 tags: ['Avis', 'Jorge Luis Borges', 'Non-fiction', 'SFFF', 'Points']
 cover: 
     image: "evaristocarriego.jpg"

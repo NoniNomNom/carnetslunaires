@@ -2,6 +2,8 @@
 title: 'Les monstres de Templeton - Lauren Groff'
 date: Sat, 10 Feb 2024 14:36:46 +0000
 draft: false
+comments:
+    id: ''
 tags: ['Avis', 'Lauren Groff', 'Roman', 'SFFF', 'Plon', 'Feux Croisés']
 cover: 
     image: "monstres_templeton.jpg"

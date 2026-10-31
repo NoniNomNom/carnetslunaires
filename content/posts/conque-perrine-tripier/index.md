@@ -2,6 +2,8 @@
 title: 'Conque - Perrine Tripier'
 date: 2026-07-25
 draft: false
+comments:
+    id: '3mrhnmptaw22q'
 tags: ['Avis', 'Perrine Tripier', 'Roman', 'SFFF', Folio]
 cover: 
     image: "conque.jpg"

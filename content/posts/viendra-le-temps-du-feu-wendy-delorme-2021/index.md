@@ -2,6 +2,8 @@
 title: 'Viendra le temps du feu - Wendy Delorme'
 date: Wed, 07 Apr 2021 15:29:22 +0000
 draft: false
+comments:
+    id: ''
 tags: ['Avis', 'Roman', 'SFFF', 'Wendy Delorme', 'Cambourakis']
 cover: 
     image: "wendy-delorme-viendra-le-temps-du-feu_couv.jpg"

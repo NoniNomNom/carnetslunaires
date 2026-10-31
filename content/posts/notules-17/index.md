@@ -2,6 +2,8 @@
 title: 'Notules (17) - Uketsu, Anaïs Lecoq'
 date: 2026-05-09
 draft: false
+comments:
+    id: '3mlfw5wvnis2v'
 tags: ['Listes', 'Uketsu', 'Polar', 'Points', 'SFFF', 'Anaïs Lecoq', 'Nouriturfu']
 cover: 
     image: "multicouv.jpg"

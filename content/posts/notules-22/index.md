@@ -2,6 +2,8 @@
 title: 'Notules (22) - Claire North, René Belletto'
 date: 2026-07-12
 draft: false
+comments:
+    id: '3mqgw7xwtvc2m'
 tags: ['Listes', 'Claire North', "Le Bélial'", "Une Heure-Lumière", 'René Belletto', 'Roman', 'SFFF', 'Folio', '26 en 2026']
 cover: 
     image: "multicouv.jpg"

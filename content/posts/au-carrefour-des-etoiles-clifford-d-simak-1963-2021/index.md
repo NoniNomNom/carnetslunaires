@@ -2,6 +2,8 @@
 title: 'Au carrefour des étoiles - Clifford D. Simak'
 date: Wed, 27 Oct 2021 12:55:46 +0000
 draft: false
+comments:
+    id: ''
 tags: ['Avis', 'Clifford D. Simak', 'Roman', 'SFFF', 'Nouveaux Millénaires']
 cover: 
     image: "au-carrefour-des-etoiles.jpg"

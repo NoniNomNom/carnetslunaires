@@ -2,6 +2,8 @@
 title: 'Please Kill Me - Legs McNeil, Gillian McCain'
 date: Wed, 21 Jul 2021 15:26:59 +0000
 draft: false
+comments:
+    id: ''
 tags: ['Avis', 'Gillian McCain', 'Legs McNeil', 'Musique', 'Non-fiction', 'Editions Allia']
 cover: 
     image: "please-kill-me.jpg"

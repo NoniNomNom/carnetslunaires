@@ -2,6 +2,8 @@
 title: 'Club de lecture - Folie'
 date: 2026-04-17
 draft: false
+comments:
+    id: ''
 tags: ['Listes', 'Club de lecture', 'Lydie Salvayre', 'Roman', 'Points', 'Céline Delbecq', 'Théâtre', 'Lansman Editeur', 'Lisa Mandel', 'BD', 'Exemplaire']
 cover: 
     image: "multicouv.jpg"

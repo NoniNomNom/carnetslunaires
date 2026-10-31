@@ -2,6 +2,8 @@
 title: 'Trois souvenirs SF'
 date: Sat, 08 May 2021 10:01:48 +0000
 draft: false
+comments:
+    id: ''
 tags: ['A.E. van Vogt', 'Catherine Dufour', 'Listes', 'Robert Charles Wilson', 'Roman', 'SFFF', "J'ai Lu", "Le Livre de Poche", "Folio SF"]
 cover: 
     image: "faune-de-lespace.jpg"

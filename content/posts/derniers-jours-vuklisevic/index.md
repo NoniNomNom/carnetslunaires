@@ -2,6 +2,8 @@
 title: "Derniers jours d'un monde oublié - Chris Vuklisevic"
 date: 2025-04-27
 draft: false
+comments:
+    id: ''
 tags: ['Avis', 'Chris Vuklisevic', 'Roman', 'SFFF', Folio SF]
 cover: 
     image: "derniers-jours-couv.jpg"

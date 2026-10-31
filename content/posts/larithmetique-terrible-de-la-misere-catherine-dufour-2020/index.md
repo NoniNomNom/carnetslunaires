@@ -2,6 +2,8 @@
 title: 'L''Arithmétique terrible de la misère - Catherine Dufour'
 date: Mon, 13 Sep 2021 14:38:19 +0000
 draft: false
+comments:
+    id: ''
 tags: ['Avis', 'Catherine Dufour', 'Nouvelles', 'SFFF', "Le Bélial'"]
 cover: 
     image: "arithmetique.jpg"

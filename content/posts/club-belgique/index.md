@@ -2,6 +2,8 @@
 title: 'Club de lecture - Belgique'
 date: 2026-07-21
 draft: false
+comments:
+    id: '3mr5nbckvb22f'
 tags: ['Listes', 'Club de lecture', 'Myriam Leroy', 'Seuil', 'Violaine Lison', 'Esperluète Editions', 'Eric Vuillard', 'Actes Sud', 'Babel', 'Histoire']
 cover: 
     image: "multicouv.jpg"

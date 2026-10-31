@@ -2,6 +2,8 @@
 title: 'Notules (2) - Tracy Chevalier, Antonio Scurati'
 date: 2025-06-07
 draft: false
+comments:
+    id: ''
 tags: ['Listes', 'Tracy Chevalier', 'Roman', Folio, Antonio Scurati, Les Arènes, Histoire]
 cover: 
     image: "notules2_multi_couv.jpg"

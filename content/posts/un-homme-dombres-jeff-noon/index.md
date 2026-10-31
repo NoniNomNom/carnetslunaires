@@ -2,6 +2,8 @@
 title: 'Un homme d''ombres - Jeff Noon'
 date: Fri, 16 Dec 2022 13:38:55 +0000
 draft: false
+comments:
+    id: ''
 tags: ['Avis', 'Jeff Noon', 'Roman', 'SFFF', 'La Volte']
 cover: 
     image: "un-homme-dombres.png"
