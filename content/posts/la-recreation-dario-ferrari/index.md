@@ -1,7 +1,7 @@
 ---
 title: 'La récréation est finie - Dario Ferrari'
 date: 2026-10-31
-draft: true
+draft: false
 tags: ['Avis', 'Dario Ferrari', 'Roman', 'Histoire', '10-18']
 cover: 
     image: "recreation.jpg"
