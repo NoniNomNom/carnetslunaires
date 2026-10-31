@@ -3,6 +3,8 @@ title: 'TITLE - NAME'
 date: 2000-03-03
 draft: true
 tags: ['Avis', 'NAME', 'Roman', 'SFFF']
+comments:
+    id: ''
 cover: 
     image: "IMAGE.jpg"
     hidden: true

@@ -3,6 +3,8 @@ title: 'Tintin au pays des fascistes - Sébastien Bourdon'
 date: 2026-10-16
 draft: true
 tags: ['Avis', 'Sébastien Bourdon', 'Essai', 'Divergences', 'Histoire']
+comments:
+    id: ''
 cover: 
     image: "tintin_fasciste.jpg"
     hidden: true

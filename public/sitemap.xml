@@ -3,12 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/carnetslunaires/tags/10-18/</loc>
-    <lastmod>2026-10-30T00:00:00+01:00</lastmod>
+    <lastmod>2026-10-31T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnetslunaires/tags/avis/</loc>
+    <lastmod>2026-10-31T00:00:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/carnetslunaires/</loc>
-    <lastmod>2026-10-30T00:00:00+01:00</lastmod>
+    <lastmod>2026-10-31T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnetslunaires/tags/dario-ferrari/</loc>
+    <lastmod>2026-10-31T00:00:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/carnetslunaires/tags/histoire/</loc>
+    <lastmod>2026-10-31T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnetslunaires/posts/la-recreation-dario-ferrari/</loc>
+    <lastmod>2026-10-31T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnetslunaires/posts/</loc>
+    <lastmod>2026-10-31T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnetslunaires/tags/roman/</loc>
+    <lastmod>2026-10-31T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnetslunaires/tags/</loc>
+    <lastmod>2026-10-31T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/carnetslunaires/tags/26-en-2026/</loc>
     <lastmod>2026-10-30T00:00:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/carnetslunaires/tags/liste/</loc>
@@ -20,22 +41,10 @@
     <loc>http://localhost:1313/carnetslunaires/posts/notules-28/</loc>
     <lastmod>2026-10-30T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/carnetslunaires/posts/</loc>
-    <lastmod>2026-10-30T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/carnetslunaires/tags/roman/</loc>
-    <lastmod>2026-10-30T00:00:00+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/carnetslunaires/tags/svetlana-alexievitch/</loc>
     <lastmod>2026-10-30T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/carnetslunaires/tags/</loc>
-    <lastmod>2026-10-30T00:00:00+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/carnetslunaires/tags/aux-forges-de-vulcain/</loc>
-    <lastmod>2026-10-27T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/carnetslunaires/tags/avis/</loc>
     <lastmod>2026-10-27T00:00:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/carnetslunaires/tags/claire-duvivier/</loc>
@@ -202,12 +211,6 @@
   </url><url>
     <loc>http://localhost:1313/carnetslunaires/tags/points/</loc>
     <lastmod>2026-10-07T00:00:00+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/carnetslunaires/tags/dario-ferrari/</loc>
-    <lastmod>2026-10-04T00:00:00+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/carnetslunaires/posts/la-recreation-dario-ferrari/</loc>
-    <lastmod>2026-10-04T00:00:00+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/carnetslunaires/tags/%C3%A9ditions-actusf/</loc>
     <lastmod>2026-10-03T00:00:00+02:00</lastmod>
@@ -460,9 +463,6 @@
   </url><url>
     <loc>http://localhost:1313/carnetslunaires/tags/lisa-blumen/</loc>
     <lastmod>2026-07-04T00:00:00+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/carnetslunaires/tags/26-en-2026/</loc>
-    <lastmod>2026-06-27T00:00:00+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/carnetslunaires/tags/eric-den%C3%A9c%C3%A9/</loc>
     <lastmod>2026-06-27T00:00:00+02:00</lastmod>

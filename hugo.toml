@@ -41,3 +41,5 @@ home = ["HTML", "RSS", "JSON"]
     minMatchCharLength = 0
     # limit = 10 # refer: https://www.fusejs.io/api/methods.html#search
     keys = ["title", "content"]    
+  [params.article]
+    bluesky = "noninomnom.bsky.social"

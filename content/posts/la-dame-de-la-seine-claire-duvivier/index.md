@@ -3,6 +3,8 @@ title: 'La Dame de la Seine - Claire Duvivier'
 date: 2026-10-27
 draft: true
 tags: ['Avis', 'Claire Duvivier', 'Roman', 'SFFF', 'Histoire', 'Aux Forges de Vulcain']
+comments:
+    id: ''
 cover: 
     image: "ladame.jpg"
     hidden: true
