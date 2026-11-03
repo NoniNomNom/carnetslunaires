@@ -3,7 +3,7 @@ title: "L'histoire de Mother Naked - Glen James Brown"
 date: 2026-03-20
 draft: false
 comments:
-    id: ''
+    id: '3mhiditvr2c25'
 tags: ['Avis', 'Glen James Brown', 'Roman', 'SFFF', 'Les éditions du typhon']
 cover: 
     image: "couv_mother.jpg"

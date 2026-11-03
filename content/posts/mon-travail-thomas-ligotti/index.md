@@ -3,7 +3,7 @@ title: "Mon travail n'est pas terminé - Thomas Ligotti"
 date: 2026-04-10
 draft: false
 comments:
-    id: ''
+    id: '3mj574q3iw22x'
 tags: ['Avis', 'Thomas Ligotti', 'Roman', 'SFFF', 'Rivages']
 cover: 
     image: "mon_travail_couv.jpg"

@@ -3,7 +3,7 @@ title: 'Un regard sur 2016'
 date: 2026-01-21
 draft: false
 comments:
-    id: ''
+    id: '3mdechsqhq72a'
 tags: ['Listes', 'SFFF', 'Iain M. Banks', 'Walter M. Miller', 'Kim Stanley Robinson', "Daniel O'Malley", 'Jacqueline Harpman', 'William Kotzwinkle', 'David Foster Wallace', 'Michael Herr', 'Hunter S. Thompson']
 cover: 
     image: "multicouv.jpg"

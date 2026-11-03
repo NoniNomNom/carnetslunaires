@@ -3,7 +3,7 @@ title: 'Notules (15) - Sabrina Calvo, Collectif'
 date: 2026-03-27
 draft: false
 comments:
-    id: ''
+    id: '3mhzyq6zfdk2h'
 tags: ['Listes', 'Roman', 'SFFF', 'Sabrina Calvo', 'Folio SF', '26 en 2026', 'Cambourakis', 'Poésie', 'LGBT']
 cover: 
     image: "multicouv.jpg"

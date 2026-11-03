@@ -3,7 +3,7 @@ title: 'Notules (10) - Ray Nayler, Céline Minard'
 date: 2025-11-01
 draft: false
 comments:
-    id: ''
+    id: '3m4kzjyk3422b'
 tags: ['Listes', "Le Bélial'", "Une Heure-Lumière", 'Novella', 'Ray Nayler', 'Nouvelles', 'Céline Minard', 'Rivages', 'SFFF']
 cover: 
     image: "multicouv.jpg"

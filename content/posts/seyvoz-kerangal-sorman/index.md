@@ -3,7 +3,7 @@ title: 'Seyvoz - Maylis de Kerangal & Joy Sorman'
 date: 2026-03-30
 draft: false
 comments:
-    id: ''
+    id: '3mibcjcwcmc2q'
 tags: ['Avis', '26 en 2026', 'Maylis de Kerangal', 'Joy Sorman', 'Actes Sud', 'Inculte', 'Roman', 'SFFF']
 cover: 
     image: "seyvoz_couv.jpg"

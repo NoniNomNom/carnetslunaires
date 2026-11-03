@@ -3,7 +3,7 @@ title: 'Des gens qui regardent des gens - Sid'
 date: 2026-02-21
 draft: false
 comments:
-    id: ''
+    id: '3mfehqoyusk2u'
 tags: ['Avis', 'Sid', 'BD', 'Exemplaire']
 cover: 
     image: "des_gens_couv.jpg"

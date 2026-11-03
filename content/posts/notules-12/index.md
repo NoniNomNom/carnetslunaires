@@ -3,7 +3,7 @@ title: 'Notules (12) - Karim Madani, Cassandra Khaw'
 date: 2026-02-07
 draft: false
 comments:
-    id: ''
+    id: '3meb6yu5ed225'
 tags: ['Listes', '26 en 2026', 'Karim Madani', 'Marchialy', 'Non-fiction', 'SFFF', 'Cassandra Khaw', 'Argyll', 'RéciFs', 'Novella']
 cover: 
     image: "multicouv.jpg"

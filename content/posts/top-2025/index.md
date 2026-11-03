@@ -3,7 +3,7 @@ title: 'Top lectures de 2025'
 date: 2025-12-30
 draft: false
 comments:
-    id: ''
+    id: '3mb7jdoi5vw2a'
 tags: ['Listes', 'Catherine Dufour', 'Martin Mongin', 'Wu Ming', 'Phoebe Hadjimarkos Clarke', 'Nina Allan', 'Valentina Tanni', 'Capucine Delattre', 'Léa Murawiec', 'Zoe Thorogood', 'Keigo Shinzo', 'Roman', 'Essai', 'BD', 'SFFF', 'Ailleurs Et Demain', 'Robert Laffont', 'Tusitalia', 'Métailié', 'Editions Du Sous-Sol', '10-18', 'Audimat Éditions', 'La Ville Brûle', 'Editions 2042', 'HiComics', 'Le Lézard Noir']
 cover: 
     image: "multicouv.jpg"

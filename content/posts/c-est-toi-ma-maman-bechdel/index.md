@@ -3,7 +3,7 @@ title: "C'est toi ma maman ? - Alison Bechdel"
 date: 2026-03-04
 draft: false
 comments:
-    id: ''
+    id: '3mgaydkest223'
 tags: ['Avis', 'Alison Bechdel', 'BD', 'Points', 'LGBT']
 cover: 
     image: "bechdel_maman.jpg"

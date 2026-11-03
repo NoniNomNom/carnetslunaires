@@ -3,7 +3,7 @@ title: 'Notules (16) - Maya Kandel, David Grann'
 date: 2026-04-30
 draft: false
 comments:
-    id: ''
+    id: '3mkpzedhdzk2i'
 tags: ['Listes', 'Essai', 'Maya Kandel', 'Gallimard', 'David Grann', 'Points', 'Récit', 'Histoire']
 cover: 
     image: "multicouv.jpg"

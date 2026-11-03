@@ -3,7 +3,7 @@ title: 'Old Skies - Wadjet Eye Games'
 date: 2025-11-08
 draft: false
 comments:
-    id: ''
+    id: '3m54k5seivi2a'
 tags: ['Avis', 'Jeu vidéo', 'SFFF', 'Wadjet Eye Games', 'Dave Gilbert', 'LGBT']
 cover: 
     image: "oldskies-vertical.png"

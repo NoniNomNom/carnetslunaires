@@ -3,7 +3,7 @@ title: 'Éducation meurtrière - Naomi Novik'
 date: 2026-01-31
 draft: false
 comments:
-    id: ''
+    id: '3mdq2qf43ws2l'
 tags: ['Avis', 'Naomi Novik', 'Scholomance', "J'ai lu", 'SFFF', '26 en 2026']
 cover: 
     image: "scholomance.jpg"

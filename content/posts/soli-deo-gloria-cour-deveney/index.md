@@ -3,7 +3,7 @@ title: 'Soli Deo Gloria - Cour, Deveney'
 date: 2026-01-24
 draft: false
 comments:
-    id: ''
+    id: '3me53sgkpte2c'
 tags: ['Avis', 'Edouard Cour', 'Jean-Christophe Deveney', 'BD', 'Dupuis', 'Histoire', 'Musique']
 cover: 
     image: "solideogloria.jpg"
