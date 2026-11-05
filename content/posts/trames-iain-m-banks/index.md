@@ -3,7 +3,7 @@ title: 'Trames - Iain M. Banks'
 date: Sun, 29 Jan 2023 12:03:37 +0000
 draft: false
 comments:
-    id: ''
+    id: '3mzgij5sv5c2y'
 tags: ['Avis', 'Culture (cycle)', 'Iain M. Banks', 'Roman', 'SFFF', 'Le Livre de Poche']
 cover: 
     image: "trames.jpeg"

@@ -3,7 +3,7 @@ title: 'Les Variations Sebastian - Emily St. John Mandel'
 date: Sat, 21 Sep 2024 18:09:55 +0000
 draft: false
 comments:
-    id: ''
+    id: '3mzgij5sv5c2y'
 tags: ['Avis', 'Emily St. John Mandel', 'Polar', 'Roman', 'SFFF', 'Rivages-Noir']
 cover: 
     image: "variations-sebastian-1.jpg"

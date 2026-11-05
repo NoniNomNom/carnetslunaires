@@ -4,7 +4,7 @@ date: 2026-10-12
 draft: true
 tags: ['Listes', 'Esmée Dubois', '1115', 'SFFF', 'Novella']
 comments:
-    id: ''
+    id: '3mzgij5sv5c2y'
 cover: 
     image: "traduction_rose.jpg"
     hidden: true

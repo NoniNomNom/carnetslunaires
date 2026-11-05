@@ -3,7 +3,7 @@ title: 'Voyage dans l''Empire Mongol - Guillaume de Rubrouck'
 date: Tue, 18 Jan 2022 11:13:21 +0000
 draft: false
 comments:
-    id: ''
+    id: '3mzgij5sv5c2y'
 tags: ['Avis', 'Guillaume de Rubrouck', 'Récit', 'Histoire', 'Non-fiction', 'Petite Bibliothèque Payot']
 cover: 
     image: "voyage-dans-l-empire-mongol.jpg"

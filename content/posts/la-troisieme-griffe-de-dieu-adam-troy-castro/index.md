@@ -3,7 +3,7 @@ title: 'La troisième griffe de Dieu - Adam-Troy Castro'
 date: Sun, 18 Sep 2022 18:55:48 +0000
 draft: false
 comments:
-    id: ''
+    id: '3mzgij5sv5c2y'
 tags: ['Adam-Troy Castro', 'Andrea Cort', 'Avis', 'Roman', 'SFFF', 'Albin Michel Imaginaire']
 cover: 
     image: "troisiemegriffe.jpg"

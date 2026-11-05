@@ -3,7 +3,7 @@ title: 'Notules (7) - Philippe Jaenada, Teffi'
 date: 2025-09-15
 draft: false
 comments:
-    id: ''
+    id: '3mzgij5sv5c2y'
 tags: ['Listes', 'Philippe Jaenada', 'Roman', 'Teffi', 'Récit', 'Autobiographie', 'Éditions des Syrtes']
 cover: 
     image: "multicouv.jpg"

@@ -3,7 +3,7 @@ title: 'Le grand vide - Léa Murawiec'
 date: 2025-04-19
 draft: false
 comments:
-    id: ''
+    id: '3mzgij5sv5c2y'
 tags: ['Avis', 'Léa Murawiec', 'BD', 'SFFF', Editions 2042]
 cover: 
     image: "grandvide_couv.jpg"
