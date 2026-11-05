@@ -3,7 +3,7 @@ title: 'L''hôtel de verre - Emily St. John Mandel'
 date: Sat, 03 Sep 2022 13:40:42 +0000
 draft: false
 comments:
-    id: ''
+    id: '3mzgij5sv5c2y'
 tags: ['Avis', 'Emily St. John Mandel', 'SFFF', 'Rivages-Noir']
 cover: 
     image: "hoteldeverre.jpg"

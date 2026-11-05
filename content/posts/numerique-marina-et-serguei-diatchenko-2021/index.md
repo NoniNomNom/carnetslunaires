@@ -3,7 +3,7 @@ title: 'Numérique - Marina & Sergueï Diatchenko'
 date: Sat, 19 Jun 2021 09:26:34 +0000
 draft: false
 comments:
-    id: ''
+    id: '3mzgij5sv5c2y'
 tags: ['Avis', 'Les métamorphoses', 'Marina & Sergueï Diatchenko', 'Roman', 'SFFF', "L'Atalante"]
 cover: 
     image: "numerique.jpg"

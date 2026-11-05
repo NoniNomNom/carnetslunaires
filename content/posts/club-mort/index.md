@@ -3,7 +3,7 @@ title: 'Club de lecture - Mort'
 date: 2026-10-11
 draft: false
 comments:
-    id: ''
+    id: '3mzgij5sv5c2y'
 tags: ['Listes', 'Club de lecture', ]
 cover: 
     image: "multicouv.jpg"

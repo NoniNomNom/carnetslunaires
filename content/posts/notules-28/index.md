@@ -4,7 +4,7 @@ date: 2026-10-30
 draft: true
 tags: ['Liste', 'Maylis De Kerangal', 'Roman', 'Svetlana Alexievitch', '10-18', 'Histoire', '26 en 2026']
 comments:
-    id: ''
+    id: '3mzgij5sv5c2y'
 cover: 
     image: "multicouv.jpg"
     hidden: true

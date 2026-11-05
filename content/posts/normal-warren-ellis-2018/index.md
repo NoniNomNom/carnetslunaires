@@ -3,7 +3,7 @@ title: 'Normal - Warren Ellis'
 date: Wed, 19 Aug 2020 20:11:00 +0000
 draft: false
 comments:
-    id: ''
+    id: '3mzgij5sv5c2y'
 tags: ['Avis', 'Roman', 'SFFF', 'Warren Ellis', 'Le Livre de Poche']
 cover: 
     image: "normal-1.jpeg"

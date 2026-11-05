@@ -3,7 +3,7 @@ title: 'Une désolation nommée paix - Arkady Martine'
 date: Wed, 24 Aug 2022 16:51:24 +0000
 draft: false
 comments:
-    id: ''
+    id: '3mzgij5sv5c2y'
 tags: ['Arkady Martine', 'Avis', 'Roman', 'SFFF', 'Teixcalaan', 'Nouveaux Millénaires', 'LGBT']
 cover: 
     image: "desolationpaix.jpg"
