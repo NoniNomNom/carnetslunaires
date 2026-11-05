@@ -3,7 +3,7 @@ title: 'La Séquence Aardtman - Saul Pandelakis'
 date: Sun, 21 May 2023 14:08:54 +0000
 draft: false
 comments:
-    id: '3mzgij5sv5c2y'
+    id: ''
 tags: ['Avis', 'Roman', 'Saul Pandelakis', 'SFFF', 'Hélios', 'LGBT']
 cover: 
     image: "aardtman.jpg"

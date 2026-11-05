@@ -3,7 +3,7 @@ title: 'Gideon la Neuvième - Tamsyn Muir'
 date: Sun, 06 Aug 2023 10:36:10 +0000
 draft: false
 comments:
-    id: '3mzgij5sv5c2y'
+    id: ''
 tags: ['Avis', 'Le Tombeau scellé', 'Roman', 'SFFF', 'Tamsyn Muir', 'Actes Sud', 'Exofictions', 'LGBT']
 cover: 
     image: "gideon.jpg"

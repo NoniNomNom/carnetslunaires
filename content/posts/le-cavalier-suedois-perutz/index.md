@@ -3,7 +3,7 @@ title: 'Le cavalier suédois - Leo Perutz'
 date: 2025-09-28
 draft: false
 comments:
-    id: '3mzgij5sv5c2y'
+    id: ''
 tags: ['Avis', 'Leo Perutz', 'Roman', 'Libretto', 'SFFF']
 cover: 
     image: "cavalier-suedois.jpg"

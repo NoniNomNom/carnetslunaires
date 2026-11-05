@@ -3,7 +3,7 @@ title: 'Les flibustiers de la mer chimique - Marguerite Imbert'
 date: Sun, 03 Dec 2023 11:28:35 +0000
 draft: false
 comments:
-    id: '3mzgij5sv5c2y'
+    id: ''
 tags: ['Avis', 'Marguerite Imbert', 'Roman', 'SFFF', 'Albin Michel Imaginaire']
 cover: 
     image: "flibustiers.jpg"

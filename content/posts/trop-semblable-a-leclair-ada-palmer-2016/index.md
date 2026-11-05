@@ -3,7 +3,7 @@ title: 'Trop semblable à l’éclair - Ada Palmer'
 date: Thu, 20 Aug 2020 20:22:00 +0000
 draft: false
 comments:
-    id: '3mzgij5sv5c2y'
+    id: ''
 tags: ['Ada Palmer', 'Avis', 'Roman', 'SFFF', 'Terra Ignota', "Le Bélial'"]
 cover: 
     image: "trop-semblable-a-leclair.jpg"

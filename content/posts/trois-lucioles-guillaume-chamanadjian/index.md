@@ -3,7 +3,7 @@ title: 'Trois Lucioles - Guillaume Chamanadjian'
 date: Mon, 01 May 2023 07:55:00 +0000
 draft: false
 comments:
-    id: '3mzgij5sv5c2y'
+    id: ''
 tags: ['Avis', 'Capitale du Sud', 'Guillaume Chamanadjian', 'La tour de garde', 'Roman', 'SFFF', 'Aux Forges de Vulcain']
 cover: 
     image: "troislucioles.jpeg"

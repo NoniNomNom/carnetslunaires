@@ -4,7 +4,7 @@ date: 2026-10-27
 draft: true
 tags: ['Avis', 'Claire Duvivier', 'Roman', 'SFFF', 'Histoire', 'Aux Forges de Vulcain']
 comments:
-    id: '3mzgij5sv5c2y'
+    id: ''
 cover: 
     image: "ladame.jpg"
     hidden: true

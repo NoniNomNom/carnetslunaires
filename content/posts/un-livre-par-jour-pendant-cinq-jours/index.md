@@ -3,7 +3,7 @@ title: 'Un livre par jour pendant cinq jours'
 date: Thu, 30 Apr 2020 10:49:00 +0000
 draft: false
 comments:
-    id: '3mzgij5sv5c2y'
+    id: ''
 tags: ['Catherine Dufour', 'Les Annales du Disque-monde', 'Jacqueline Harpman', 'Kij Johnson', 'Listes', 'Non-fiction', 'Novella', 'Roman', 'SFFF', 'Svetlana Alexievitch', 'Terry Pratchett', 'Une Heure-Lumière', Actes Sud, Babel, Le Livre de Poche, L'Atalante, Folio SF, Le Bélial']
 cover: 
     image: "outrage-et-rebellion.jpg"

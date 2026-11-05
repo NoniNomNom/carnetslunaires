@@ -3,7 +3,7 @@ title: 'Citadins de demain - Claire Duvivier'
 date: Sun, 08 May 2022 08:01:52 +0000
 draft: false
 comments:
-    id: '3mzgij5sv5c2y'
+    id: ''
 tags: ['Avis', 'Capitale du Nord', 'Claire Duvivier', 'Guillaume Chamanadjian', 'La tour de garde', 'Roman', 'SFFF', 'Aux Forges de Vulcain']
 cover: 
     image: "citadins-de-demain.jpg"

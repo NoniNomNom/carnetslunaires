@@ -3,7 +3,7 @@ title: 'Inside - Bo Burnham'
 date: Thu, 15 Jul 2021 15:47:26 +0000
 draft: false
 comments:
-    id: '3mzgij5sv5c2y'
+    id: ''
 tags: ['Avis', 'Bo Burnham', 'Stand-Up', Netflix]
 cover: 
     image: "bo-burnham-inside.jpg"

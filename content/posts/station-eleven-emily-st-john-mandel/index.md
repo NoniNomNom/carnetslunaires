@@ -3,7 +3,7 @@ title: 'Station Eleven - Emily St. John Mandel'
 date: Sat, 06 Apr 2024 07:32:43 +0000
 draft: false
 comments:
-    id: '3mzgij5sv5c2y'
+    id: ''
 tags: ['Avis', 'Emily St. John Mandel', 'Roman', 'SFFF', 'Le Livre de Poche']
 cover: 
     image: "stationeleven.jpg"

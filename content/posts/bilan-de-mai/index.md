@@ -3,7 +3,7 @@ title: 'Bilan de mai'
 date: Fri, 04 Jun 2021 16:27:26 +0000
 draft: false
 comments:
-    id: '3mzgij5sv5c2y'
+    id: ''
 tags: ['Au quotidien', 'Jake Adelstein', 'Non-fiction', 'Points', 'Rivers Solomon', "J'ai lu", 'SFFF']
 cover: 
     image: "lincivilite-des-fantomes.jpg"

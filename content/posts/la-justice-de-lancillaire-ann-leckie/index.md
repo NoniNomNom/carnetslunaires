@@ -3,7 +3,7 @@ title: 'La Justice de l''ancillaire - Ann Leckie'
 date: Sun, 02 Apr 2023 14:26:43 +0000
 draft: false
 comments:
-    id: '3mzgij5sv5c2y'
+    id: ''
 tags: ['Ann Leckie', 'Avis', 'Chroniques du Radch', 'Roman', 'SFFF', 'Nouveaux Millénaires', 'LGBT']
 cover: 
     image: "justice-ancillaire.jpg"

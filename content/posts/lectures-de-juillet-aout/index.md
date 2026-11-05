@@ -3,7 +3,7 @@ title: 'Lectures de juillet-août'
 date: Thu, 02 Sep 2021 10:09:00 +0000
 draft: false
 comments:
-    id: '3mzgij5sv5c2y'
+    id: ''
 tags: ['Au quotidien', 'Joan Didion', 'Judith Duportail', 'Non-fiction', 'P. Djèlí Clark', 'Roman', 'Semiosis', 'SFFF', L'Atalante, Albin Michel Imaginaire, Editions de l'Observatoire, Grasset]
 cover: 
     image: "sud_et_ouest.jpg"

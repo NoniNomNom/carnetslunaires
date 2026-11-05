@@ -3,7 +3,7 @@ title: 'L''enfant de poussière - Patrick Dewdney'
 date: Fri, 27 Aug 2021 13:30:53 +0000
 draft: false
 comments:
-    id: '3mzgij5sv5c2y'
+    id: ''
 tags: ['Avis', 'Cycle de Syffe', 'Patrick Dewdney', 'Roman', 'SFFF', 'Au diable vauvert']
 cover: 
     image: "enfant-de-poussiere.jpg"

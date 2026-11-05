@@ -3,7 +3,7 @@ title: 'Expiration - Ted Chiang'
 date: Sat, 08 Jan 2022 18:27:32 +0000
 draft: false
 comments:
-    id: '3mzgij5sv5c2y'
+    id: ''
 tags: ['Avis', 'Nouvelles', 'SFFF', 'Ted Chiang', 'Denoël', "Lunes d'encre"]
 cover: 
     image: "expiration_cover.jpg"

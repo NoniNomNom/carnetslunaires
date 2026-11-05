@@ -3,7 +3,7 @@ title: 'Au bal des absents - Catherine Dufour'
 date: Sun, 29 Nov 2020 11:22:00 +0000
 draft: false
 comments:
-    id: '3mzgij5sv5c2y'
+    id: ''
 tags: ['Avis', 'Catherine Dufour', 'Roman', 'SFFF', 'Seuil', 'Cadre Noir']
 cover: 
     image: "au_bal_des_absents.jpg"
