@@ -165,7 +165,7 @@ Le roman débute par le retour de Willie Upton dans sa petite bourgade natale, f
 <div class="article-content">
   <h4>Commentaires</h4>
   <p>
-      <a class="button-link" href="https://bsky.app/profile/noninomnom.bsky.social/post/"
+      <a class="button-link" href="https://bsky.app/profile/noninomnom.bsky.social/post/3mzgij5sv5c2y"
           target="_blank">Utilisez Bluesky en cliquant ici pour répondre à ce billet.</a>
   </p>
   <div id="bluesky-comments-list"></div>
@@ -177,7 +177,7 @@ Le roman débute par le retour de Willie Upton dans sa petite bourgade natale, f
       const commentList = document.getElementById('bluesky-comments-list');
       commentList.innerHTML = "Loading comments...";
 
-      fetch(`https://public.api.bsky.app/xrpc/app.bsky.feed.getPostThread?uri=at://noninomnom.bsky.social/app.bsky.feed.post/&depth=10`)
+      fetch(`https://public.api.bsky.app/xrpc/app.bsky.feed.getPostThread?uri=at://noninomnom.bsky.social/app.bsky.feed.post/3mzgij5sv5c2y&depth=10`)
           .then(response => response.json())
           .then(data => {
               const replies = data.thread.replies || [];
