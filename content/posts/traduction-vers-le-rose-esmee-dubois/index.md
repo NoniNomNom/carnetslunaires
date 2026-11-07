@@ -1,7 +1,7 @@
 ---
 title: 'Traduction vers le rose - Esmée Dubois'
 date: 2026-11-07
-draft: true
+draft: false
 tags: ['Listes', 'Esmée Dubois', '1115', 'SFFF', 'Novella']
 comments:
     id: '3mzgij5sv5c2y'
