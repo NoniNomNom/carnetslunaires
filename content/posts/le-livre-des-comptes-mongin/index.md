@@ -3,7 +3,7 @@ title: 'Le Livre des comptes - Martin Mongin'
 date: 2025-07-26
 draft: false
 comments:
-    id: '3mzgij5sv5c2y'
+    id: '3luum5b7fy32k'
 tags: ['Avis', 'Martin Mongin', 'Roman', 'SFFF', 'Tusitalia']
 cover: 
     image: "livre_comptes_couv.jpg"

@@ -3,7 +3,7 @@ title: 'La fracture - Nina Allan'
 date: Sat, 02 Nov 2024 20:33:21 +0000
 draft: false
 comments:
-    id: '3mzgij5sv5c2y'
+    id: '3mzsbrpioj222'
 tags: ['Avis', 'Nina Allan', 'Roman', 'SFFF', '10-18']
 cover: 
     image: "la_fracture.jpg"
@@ -21,4 +21,4 @@ Il y a plein de façons d'imaginer un récit de retrouvailles, mais c'est peu di
 
 Plus bizarre que malaisant, ce roman de Nina Allan très ancré dans l'imaginaire est (évidemment) formidable.
 
-_Titre original :_ The Rift / _Sortie originale (anglais) :_ 2017 / _Version française : 2019 (traduction :_ Bernard Sigaud_)_
+*Titre original : The Rift / Sortie originale (anglais) : 2017 / Version française : 2019 (traduction : Bernard Sigaud)*
