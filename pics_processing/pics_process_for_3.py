@@ -1,10 +1,10 @@
 from PIL import Image, ImageDraw
 
-name = "club-couleurs"
+name = "club-mort"
 
-book1 = "/traduction_rose.jpg"
-book2 = "/fin_de_homme_rouge.jpg"
-book3 = "/piscine.jpg"
+book1 = "/liliana.jpg"
+book2 = "/lumiere.jpg"
+book3 = "/ossements_morts.jpg"
 
 # Paths to your two images
 image1_path = "C:/Users/devos/carnetslunaires/content/posts/" + name + book1
