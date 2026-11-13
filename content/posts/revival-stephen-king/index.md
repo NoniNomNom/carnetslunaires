@@ -24,4 +24,4 @@ Et l'horreur, dans tout ça ? En fait, c'est ce qui m'a le plus surpris. L'essen
 *Titre original : Revival / Sortie originale (anglais) : 2014 / Version française : 2015 (traduction : Nadine Gassie, Océane Bies)*
 
 Image : [multiples éclairs en Pologne, août 2020](https://en.wikipedia.org/wiki/Lightning#/media/File:Lighting_barrage.jpg)
-
+<!-- Static Electricity - King Gizzard -->

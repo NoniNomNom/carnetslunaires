@@ -4,7 +4,7 @@ date: 2025-04-19
 draft: false
 comments:
     id: '3ln6erlzwaq2s'
-tags: ['Avis', 'Léa Murawiec', 'BD', 'SFFF', Editions 2042]
+tags: ['Avis', 'Léa Murawiec', 'BD', 'SFFF', 'Éditions 2042']
 cover: 
     image: "grandvide_couv.jpg"
     hidden: true
