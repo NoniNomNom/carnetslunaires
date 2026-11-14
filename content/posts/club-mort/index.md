@@ -3,7 +3,7 @@ title: 'Club de lecture - Mort'
 date: 2026-11-14
 draft: false
 comments:
-    id: '3mzgij5sv5c2y'
+    id: '3n2bbwp6sg22l'
 tags: ['Listes', 'Club de lecture', 'Nino Haratiscwhili', "Roman", "Gallimard", "Du Monde Entier", 'Cristina Rivera Garza', 'Non-Fiction', 'Christian Bourgois Éditeur', 'Olga Tokarczuk', 'Libretto', 'SFFF']
 cover: 
     image: "multicouv.jpg"
