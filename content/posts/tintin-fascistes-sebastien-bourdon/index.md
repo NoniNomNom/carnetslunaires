@@ -4,7 +4,7 @@ date: 2026-11-18
 draft: false
 tags: ['Avis', 'Sébastien Bourdon', 'Essai', 'Divergences', 'Histoire']
 comments:
-    id: '3mzgij5sv5c2y'
+    id: '3n2m3t75mq22l'
 cover: 
     image: "tintin_fasciste.jpg"
     hidden: true
