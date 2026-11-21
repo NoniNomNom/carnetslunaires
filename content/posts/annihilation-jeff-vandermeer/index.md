@@ -3,7 +3,7 @@ title: 'Annihilation - Jeff VanderMeer'
 date: Sat, 08 Apr 2023 09:42:08 +0000
 draft: false
 comments:
-    id: '3mzgij5sv5c2y'
+    id: '3n2sytaxn322w'
 tags: ['Avis', 'Jeff VanderMeer', 'La trilogie du rempart sud', 'Roman', 'SFFF', 'Le Livre de Poche']
 cover: 
     image: "annihilation.jpg"
