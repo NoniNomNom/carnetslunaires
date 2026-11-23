@@ -177,10 +177,17 @@ Ce qui frappe d&rsquo;emblée, c&rsquo;est que nous avons ici affaire à un titr
       fetch(`https://public.api.bsky.app/xrpc/app.bsky.feed.getPostThread?uri=at://noninomnom.bsky.social/app.bsky.feed.post/3ll2obf2pps2i&depth=10`)
           .then(response => response.json())
           .then(data => {
-              const replies = data.thread.replies || [];
-              replies.sort((a, b) => new Date(a.post.record.createdAt) - new Date(b.post.record.createdAt)); 
+            if (!data.thread || !data.thread.post) throw new Error("Thread introuvable");
 
-              commentList.innerHTML = ""; 
+            
+            const prepareThread = node => {
+                node.replies = (node.replies || []).filter(r => r.post && r.post.record);
+                node.replies.sort((a, b) => new Date(a.post.record.createdAt) - new Date(b.post.record.createdAt));
+                node.replies.forEach(prepareThread);
+            };
+            prepareThread(data.thread);
+
+            commentList.innerHTML = ""; 
 
               const renderComments = (comments, parentElement) => {
                   comments.forEach(reply => {
@@ -274,7 +281,7 @@ Ce qui frappe d&rsquo;emblée, c&rsquo;est que nous avons ici affaire à un titr
                   });
               };
 
-              renderComments(replies, commentList);
+                renderComments([data.thread], commentList); 
           })
           .catch(error => {
               console.error("Error fetching comments:", error);

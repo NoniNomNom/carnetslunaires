@@ -175,10 +175,17 @@ Après son premier roman Ironopolis sur lequel je lorgne depuis quelques temps, 
       fetch(`https://public.api.bsky.app/xrpc/app.bsky.feed.getPostThread?uri=at://noninomnom.bsky.social/app.bsky.feed.post/3mhiditvr2c25&depth=10`)
           .then(response => response.json())
           .then(data => {
-              const replies = data.thread.replies || [];
-              replies.sort((a, b) => new Date(a.post.record.createdAt) - new Date(b.post.record.createdAt)); 
+            if (!data.thread || !data.thread.post) throw new Error("Thread introuvable");
 
-              commentList.innerHTML = ""; 
+            
+            const prepareThread = node => {
+                node.replies = (node.replies || []).filter(r => r.post && r.post.record);
+                node.replies.sort((a, b) => new Date(a.post.record.createdAt) - new Date(b.post.record.createdAt));
+                node.replies.forEach(prepareThread);
+            };
+            prepareThread(data.thread);
+
+            commentList.innerHTML = ""; 
 
               const renderComments = (comments, parentElement) => {
                   comments.forEach(reply => {
@@ -272,7 +279,7 @@ Après son premier roman Ironopolis sur lequel je lorgne depuis quelques temps, 
                   });
               };
 
-              renderComments(replies, commentList);
+                renderComments([data.thread], commentList); 
           })
           .catch(error => {
               console.error("Error fetching comments:", error);

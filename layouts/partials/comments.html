@@ -17,10 +17,17 @@
       fetch(`https://public.api.bsky.app/xrpc/app.bsky.feed.getPostThread?uri=at://{{ .Site.Params.article.bluesky }}/app.bsky.feed.post/{{ .Params.comments.id }}&depth=10`)
           .then(response => response.json())
           .then(data => {
-              const replies = data.thread.replies || [];
-              replies.sort((a, b) => new Date(a.post.record.createdAt) - new Date(b.post.record.createdAt)); // Sort by date
+            if (!data.thread || !data.thread.post) throw new Error("Thread introuvable");
 
-              commentList.innerHTML = ""; // Clear loading text
+            // Tri chronologique à tous les niveaux, en écartant les posts bloqués ou supprimés
+            const prepareThread = node => {
+                node.replies = (node.replies || []).filter(r => r.post && r.post.record);
+                node.replies.sort((a, b) => new Date(a.post.record.createdAt) - new Date(b.post.record.createdAt));
+                node.replies.forEach(prepareThread);
+            };
+            prepareThread(data.thread);
+
+            commentList.innerHTML = ""; // Efface le texte de chargement
 
               const renderComments = (comments, parentElement) => {
                   comments.forEach(reply => {
@@ -114,7 +121,7 @@
                   });
               };
 
-              renderComments(replies, commentList);
+                renderComments([data.thread], commentList); // post initial + réponses imbriquées
           })
           .catch(error => {
               console.error("Error fetching comments:", error);
